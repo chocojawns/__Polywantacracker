@@ -1,0 +1,2361 @@
+series_id,series_title,category,events,markets,dollar_volume
+11433,FIFA World Cup,Sports,832,28632,5718162307.812752
+10684,BTC Up or Down 5m,Crypto,66542,66542,5062127089.926205
+10345,NBA 2026,Sports,1571,48458,4636044242.442257
+35,FOMC,Politics,19,82,3500315992.6700454
+3,MLB,Sports,7990,71794,2825373937.276238
+10311,League of Legends,Sports,3508,51003,2802741937.406042
+10192,BTC Up or Down 15m,Crypto,36902,36902,2616458882.901663
+10365,ATP,Sports,10563,75158,2156727607.8249526
+10310,Counter Strike,Sports,11541,69153,2041835522.782919
+10000,Elon Tweets,Politics,145,3596,1335517753.76416
+45,BTC Multi Strikes Weekly,Crypto,484,4517,1315070108.215265
+10309,Dota 2,Sports,3002,41055,1237236295.2277448
+10016,Bitcoin Hit Price Monthly,Crypto,25,545,1227713905.2318518
+10188,Premier League 2025,Sports,1741,13319,1204197279.3879774
+10187,NFL 2025,Sports,285,9656,1138738507.3855531
+10366,WTA,Sports,5429,42473,1138313435.9995058
+10346,NHL 2026,Sports,1585,7599,1111412188.413782
+10114,BTC Up or Down Hourly,Crypto,11903,11903,1012683952.80493
+10204,UEFA Champions League 2025,Sports,1458,13665,834753429.3315725
+10193,La Liga 2025,Sports,1914,14419,762506733.2063392
+10191,ETH Up or Down 15m,Crypto,36569,36569,703148999.914174
+10470,NCAA CBB,Sports,6192,26036,645449889.6535591
+2,NBA,Sports,2094,3181,638244854.61018
+12185,NFL 2026,Sports,315,16384,617635959.41705
+10127,US strikes iran,Politics,16,99,604494236.919363
+10203,Serie A 2025,Sports,1713,12383,459778482.447167
+10210,CFB 2025,Sports,828,4559,455975058.52819
+10683,ETH Up or Down 5m,Crypto,56182,56182,427154596.8143461
+42,Ethereum Multi Strikes Weekly,Crypto,514,4507,420213194.265827
+10017,Ethereum Hit Price Monthly,Crypto,24,516,418044148.3950399
+10041,Bitcoin Neg Risk Weekly,Crypto,435,4468,388931208.822428
+38,UFC,Sports,684,5700,376931717.4298318
+10117,ETH Up or Down Hourly,Crypto,11572,11572,332901736.720502
+10194,Bundesliga 2025,Sports,1290,9370,322548499.0539589
+41,BTC Up or Down Daily,Crypto,573,573,310185735.781477
+10058,Russia x Ukraine Ceasefire,Politics,20,20,306425342.88483804
+10369,Valorant,Sports,2474,19353,286290854.26467496
+12756,CFB 2026,Sports,1119,22115,278355921.754474
+10195,Ligue 1 2025,Sports,1401,9451,277160873.917853
+10134,iran regime,Politics,13,13,270653389.4269672
+10030,Best AI Company,Unknown,25,298,236982465.89301822
+10126,Khamenei out,Politics,8,9,229150233.106363
+10209,UEFA Europa League 2025,Sports,1349,11476,228171315.114078
+12012,Wimbledon,Sports,742,6694,226284264.8476432
+11446,UEFA Nations League,Sports,751,8971,211138956.618065
+10816,Elon Tweets 48H,Politics,125,1231,204039372.70359
+10423,SOL Up or Down 15m,Crypto,32410,32410,197437568.232165
+10189,MLS 2025,Sports,2769,22099,190299214.16142303
+10105,WNBA,Sports,680,5708,184506307.92251998
+1,NFL,Sports,510,553,183212265.095941
+10662,Govt Shutdown By?,Politics,4,4,171305020.49920198
+10686,SOL Up or Down 5m,Crypto,53114,53114,166672062.413169
+11213,Indian Premier League,Sports,293,848,159897861.419249
+10238,Fifa Friendly,Sports,1124,9129,155755719.41900802
+10820,Crude Oil (CL) hit__,Finance,9,264,153025720.60024393
+10422,XRP Up or Down 15m,Crypto,32300,32300,149481147.856074
+10151,Bitcoin Hit Price Weekly,Crypto,69,964,148985885.593027
+11492,Hormuz Traffic Returns to Normal,Unknown,5,5,146769837.80986324
+10122,Solana Up or Down Hourly,Crypto,11410,11410,145873903.917708
+10029,Largest Company,Finance,12,92,145592624.60753503
+10065,Ethereum Neg Risk Weekly,Crypto,437,4474,142713764.10359
+10058,Russia x Ukraine Ceasefire,Unknown,1,1,141250712.68070313
+11634,ITF,Sports,23275,62932,139588066.524324
+10311,League of Legends,Unknown,57,107,138781727.061932
+40,ETH Up or Down Daily,Crypto,560,560,138612297.511982
+10747,Bucharest Flip,Unknown,2,24,134465769.724498
+10032,Solana Hit Price Monthly,Crypto,26,424,133496116.82257901
+10158,Netanyahu out,Politics,3,11,125884254.4213446
+10528,International Cricket,Sports,2578,5983,123827612.40337001
+10123,XRP Up or Down Hourly,Crypto,11216,11216,122627199.501175
+10359,Brazil Serie A,Sports,1509,12068,122183194.724648
+10022,Solana Multi Strikes Weekly,Crypto,444,4331,115927783.092589
+10000,Elon Tweets,Culture,39,456,107445667.773047
+11145,US x Iran diplomatic meeting,Politics,7,71,106824053.86900187
+10355,EFL Championship,Sports,1738,11117,103204684.841507
+10150,Xi Jinping out,Unknown,4,4,103077957.392798
+10006,London Daily Weather,Weather,631,5271,98933733.860137
+11492,Hormuz Traffic Returns to Normal,Politics,9,10,98711152.07713197
+10290,Liga MX 2025,Sports,1313,10259,98531945.076273
+10685,XRP Up or Down 5m,Crypto,50248,50248,98191592.38900101
+10200,Bitcoin Hit Price Daily,Crypto,227,3390,95238968.29874898
+35,FOMC,Unknown,12,47,95035617.871034
+10312,Primera División Argentina,Sports,1838,14209,92348493.747953
+10361,Saudi Professional League,Sports,1107,7477,90772126.27911301
+10029,Largest Company,Unknown,14,74,89326565.41553399
+10839,US x Venezuela military engagement,Politics,1,27,87408771.528641
+10437,Europa Conference League,Sports,1814,16318,86762543.92927998
+10171,China invade Taiwan,Politics,7,7,86580718.29657775
+10820,Crude Oil (CL) hit__,Unknown,2,33,84294818.95835087
+36,EPL,Sports,374,1122,84008384.142314
+10135,US to invade Iran,Politics,4,4,83187186.262862
+10005,NYC Daily Weather,Weather,629,5275,80957901.503485
+46,Box Office Openings,Culture,261,1295,77208146.837419
+11152,US next strikes Iran on,Politics,2,63,75691615.77551198
+10330,Primeira Liga,Sports,927,6318,72815750.869974
+10292,Süper Lig 2025,Sports,928,6109,72384928.431088
+10903,Jesus Christ return,Culture,2,2,70000865.97301601
+10237,Trump out,Politics,10,10,68713809.46610461
+10286,Eredivisie 2025,Sports,1059,7460,68190688.123339
+10243,UEF Qualifiers,Sports,169,531,66635559.86520498
+10425,world leader out,Politics,1,20,64368638.757478
+10107,Solana Neg Risk Weekly,Crypto,422,4379,63794256.352417
+10039,XRP Hit Price Monthly,Crypto,23,372,61003253.043741
+10152,Ethereum Hit Price Weekly,Crypto,68,954,60961060.200156994
+10439,Chinese Super League,Sports,960,7940,60275994.24441599
+10742,Seoul Daily Weather,Weather,311,3055,59175746.844043
+10738,Time + Derivatives,Culture,3,18,57462504.633853
+10672,La Liga 2,Sports,1338,9437,55438435.472944
+10331,BTC Up or Down 4h,Crypto,2107,2107,55229002.983481996
+10024,XRP Multi Strikes Weekly,Crypto,427,4236,54311168.479675
+10125,israel x iran ceasefire,Politics,2,2,52429087.352314994
+10786,Africa Cup of Nations,Sports,74,268,50982472.953815
+10126,Khamenei out,Unknown,1,1,49748804.334599
+10061,MrBeast views day 1,Culture,123,851,49205249.063779
+10103,Bitcoin Neg Risk 4H,Crypto,224,1208,48604030.852917
+11312,Hong Kong Daily Weather,Weather,221,2409,48306804.710546
+10108,Israel strike iran,Politics,24,24,44786836.586909994
+10289,Copa Libertadores 2025,Sports,498,3717,44358124.095042996
+10670,Bundesliga 2,Sports,823,5941,43828482.921143
+10060,Israel x Hamas ceasefire,Politics,13,13,43755890.169199
+10360,Japan J League,Sports,1147,9148,42811997.343809
+10314,FA Cup,Sports,1325,6005,42577140.80525804
+10347,Trump talk monthly,Politics,14,288,42360268.46843
+10339,Second Largest Company,Finance,13,103,41779396.94577601
+10348,Shutdown ends (neg),Culture,1,10,40223767.36621
+10291,Copa Sudamericana 2025,Sports,581,4656,39942867.111031
+10521,Putin out as President,Politics,3,7,37803053.847943
+10892,geenland deriv,Politics,2,3,37281569.83050001
+10362,Norway Eliteserien,Sports,903,6870,37163292.09865099
+10181,elon tweet daily,Politics,48,709,37120818.01648801
+10036,MSTR weeklies,Crypto,85,85,36539693.277797006
+12792,US-Iran ceasefire continues,Politics,3,27,35875909.142301
+10741,Shanghai Daily Weather,Weather,222,2400,35474579.719219
+10329,EFL Cup,Sports,525,4328,35392610.282693006
+10383,SPX Daily Up or Down,Finance,243,243,35150160.152661994
+11449,Leagues Cup,Sports,411,3751,34628911.170660004
+10438,A League Soccer,Sports,322,1841,34171139.260594
+11417,Military action against Iran ends by,Unknown,2,40,33060925.913712032
+10086,Solana Up or Down Daily,Crypto,515,515,32624334.590057
+12410,Club Friendlies,Sports,1396,11996,32397185.878309
+10805,Will Silver (SI) hit__,Finance,4,81,32180411.563799996
+11006,U.S. anti-cartel ground operation in Mexico,Politics,2,3,31837707.046958
+10885,next country us strike,Politics,8,96,31327659.610542
+10247,XRP Neg Risk Weekly,Crypto,389,4172,31153079.362907
+10321,MrBeast views week 1,Culture,39,265,30763252.868045
+10444,K-league,Sports,845,7178,30432382.020868
+11168,Paris Daily Weather,Weather,246,2577,30072308.253988
+10050,CBB,Sports,70,70,29601641.160485
+10140,US declares war on Iran,Politics,4,6,29344616.917986985
+10060,Israel x Hamas ceasefire,Unknown,9,9,29341427.600616
+10104,Ethereum Neg Risk 4H,Crypto,213,1108,28796106.223373
+10973,Brazil Serie B,Sports,1408,10150,28563409.118759
+11074,Shutdown ends,Politics,4,38,27261510.135069
+10802,What will Gold (GC) hit__,Finance,5,94,26904386.502307013
+10964,Primera A,Sports,951,6437,26783928.974837
+10316,Copa del Rey,Sports,339,1373,26454161.79055801
+11637,Sweden Allsvenskan 2026,Sports,749,6443,26394734.575562
+11622,Trump agree Iran,Politics,3,13,26015591.844897017
+10902,Wellington Daily Weather,Weather,270,2743,25703560.727922
+11496,qatarenergy,Politics,1,1,25495050.864901926
+10363,Denmark Superliga,Sports,654,4867,25489752.539653998
+10003,UEFA Champions League,Sports,37,111,25222046.946325
+10676,Serie B,Sports,921,5537,23868992.802117
+10571,Trump Declassifies UFO,Politics,13,37,23595955.089638997
+11523,where US-Iran meeting,Politics,3,57,23571174.01232604
+11136,Men's Winter Olympics Hockey,Sports,30,42,23524857.293873
+10945,SPX Open Daily Up or Down,Finance,176,176,23293783.521201003
+10717,honduran deriv,Politics,2,6,23257271.705861
+11325,DOGE Up or Down 5m,Crypto,41491,41491,23182719.898076
+10800,named in newly released Epstein files,Unknown,2,84,22776434.397419002
+10592,Putin x Zelenskyy Where Next,Politics,3,57,22731600.722114
+10842,Next leader out,Politics,5,123,22730631.137737
+11297,Ethereum Hit Price Daily,Crypto,218,2950,22650694.342072
+11418,Military action against Iran ends on,Unknown,2,40,22604113.24601
+10146,nuclear deal,Politics,8,8,22550261.329986103
+10740,Tokyo Daily Weather,Weather,225,2406,22476879.883373
+10657,Biggest Opening Weekend,Culture,4,37,22022922.557046
+11326,BNB Up or Down 5m,Crypto,41317,41317,21828207.559852
+10728,Miami Daily Weather,Weather,269,2744,21801883.372309003
+11363,Beijing Daily Weather,Weather,219,2398,21676419.480772
+10739,Atlanta Daily Weather,Weather,309,3053,21660504.279622
+10727,Dallas Daily Weather,Weather,316,3077,21534076.885339003
+10317,DFB-Pokal,Sports,318,2502,21398264.929179
+10743,Toronto Daily Weather,Weather,315,3064,21222131.905554
+10674,Scottish Premiership,Sports,667,4295,21143618.813137
+10139,Tesla robotaxi,Unknown,6,6,21138508.789085
+10000,Elon Tweets,Unknown,7,85,21029260.422166
+11366,Shenzhen Daily Weather,Weather,220,2396,20776320.790097002
+10885,next country us strike,Unknown,2,24,20402882.890469
+11345,Madrid Daily Weather,Weather,223,2401,19988817.754449002
+10049,Airdrops,Crypto,6,107,19909206.495914992
+10371,Euroleague Basketball,Sports,422,502,19777614.967071
+10170,Solana Hit Price Weekly,Crypto,66,891,19700606.554165
+10726,Chicago Daily Weather,Weather,268,2744,19700506.327463
+10734,Seattle Daily Weather,Weather,315,3046,19698604.866525
+11193,enrichment of uranium,Politics,5,5,19403939.04006492
+10900,Ankara Daily Weather,Weather,270,2750,19105660.696957
+11272,Munich Daily Weather,Weather,226,2407,19053038.655286
+10818,Israel strike Lebanon on,Politics,3,123,18760580.630692
+10332,ETH Up or Down 4h,Crypto,2131,2131,18694176.992352962
+10002,CFB,Sports,121,121,18575036.110906
+10100,XRP Up or Down Daily,Crypto,507,507,18351606.927961
+10338,anti-cartel operation,Politics,13,22,18049096.243609004
+10956,Texas Senate Primary Deriv,Politics,2,6,18025072.604118325
+10744,Buenos Aires Daily Weather,Weather,311,3026,17872905.155271
+10655,Highest Grossing Movie,Culture,1,14,17818080.048577
+10154,powell out,Politics,4,4,17254136.787527
+11346,Taipei Daily Weather,Weather,221,2405,16962906.49901
+10976,PGA Tour,Sports,98,6329,16813831.389484998
+10287,Coppa Italia 2025,Sports,205,1651,16586448.875774998
+11365,Chengdu Daily Weather,Weather,218,2391,16135627.720372
+11314,Singapore Daily Weather,Weather,223,2401,15993005.166433001
+10079,eth ath,Crypto,10,10,15969355.049228001
+11644,AFC Champions League Elite 2026,Sports,267,2552,15832005.189171001
+10131,Strait of Hormuz,Politics,4,5,15401100.752219997
+10443,Japan J2 League,Sports,1480,9826,15385610.929231001
+11370,Los Angeles Daily Weather,Weather,217,2387,15299488.177894
+10474,Bank of Japan,Unknown,9,40,15166919.731547002
+10010,Trump Daily EOs,Politics,79,193,15114906.764657
+10344,trump monthly meeting,Politics,15,255,15097758.369797999
+10814,Thailand strikes Cambodia,Unknown,2,2,15066736.536449
+11403,Which countries will conduct military action against Iran,Unknown,2,26,15018350.431865001
+10675,Ligue 2,Sports,864,5712,14791836.0937
+10007,US Annual Inflation ,Unknown,21,162,14690614.453216996
+11416,Iran military action against ___,Unknown,2,61,14548039.866673
+10061,MrBeast views day 1,Unknown,6,44,14486195.360015
+10875,CBA,Sports,318,415,14381944.789268998
+11108,Trump Truth Social,Politics,75,790,14143537.374109
+10615,TikTok Sale,Unknown,1,5,13968361.706799
+11343,Milan Daily Weather,Weather,225,2406,13932513.366958002
+10819,Israel strike Gaza on,Politics,4,123,13857348.01843
+11372,Bitcoin Multi Strikes Hourly,Crypto,4929,66024,13647618.110971
+10112,measles,Science,25,135,13588532.489999996
+11362,Chongqing Daily Weather,Weather,220,2395,13581463.361452
+10075,Dogecoin Hit Price Monthly,Crypto,20,136,13458326.415481
+10026,Temperature Increase,Science,11,59,13447681.137438
+11529,Guangzhou Daily Weather,Weather,200,2200,13423737.132704
+11169,Sao Paulo Daily Weather,Weather,244,2533,13353167.732578
+10297,Top AI Company (Style on),Unknown,16,237,13140217.754300999
+10082,Hyperliquid Hit Price Monthly,Crypto,15,228,12985769.957926
+12251,Box Office Total Gross,Culture,9,59,12799043.329003
+10013,ECB Interest Rates,Unknown,10,45,12723678.07927
+11407, __ ships transit the Strait of Hormuz on any day,Unknown,8,39,12621928.623624008
+10838,US forces in Venezuela,Politics,2,10,12540439.029971022
+10525,Deportation Count,Politics,2,19,12525303.521572
+11507,Amsterdam Daily Weather,Weather,212,2332,12467358.447501
+11364,Wuhan Daily Weather,Weather,219,2390,12442917.875386
+10760,OpenAI new model,Unknown,2,27,12336334.592393
+10526,Gold Card,Politics,7,23,12309022.030539
+11460,Copa do Brasil,Sports,263,2167,12172536.526312
+11327,HYPE Up or Down 5m,Crypto,37505,37505,12167823.641724
+10673,Concacaf Nations League,Sports,368,3791,12131738.347543001
+10969,Egypt 1,Sports,673,3539,11972710.127202
+11342,Warsaw Daily Weather,Weather,222,2403,11757817.630015
+10055,MSTR holdings,Crypto,13,13,11742435.479751
+11371,San Francisco Daily Weather,Weather,218,2386,11597807.340270001
+10202,Bitcoin Multi Strikes 4H,Crypto,183,1417,11310963.816661
+11295,Tel Aviv Daily Weather,Weather,226,2418,11310663.825629
+10971,Romania 1,Sports,730,4394,11245595.815127
+11491,Fed Rate Hike,Unknown,2,2,11208686.641474996
+11804,Trump-Putin Meet where,Politics,2,30,11202291.90767001
+11426,Moscow Daily Weather,Weather,215,2361,11065184.949675001
+10730,Denver Daily Weather,Weather,219,2395,10891410.848307
+10370,KBO,Sports,744,744,10833549.89433
+11510,Kuala Lumpur Daily Weather,Weather,212,2327,10754323.319967
+11506,Busan Daily Weather,Weather,212,2330,10659440.149266
+10295,Second Best AI Company,Unknown,16,240,10648003.292777002
+10239,XRP Hit Price Weekly,Crypto,58,794,10580661.497182
+10914,Fra/UK/Ger Strike Iran,Unknown,3,3,10526421.159524212
+11240,Women's Champions League,Sports,549,4812,10491089.901894
+11508,Helsinki Daily Weather,Weather,212,2332,10462251.904751
+10236,Trump resign,Politics,3,3,10441927.809709001
+11367,Austin Daily Weather,Weather,216,2375,10399235.469305001
+11427,Istanbul Daily Weather,Weather,216,2376,10305603.863804001
+11271,Lucknow Daily Weather,Weather,227,2410,10186075.044076001
+10348,Shutdown ends (neg),Politics,4,41,10143408.003283001
+10190,trump meet Putin,Politics,4,28,10103389.237615999
+10965,Primera Division,Sports,630,3445,9977188.213048
+11369,Houston Daily Weather,Weather,218,2387,9931084.920883
+12358,FA Community Shield,Sports,7,71,9901851.565760002
+10037,UEL,Sports,36,108,9686130.736398
+10967,Liga 1,Sports,790,4698,9672171.377569
+11134,IPO Closing Market Cap,Finance,58,394,9636420.081532
+11303,SPY Daily Up or Down,Finance,149,149,9590053.336193997
+10146,nuclear deal,Unknown,2,2,9415193.923097903
+10792,3rd largest company,Finance,13,107,9287352.502652
+11328,DOGE Up or Down 15m,Crypto,19722,19722,9286255.709978
+10333,SOL Up or Down 4H,Crypto,2052,2052,9206730.694239948
+10166,Trump meet Xi Jinping,Politics,1,1,9134078.220091
+10207,Putin meet Zelenskyy,Politics,5,5,9116798.99584699
+10040,Trump 538 Approval,Politics,86,493,9101426.60195
+10101,MSTR Weekly Strike,Crypto,73,73,8845055.511757001
+11516,Cape Town Daily Weather,Weather,204,2239,8776621.352292
+12224,UEFA Super Cup,Sports,8,122,8694697.646058
+11277,Trump Weekly Mentions,Politics,43,791,8685163.53344
+12174,NBA Summer League,Sports,76,76,8611563.020167002
+10616,Yearly IPOs,Finance,2,60,8537020.910258995
+11330,BNB Up or Down 15m,Crypto,19708,19708,8426071.341688
+10427,Call of Duty,Sports,303,2078,8269212.348184
+10488,How many different countries will Israel strike,Politics,3,23,8267340.174258998
+11546,Hong Kong Daily Lowest Temperature,Weather,189,2063,8245069.009724
+10008,US Monthly Inflation,Unknown,22,136,8116791.989568001
+11373,Ethereum Multi Strikes Hourly,Crypto,4894,55688,8014056.293596
+11428,Mexico City Daily Weather,Weather,213,2340,7904672.407598
+11556,Who Trump insult,Politics,7,213,7771399.905995004
+10322,drug boat,Politics,10,18,7753720.033213
+10026,Temperature Increase,Weather,5,30,7623544.422773
+10327,XRP Up or Down 4H,Crypto,2052,2052,7568179.161558941
+10069,Nothing Ever Happens,Politics,16,16,7557067.9087930005
+10342,Fed 3-Parlay,Unknown,8,63,7556805.294577998
+11590,Qingdao Daily Weather,Weather,188,2061,7504597.867675001
+10035,Egg Prices Monthly,Unknown,17,148,7476715.116072
+10591,First To Leave Trump Cabinet,Politics,6,142,7456607.970627
+11215,T20 Blast,Sports,283,665,7451984.992943
+10523,Trump Countries Visited,Politics,2,44,7410862.4820880005
+10313,Russian Premier League,Sports,736,4767,7379019.545276
+10315,Coupe de France,Sports,225,653,7334177.825666001
+12351,Belgium Pro League,Sports,450,3360,7314461.715097
+10067,10-year Treasur,Finance,6,62,7295062.489363
+10541,Ukraine x Russia Peace Deal,Politics,7,7,7292442.460228004
+10206,OpenAI browser,Unknown,6,6,7264017.062572
+11309,OIL Daily Up or Down,Finance,148,148,7262432.367542
+11531,Manila Daily Weather,Weather,200,2193,7133623.69433
+10025,Hottest Month,Science,9,27,7112774.096202
+11514,Jeddah Daily Weather,Weather,206,2257,7064286.319469
+11435,League One,Sports,1013,6712,7032585.867395
+12348,The Hundred,Sports,52,101,6976553.744781001
+11729,Warships,Unknown,6,73,6913033.700919992
+11653,Anthropic Valuation,Finance,6,63,6885853.436028
+12320,Poland Ekstraklasa,Sports,583,4364,6811409.8282
+11526,WTI Daily Close U/O,Finance,132,1448,6777071.110372
+10172,Zelenskyy out,Politics,6,6,6713521.350497998
+11864,Veikkausliiga,Sports,462,3798,6690398.397746
+11900,SpaceX Starship Flight Test,Science,7,85,6670587.673328001
+10299,Richest person,Culture,4,35,6575056.843971
+11341,Trump Post Weekly,Politics,25,410,6557791.828075995
+10970,Czechia 1,Sports,671,3525,6545997.26752
+11350,ships transit the Strait of Hormuz,Unknown,33,194,6404443.507672001
+10310,Counter Strike,Unknown,311,327,6385159.200736
+10207,Putin meet Zelenskyy,Unknown,7,9,6312605.844587999
+11525,SPY Daily Close U/O,Finance,133,1455,6287854.481109001
+11214,Pakistan Super League,Sports,196,565,6181403.964016996
+10897,U.S. forces seize another oil ship,Politics,7,15,6143267.285098004
+11861,Primera Nacional,Sports,1223,9616,6138305.357117
+10815,Next US x Venezuela military engagement on,Politics,1,39,6115301.538461
+12349,The Hundred Women,Sports,52,100,5916003.575261
+11530,Karachi Daily Weather,Weather,200,2196,5915164.650001001
+12319,Switzerland Super League,Sports,369,2882,5786554.606352
+10863,Spanish Super Cup,Sports,4,14,5725967.7561449995
+10080,btc ath,Crypto,17,17,5660986.623607
+11557,Trump insult on,Politics,7,200,5638945.178203001
+11109,Anthropic IPO,Finance,4,31,5592177.996214002
+10520,US National Bitcoin Reserve,Politics,2,2,5592089.268856
+10076,gdp quarterly,Unknown,9,59,5545241.126224
+10471,CWBB,Sports,4757,4757,5541228.429544
+10208,"Trump, Putin, and Zelensky meet",Politics,5,5,5538538.3528
+10432,Rainbow Six Siege,Sports,1084,2555,5408938.904013
+11895,Mythos released,Unknown,5,51,5384848.888493002
+10893,U.S. strike on Somalia,Politics,10,10,5308212.551786
+10618,Chinese AI #1,Unknown,11,98,5288462.909992
+11509,Panama Daily Weather,Weather,209,2289,5134322.065802
+10482,Nvidia Hit Price Monthly,Finance,14,238,5121017.436924
+11301,Hormuz Transits (neg),Unknown,11,67,5081460.778524001
+11329,HYPE Up or Down 15m,Crypto,18624,18624,5032416.828376
+10109,israel strike iran nuke,Politics,3,3,5025897.729867
+11863,LigaPro Primera A,Sports,525,4203,4994001.017165
+11462,NWSL,Sports,869,6548,4988133.599395
+11534,Seoul Daily Lowest Temperature,Weather,190,2089,4982890.581261
+10899,Israel nuclear weapon use,Politics,1,1,4959389.4935
+10527,Impeachment,Politics,4,6,4894856.353830001
+10584,Weed Rescheduling,Politics,2,6,4855293.049348997
+10231,Ethereum Multi Strikes 4H,Crypto,165,1222,4837600.078496
+10843,new album,Culture,2,32,4782515.705401
+10530,Trump administration resignations,Politics,2,33,4779177.653991
+11408,Israel military action against Lebanon,Unknown,4,75,4766487.687169026
+11536,NYC Daily Lowest Temperature,Weather,191,2083,4654678.423233001
+12353,Netherlands Eerste Divisie,Sports,567,4786,4609373.925036
+10700,khl-2026,Sports,637,637,4585723.964186
+11335,Whitehouse Daily Tweets,Politics,65,703,4585375.219333
+10078,Sol ath,Crypto,5,5,4522309.798738
+11533,Shanghai Daily Lowest Temperature,Weather,190,2079,4518236.7838240005
+11479,Hungary Election MOV,Politics,2,15,4502375.722666001
+10547,Hezbollah Disarm,Politics,2,4,4456244.260632998
+10587,China Bitcoin Ban,Crypto,3,3,4443327.400418
+12598,Indonesia Liga 1,Sports,312,2209,4435499.203901
+10434,Honor of Kings,Sports,1034,6426,4396970.658325
+10240,CAF,Sports,107,321,4396704.586988
+11445,National League,Sports,1037,6791,4330223.589206
+10966, Bolivia 1,Sports,630,3639,4328207.915537
+11241,Ukraine Premier Liha,Sports,612,4445,4319678.447833
+12683,German Super Cup,Sports,8,155,4280606.916514
+12362,Turkey 1. Lig,Sports,546,4141,4269720.707536
+11221,Major League Cricket,Sports,61,123,4253543.838518999
+10827,hottest year on record,Science,1,1,4200250.672133
+10752,Cricket Australia,Sports,185,545,4190995.026515
+10415,#1 Free App,Unknown,9,76,4066505.0207950003
+10874,KBL,Sports,151,217,4052633.0528919995
+10533,Ukraine Not NATO,Politics,4,4,3949967.046342998
+11491,Fed Rate Hike,Finance,1,5,3931762.2456039987
+11897,Russia x Ukraine diplomatic meeting,Unknown,2,13,3900329.893214
+10803,What will Gold (GC) settle at,Finance,4,36,3850739.480223
+10426,Mobile Legends: Bang Bang,Sports,915,3785,3833579.282428
+11636,Austria Bundesliga 2026,Sports,367,2681,3818794.047416
+10481,Tesla Hit Price Monthly,Finance,14,242,3806388.9046
+10529,Israel x Saudi Arabia relations,Politics,2,2,3806129.945098
+10479,Google Hit Price Monthly,Finance,14,247,3795400.383355
+11298,Solana Hit Price Daily,Crypto,222,2091,3776368.327522995
+10711,Third Best AI Company,Unknown,13,208,3775975.4787199995
+10957,Maine Senate Primary Deriv,Politics,2,8,3754852.242768003
+11600,Companies with #1 AI,Unknown,3,36,3753997.917674
+12780,GTA VI Extended Look Views,Culture,7,57,3732614.3531040004
+11629,Russia Enter Group,Unknown,4,30,3719229.905598003
+11816,Which countries recognize Israel,Politics,1,15,3718716.892612036
+11532,London Daily Lowest Temperature,Weather,191,2083,3715473.807124
+10440,Top Netflix Show Week,Culture,52,416,3677742.0125680002
+11410,Iran military action against Israel,Unknown,2,18,3619636.320461002
+11632,ATP Doubles,Sports,2431,7891,3611280.292992
+11880,China League 1,Sports,456,3694,3598629.593114
+11535,Tokyo Daily Lowest Temperature,Weather,190,2089,3542054.4460070003
+2,NBA,NBA Playoffs,126,126,3532672.36
+10653,China x Taiwan Clash,Unknown,1,1,3493956.344853
+10233,Solana Multi Strikes 4H,Crypto,163,1104,3470576.289776
+10186,NFL Preseason 2025,Sports,48,77,3464703.697086
+10480,Meta Hit Price Monthly,Finance,12,239,3424323.232577
+10968,Morocco 1,Sports,666,4929,3423690.838432
+10878,Liga Endesa,Sports,219,307,3386693.692499
+10027,ECB Rates,Unknown,3,12,3378388.237245
+12854,Africa Cup of Nations Qualifiers,Sports,87,1436,3341263.338659
+11511,Jakarta Daily Weather,Weather,49,539,3328522.591802
+10791,Ukraine strikes another tanker in Black Sea,Politics,3,12,3283341.92291
+10572,Merz Out,Politics,3,9,3273042.0849879994
+10415,#1 Free App,Culture,55,441,3231604.065787
+11355,Pete Hegseth out,Politics,10,10,3208963.013143999
+10497,Meta Multi Strikes Weekly,Finance,177,1206,3205599.458724
+11409,Israel military action against Gaza ,Unknown,2,18,3196973.413688001
+10531,Palestine recognition,Politics,2,24,3192141.048017
+11399,WTI Crude Oil Hit Price Weekly,Finance,31,466,3137915.170767
+11961,World cup mentions,Sports,62,1505,3108430.591747
+11521,GPT-5.5 released,Unknown,2,32,3103833.5642340006
+11881,Primera B (Colombia),Sports,515,4181,3090193.86166
+11457,Greek Cup,Sports,167,1364,3090003.5131940003
+11872,Superettan,Sports,601,4223,3062978.994714
+11621,unrestricted shipping,Politics,3,3,3055241.8939760127
+11110,OpenAI IPO,Finance,2,14,3046963.666317
+12052,(XAUUSD) hit Month,Finance,5,121,3033030.498164
+11436,League Two,Sports,968,6204,3005012.929974
+11846,UEFA Women’s World Cup Qualification,Sports,240,1700,3000675.282743
+10769,Best AI Math,Unknown,2,17,2990966.587823
+11545,Paris Daily Lowest Temperature,Weather,189,2052,2984974.086135
+11412,Hezbollah military action against Israel on,Unknown,2,17,2983617.0281070005
+10772,#1 US Netflix Show,Culture,40,328,2978833.156887
+10761,Will MrBeast hit ___ Million subscribers,Culture,10,59,2975308.130847
+10649,Iran Nuke ,Politics,2,2,2973748.6779440003
+10374,NVDA Daily Up Down,Finance,242,242,2938942.305986
+10876,NBL,Sports,99,187,2936904.408142
+10762,Will MrBeast hit ___ Billion views,Culture,9,73,2919459.7921390003
+10593,nuclear test,Politics,1,1,2903759.525579
+10654,China x Philippines Clash,Unknown,2,2,2895060.1225389964
+10377,GOOGL Daily Up Down,Finance,246,246,2888467.792889
+11868,Superliga (Uzbekistan),Sports,340,2775,2885461.694572
+11451,Prva Liga,Sports,429,2943,2877791.500223
+11968,NPB,Sports,461,461,2863601.846446
+11547,Miami Daily Lowest Temperature,Weather,188,2050,2854168.737719
+10375,TSLA Daily Up Down,Finance,245,245,2850245.860715
+11456,Australia Cup,Sports,191,1893,2824774.145782
+11633,WTA Doubles,Sports,1033,3557,2823794.701632
+10020,Elon Net Worth,Unknown,10,69,2818762.356929
+44,IPL,Sports,44,44,2817553.733329
+10807,Ukraine cede territory,Politics,2,5,2802112.033896
+10499,Nvidia Multi Strikes Weekly,Finance,50,585,2791612.171057
+10472,Bank of England decision,Unknown,10,41,2776628.570358001
+10817,Epstein Alive,Politics,2,2,2761548.899086
+10108,Israel strike iran,Unknown,5,5,2751912.7167060003
+11287,DOGE Up or Down Hourly,Crypto,5172,5172,2737912.580346
+12057,Claude Opus released,Unknown,5,58,2736230.754395
+11910,(XAGUSD) hit Month,Finance,7,170,2726093.640069
+11515,Lagos Daily Weather,Weather,37,407,2711401.912161
+11389,SPY Hit Price Weekly,Finance,31,498,2710284.678739
+10538,Trump Approval Rating Floor,Politics,3,18,2689014.280382
+10031,Powell mentions,Unknown,2,31,2684184.164369001
+11269,Kharg Island oil terminal be hit,Unknown,2,4,2681827.255786002
+10586,TikTok Ban,Politics,4,4,2672380.063096
+11144,Seguro win districts,Politics,2,2,2647049.706298
+10779,TSA Daily,Politics,96,546,2646969.863127
+10844,6.5 Earthquake Weekly,Science,27,188,2645653.153974
+10688,BNB Hit Price Monthly,Crypto,13,140,2637290.765011
+11874,Virslīga,Sports,258,1956,2588523.6882680003
+10953,NVDA Multi Strikes Weekly,Finance,180,870,2582352.780775
+11493,Houthi military action against Israel,Unknown,4,13,2582242.020945007
+10318,Taiwan blockade,Unknown,3,3,2572233.9797780104
+12318,USL Championship,Sports,912,6261,2567378.412082
+11862,Primera División (Uruguay),Sports,562,4351,2556967.634517
+11871,OBOS-ligaen,Sports,578,4023,2548125.912297
+10232,XRP Multi Strikes 4H,Crypto,148,956,2539621.8033
+10478,Amazon Hit Price Monthly,Finance,14,238,2507414.6704780003
+11111,Bonbast ,Unknown,13,72,2488297.938953
+10475,Dissent at Fed meeting,Politics,7,35,2469196.687136
+11291,BNB Up or Down Hourly,Crypto,5163,5163,2465922.886839
+10854,S&P 500 monthly hit,Finance,5,67,2455689.019316
+11648,IIHF,Sports,62,62,2436704.1966790003
+11555,DeepSeek release,Unknown,2,33,2425693.668188001
+11299,XRP Hit Price Daily,Crypto,221,2074,2425690.333861
+12516,ASEAN Championship,Sports,65,618,2422984.689194
+10448,Lanka Premier League,Sports,50,83,2399766.781851
+12542,US recession by,Unknown,2,2,2392679.8652230003
+10384,Dow Jones Daily Up or Down,Finance,245,245,2378036.19056
+10804,Silver (SI) above ___,Finance,3,36,2358065.073719
+11603,Critical Cloudflare Incident,Politics,6,25,2352849.9617399997
+10608,Abraham Accords New Country,Politics,2,19,2347203.864377
+11617,Who will meet with Iran,Politics,3,15,2343035.7635960025
+10493,Apple Multi Strikes Weekly,Finance,47,576,2320721.414839
+10020,Elon Net Worth,Culture,12,95,2319353.3053180003
+10661,Cricket Test,Sports,6,18,2314240.2869680002
+10500,Netflix Multi Strikes Weekly,Finance,49,594,2302412.470089
+10339,Second Largest Company,Unknown,2,13,2292982.358194
+10380,AAPL Daily Up Down,Finance,242,242,2284676.302795
+10789,seize Venezuela ship,Politics,4,20,2281742.941215
+10962,Greenland Deal,Politics,4,6,2267191.2901539993
+10775,#1 US Netflix Movie,Culture,41,353,2248775.392396
+10425,world leader out,Unknown,1,22,2240017.443359
+10977,Russia strike on Kyiv municipality on,Politics,2,39,2230103.6525520002
+10710,#1 Spotify Song,Culture,41,377,2228210.131077
+11643,Bulgaria Parva Liga 2026,Sports,420,3240,2223170.40241
+11969,Who attend US x Iran meeting,Politics,1,5,2214135.0897660004
+10798,Bank of Russia Decision,Unknown,4,12,2205125.8621839993
+10064,Negative gdp,Unknown,4,4,2195183.86527
+11137,Women's Winter Olympics Hockey,Sports,25,25,2191732.443811
+10045,Solana ETF,Crypto,2,2,2189662.475652
+10678,Kaito,Culture,3,17,2189377.1957890047
+10169,Israel strike Yemen,Politics,12,14,2152049.12932
+10483,Netflix Hit Price Monthly,Finance,14,194,2143689.393055
+10168,Israel strike Syria,Politics,1,2,2138052.535383
+10614,Trump Tariff Dividend,Politics,4,4,2130426.117328
+10806,What will Silver (SI) settle at,Finance,4,36,2126344.4086230006
+10013,ECB Interest Rates,Politics,2,9,2108417.654962
+11194,Judy Shelton Fed Chair Nomination Odds,Politics,2,3,2102093.342866
+11500,Best Math AI,Unknown,9,161,2099889.271697
+10413,Tesla deliveries,Unknown,6,50,2099875.126922
+10512,Netflix Multi Strikes Monthly,Finance,9,107,2097306.145417
+10554,North Korean SK Invasion,Politics,3,3,2088493.583597
+10023,DOGE weeklies,Crypto,24,25,2087695.373936
+11866,Premier Division (Ireland),Sports,344,2537,2085997.416408
+10067,10-year Treasur,Unknown,20,20,2067329.070516
+11638,Israel Premier League 2026,Sports,265,1921,2065058.433226
+12593,Who attend US-Iran peace talks,Politics,2,47,2059664.2133230001
+11008,U.S. recognizes Machado,Politics,2,2,2054507.270672
+10153,Trump try to fire powell,Unknown,1,1,2052017.956162
+10451,ODI,Sports,11,11,2049953.191334
+10653,China x Taiwan Clash,Politics,1,2,2034565.771164
+10496,Google Multi Strikes Weekly,Finance,48,582,2025994.7719090001
+10157,Keon-hee arrest,Politics,3,3,2024237.9688569999
+10949,GOOGL Multi Strikes Weekly,Finance,178,875,2017090.712735
+10053,Trump Monthly EOs,Politics,5,38,2010013.735959
+10519,Gemini Performance,Unknown,1,4,1996532.7059169998
+11967,Next US x Iran meeting,Politics,1,20,1993985.3925720013
+11879,K League 2,Sports,458,3543,1991322.3423900001
+10138,Khamenei,Politics,1,1,1981990.64334
+12970,Gävle Goat,Culture,3,3,1971941.2391559999
+10665,Bank of Brazil decision,Unknown,9,35,1970854.6347429994
+10699,ahl-2026,Sports,922,922,1963449.4238190001
+10488,How many different countries will Israel strike,Unknown,5,22,1953649.8766840002
+10044,Unemployment,Unknown,15,106,1951909.1545550001
+10477,Microsoft Hit Price Monthly,Finance,13,233,1937963.677116
+10773,#2 US Netflix Show,Culture,44,359,1925910.895853
+10948,AMZN Multi Strikes Weekly,Finance,178,876,1925381.634232
+12356,Greece Super League,Sports,285,1950,1922658.082597
+10376,META Daily Up Down,Finance,245,245,1916058.820503
+10113,rotten tomatoes,Culture,62,403,1910773.709169
+10484,Palantir Hit Price Monthly,Finance,12,239,1902917.810146
+11196,White House call a full lid,Politics,50,183,1899999.684291
+11896,SBF Pardon By,Politics,3,3,1896740.4523599995
+10378,AMZN Daily Up Down,Finance,245,245,1893644.105243
+10495,Amazon Multi Strikes Weekly,Finance,48,581,1893269.573368
+11434,Liga Promerica,Sports,412,3155,1889230.119159
+11438,Liga Nacional Guatemala,Sports,589,4521,1872510.914726
+12628,MrBeast Gaming Views,Culture,23,158,1871079.9852830002
+10068,Houthis  end attacks on shipping ,Politics,3,3,1862104.197462
+10511,Nvidia Multi Strikes Monthly,Finance,11,143,1857445.456981
+11652,OpenAI Valuation,Finance,6,68,1851223.6401210001
+12418,Trump Monthly Mentions,Politics,8,228,1851157.8159559928
+11805,Strait of Trump,Politics,3,3,1845459.0207980126
+10946,AAPL Multi Strikes Weekly,Finance,179,879,1845119.594829
+10947,MSFT Multi Strikes Weekly,Finance,180,876,1843055.811139
+10028,Jobs Added,Unknown,17,108,1842178.8377069999
+11010,"France, UK or Germany strike Iran",Unknown,1,1,1834982.734385
+11909,(SPY) hit Month,Finance,6,120,1828528.1002750003
+10753,Cricket South Africa,Sports,130,385,1821096.893308
+10853,strike on Moscow,Unknown,5,12,1815983.133839
+11307,GOLD Daily Up or Down,Finance,148,148,1813321.6986640003
+11869,Brasileiro Série C,Sports,377,3170,1811278.999975
+10723, #3 AI model Style Control On,Unknown,13,206,1797242.1323229999
+10770,Top US Spotify Song,Culture,41,375,1786018.1296
+11413,Iran successfully targets shipping on,Unknown,4,84,1755757.909086
+10724,Monthly Tornadoes US,Science,9,62,1748624.637902
+10537,Lee Jae-myung Arrest,Politics,3,3,1741280.894968
+11216,Caribbean Premier League,Sports,62,105,1712742.31122
+12336,Cycling,Sports,15,460,1708981.5271969999
+10379,MSFT Daily Up Down,Finance,245,245,1706032.234691
+10532,Yoon Prison Sentence,Politics,2,2,1700511.623562
+12745,European T20 Premier League,Sports,49,75,1696461.2722359998
+10250,XRP Neg Risk 4H,Crypto,91,504,1696094.136908
+10441,Top Netflix Movie Week,Culture,49,402,1686942.871024
+10952,TSLA Multi Strikes Weekly,Finance,177,871,1683854.626989
+11466,Germany BBL,Sports,164,257,1681798.913157
+12354,UAE Pro League,Sports,179,1337,1674024.263188
+12355,Qatar Stars League,Sports,190,1526,1672713.250383
+10982,Grok 4.20 Release on,Unknown,3,98,1669343.497364
+10391,PLTR Daily Up or Down,Finance,242,242,1667322.292837
+11524,Praise allah,Politics,12,12,1667155.7795429996
+10658,Starmer PMQs,Politics,26,438,1661283.917363
+11193,enrichment of uranium,Unknown,3,3,1660661.3472369965
+10722,#2 AI model Style Control On,Unknown,13,206,1649941.3267929996
+10610,Bank of Canada decision,Unknown,9,37,1646721.260912
+10476,Apple Hit Price Monthly,Finance,13,229,1645746.554937
+10381,NDX Daily Up or Down,Finance,119,119,1641721.310876
+10498,Tesla Multi Strikes Weekly,Finance,48,581,1634072.474763
+10631,Fed Emergency Rate Cut,Unknown,1,1,1632096.395146
+11865,Besta deild,Sports,369,2779,1627685.291638
+10468,U.S. tariff agreements,Politics,3,30,1617407.087461
+10502,Opendoor Multi Strikes Weekly,Finance,50,555,1615145.532842
+1,NFL,Unknown,89,297,1609308.92
+11490,Crude Oil all time high,Finance,2,2,1604751.2405620015
+12596,Women's Super League,Sports,230,1541,1602120.142402
+10639,NFLX Neg Risk Weekly,Finance,45,493,1599663.1429269998
+12874,World Championship of Legends,Sports,32,48,1595235.365339
+10309,Dota 2,Unknown,100,105,1591764.074819
+10011,Trump Truths,Politics,4,40,1572496.2296799999
+10529,Israel x Saudi Arabia relations,Unknown,3,3,1566834.2882519998
+10713,New Pandemic,Science,2,2,1557518.0316050006
+10505,Apple Multi Strikes Monthly,Finance,11,138,1551517.210003
+10320,Trump meet Musk,Politics,3,8,1542181.9678520001
+10641,OPEN Neg Risk Weekly,Finance,46,484,1537323.778816
+11470,Japan B League,Sports,336,336,1528125.263852
+10048,Ripple ETF,Crypto,3,3,1525538.033313
+10364,Indian Super League,Sports,233,1392,1522239.804709
+10898,Iran strike on US military,Politics,6,6,1515014.329741
+11639,Serbian SuperLiga 2026,Sports,417,2891,1512848.467508
+10494,Microsoft Multi Strikes Weekly,Finance,47,584,1505227.111498
+11347,CZ Tweets,Politics,65,706,1503769.955942
+10445,International T20,Sports,20,20,1501611.1221750001
+10566,Ukraine Joins NATO,Politics,2,2,1501405.9307710005
+10821,Crude Oil (CL) settle,Finance,2,16,1498018.301637
+12783,FIBA Women's World Cup,Sports,36,36,1497305.503353
+10248,Solana Neg Risk 4H,Crypto,102,606,1495502.270065
+12365,Copa Argentina,Sports,73,678,1491243.606628
+10667,house votes epstein #,Politics,2,28,1490815.410231
+10800,named in newly released Epstein files,Politics,1,47,1489199.154002
+10342,Fed 3-Parlay,Finance,2,13,1488472.379598
+10830,How many 7.0 or above earthquakes,Weather,1,7,1482335.4435049994
+11964,STRC Hits 100 By,Crypto,1,5,1478473.688764
+10032,Solana Hit Price Monthly,Politics,1,14,1474178.410306
+11867,Premier League (Kazakhstan),Sports,410,3063,1466775.110232
+11164,NVDA Earnings,Finance,3,3,1461835.965451
+10244,Concacaf,Sports,36,108,1458143.752145
+10652,US x Iran Nuclear Talks,Politics,1,1,1454222.157147
+10611,Bank Failure,Finance,18,18,1447784.9506840003
+10833,Lai Ching-te impeached,Politics,2,3,1447145.8741049967
+10651,US Recognizes Russian Ukraine Sovereignty,Politics,2,4,1432146.7236869999
+10630,Which Artists Will Release Songs,Culture,2,28,1427759.7758310002
+10508,Google Multi Strikes Monthly,Finance,11,137,1422212.922923
+12849,Saudi Arabia military action against Yemen on,Unknown,2,44,1418412.7496180001
+11870,Primera División (Venezuela),Sports,414,3216,1417281.229998
+11153,andrew tate tweets,Politics,5,91,1414806.925172
+10179,maxwell pardon,Politics,3,3,1413300.237962
+10620,Tesla Robotaxi Launch,Unknown,3,3,1413065.496659
+10894,China GDP,Unknown,5,41,1408052.491695
+12367,Metro Bank One Day Cup,Sports,136,176,1400837.098706
+11397,Gold Hit Price Weekly,Finance,31,512,1399296.953346
+12804,FIFA U-20 Women's World Cup,Sports,232,1395,1395388.280949
+10872,Pro A,Sports,174,259,1395170.789236
+10390,NFLX Daily Up or Down,Finance,242,242,1391580.566697
+10382,NIK Daily Up or Down,Finance,230,230,1385261.461584
+10558,NATO Article 5,Politics,5,5,1383001.988679
+11502,Best AI model,Unknown,31,184,1381252.950625
+10550,Abraham Accords New Member,Politics,6,6,1372293.2342300003
+11349,Zelenskyy Tweets,Politics,65,709,1371901.921527
+12544,Canadian Premier League,Sports,228,1833,1371590.685282
+10388,Russell 2000 Daily Up or Down,Finance,240,240,1371424.41512
+10864,Billboard #1 Song,Culture,41,349,1368056.965331
+10128,Iran x Israel conflict ends before July?,Politics,2,2,1365948.2735000001
+10414,#1 Paid App,Culture,52,378,1364429.210679
+11882,Primera B (Chile),Sports,464,3678,1355317.741405
+11275,Rogan Mentions,Culture,15,296,1355071.605927
+11631,Confirmed case of Hantavirus,Culture,3,3,1352585.438572997
+10877,Basketball Series A,Sports,163,228,1343986.5321230001
+10077,xrp ath,Crypto,6,8,1343483.774267
+12359,Trophee des Champions,Sports,7,70,1341831.4188189998
+11340,Khamenei Daily Tweets,Politics,66,832,1313315.562839
+10638,NVDA Neg Risk Weekly,Finance,48,498,1304306.862634
+11999,Discord IPO Market Cap,Finance,2,14,1298003.4467479999
+10013,ECB Interest Rates,Finance,1,5,1297837.620878
+12610,Russia target Kyiv on,Unknown,3,82,1295828.858212
+11398,Silver Hit Price Weekly,Finance,31,537,1295278.863784
+10719,#2 Netflix Show,Culture,42,346,1290091.159936
+10634,AMZN Neg Risk Weekly,Finance,47,499,1286054.69116
+12002,Next Google Gemini Pro Model released on,Unknown,5,157,1282691.540898
+10542,Trump Trade Deal Countries,Politics,2,33,1282000.37173
+11454,Taca de Portugal,Sports,445,3497,1277356.997855
+10387,Hang Seng Daily Up or Down,Finance,240,240,1273842.657959
+10583,Foreign Intervention In Gaza,Politics,2,7,1272093.4001159999
+11640,Hungary NB I 2026,Sports,324,2509,1271952.777926
+10392,OPEN Daily Up or Down,Finance,241,241,1257942.044342
+10766,#2 Free App,Culture,49,391,1257262.058255
+10632,AAPL Neg Risk Weekly,Finance,47,498,1252291.99372
+10501,Palantir Multi Strikes Weekly,Finance,47,598,1220136.803534
+11250,Trump declare war on Iran,Politics,2,4,1219244.1225039994
+11473,FIBA WCQ Asia,Sports,32,54,1218746.7881119996
+11334,Ted Cruz Daily Tweets,Politics,65,694,1214920.145691
+10889,Inflation Argentina - Annual,Unknown,3,21,1207833.304825
+11452,Nike Liga,Sports,497,3208,1207675.206453
+35,FOMC,Business,4,7,1197825.69
+10774,#2 US Netflix Movie,Culture,43,364,1197087.002337
+10836,Max Chatbot Arena,Unknown,4,18,1193388.5989780002
+10510,Tesla Multi Strikes Monthly,Finance,11,142,1192646.634991
+11628,AG announce,Politics,2,29,1191868.8356840021
+10127,US strikes iran,Unknown,1,1,1185190.980067
+10155,epstein files relased,Politics,3,3,1180972.1837829999
+10556,Kim Jong Un Out,Politics,2,2,1180519.864128
+10635,GOOGL Neg Risk Weekly,Finance,47,499,1168923.727917
+11873,Premium Liiga,Sports,306,2206,1168234.007145
+11608,Israel x Lebanon diplomatic meeting,Politics,5,17,1165067.7982629992
+10485,Opendoor Hit Price Monthly,Finance,12,168,1159151.921853
+10145,Trump increase sanctions on Russia before August,Politics,3,3,1154914.027427
+10851,Bank of Israel Decision,Unknown,7,23,1154317.112699
+10534,Elon Party,Politics,2,5,1150462.399794
+10880,Rugby Six Nations,Sports,9,27,1148952.811078
+10535,Poilievre Out,Politics,2,2,1148513.4597709998
+10647,Hezbollah x Israel Strike,Politics,5,5,1145186.508342
+10669,Bank of Mexico Decision,Unknown,6,20,1115022.6145539996
+10568,Canadian Secession Referendum,Politics,2,2,1111715.3873170004
+10153,Trump try to fire powell,Politics,5,5,1104806.616577
+10768,How many SpaceX Starship launches,Science,2,17,1101049.4548
+10983,Gemini Humanity's last exam,Unknown,2,9,1098404.429103
+11308,SILVER Daily Up or Down,Finance,149,149,1097527.683657
+11478,US Gas Hit Price Monthly,Unknown,2,20,1088602.047221
+12407,Earnings Call Mentions,Unknown,46,749,1087063.355423
+3,MLB,Unknown,30,150,1081459.1295600003
+10720,#2 Netflix Movie,Culture,42,350,1081409.925119
+10954,Zuffa,Sports,93,93,1080193.022903
+10633,MSFT Neg Risk Weekly,Finance,47,496,1079752.380548
+10147,Bitcoin Monthly Strikes,Crypto,1,9,1075686.046779
+10668,Ethena Hit Price Monthly,Crypto,13,157,1074170.926808
+11468,Turkey BSL,Sports,110,189,1073762.239554
+10623,AI IMO Gold Medal,Unknown,2,2,1073330.964367
+10798,Bank of Russia Decision,Finance,3,11,1070823.9283959998
+11402,What will Iran conduct military action against,Unknown,2,26,1068730.8013509996
+11450,King Cup,Sports,90,748,1068083.907506
+10007,US Annual Inflation ,Politics,2,9,1063867.42459
+46,Box Office Openings,Pop-Culture ,45,66,1063468.35
+11518,MrBeast Mentions,Culture,14,255,1059706.429724
+10368,Hamas release any hostages,Politics,4,4,1054946.034746
+11348,NYCMayor Tweets,Politics,65,713,1054632.821078
+10845,Lighter Hit Price Monthly,Crypto,2,21,1047974.8684650001
+11474,FIBA WCQ Europe,Sports,56,103,1047501.3307309999
+10055,MSTR holdings,Unknown,1,1,1044112.581857
+10865,Billboard #1 Album,Culture,38,310,1040945.062385
+10782,Companies added to S&P 500,Finance,2,18,1031711.653078
+10487,Airbnb Hit Price Monthly,Finance,9,201,1028577.15651
+10943,COIN Daily Up or Down,Finance,179,179,1028208.142917
+10745,Elon Musk Trillionaire,Unknown,2,2,1028196.6277100001
+10564,US Forces In Gaza,Politics,4,4,1024975.9849410001
+11459,KNVB Beker,Sports,227,1230,1022896.2488969996
+10636,META Neg Risk Weekly,Finance,48,494,1022500.197652
+11380,NVIDIA Hit Price Weekly,Finance,31,503,1017181.194459
+10506,Microsoft Multi Strikes Monthly,Finance,11,134,1016643.733622
+11300,All-In Podcast,Finance,16,274,1006017.264389
+10659,Leavitt Next Briefing,Politics,15,314,1005034.37412
+10169,Israel strike Yemen,Unknown,5,5,1000944.029624
+10063,Yoon Out,Politics,5,5,992459.6085549999
+10045,Solana ETF,Unknown,1,1,984737.607266017
+12949,AFC Champions League Two,Sports,76,554,979611.7310670001
+10913,Internet access restored in Iran,Politics,3,3,977104.087269
+10808,ukraine security guarantee,Politics,3,3,973110.7942170002
+10830,How many 7.0 or above earthquakes,Science,2,14,972774.055314
+10581,Gaza Board Of Peace Establishment,Politics,2,3,971187.232215
+10795,Reserve Bank of Australia Decision,Unknown,7,29,971043.0675550001
+11401,Natural Gas Hit Price Weekly,Finance,31,497,969851.144706
+11900,SpaceX Starship Flight Test,Unknown,2,20,959954.604271
+10435,StarCraft 2,Sports,472,2460,959744.6205369999
+11816,Which countries recognize Israel,Unknown,1,16,957992.716416
+10025,Hottest Month,Weather,4,4,955442.594297
+10536,Obama Divorce,Politics,2,2,947628.241347
+11249,World Baseball Classic,Sports,3,3,945478.4808850004
+10944,HOOD Daily Up or Down,Finance,179,179,944997.786724
+10829,Another 7.0 or above earthquake by,Science,6,15,944646.074581
+10509,Meta Multi Strikes Monthly,Finance,11,141,942545.475053
+11623,OpenAI Debut,Unknown,3,16,933980.03897
+11512,Switzerland Referenda,Politics,3,8,933332.4250649997
+10907,Cricket U19 World Cup,Sports,58,112,932694.933766
+2,NBA,Unknown,139,455,930813.35
+10545,Israel x Lebanon Relations,Politics,2,2,928920.782601
+10587,China Bitcoin Ban,Politics,1,1,926083.369954
+10042,Trump negative approval,Politics,4,4,923159.395054
+11386,Coinbase Hit Price Weekly,Finance,31,610,922924.746897
+11464,CONCACAF Champions Cup,Sports,20,123,915735.6513709993
+10640,PLTR Neg Risk Weekly,Finance,47,492,914878.080108
+10677,Dept of Education End,Politics,2,2,913921.878013
+10034,Trump Positive Favorability,Politics,5,5,912744.579285
+12826,Davis Cup,Sports,27,27,909458.149971
+11112,GPU Rental Prices,Finance,2,23,906891.0849259999
+10637,TSLA Neg Risk Weekly,Finance,46,493,903311.222683
+10553,Russian Slovainsk Capture,Politics,2,3,896387.5594129992
+12183,Houthis target shipping,Unknown,4,23,892684.8871280001
+10507,Amazon Multi Strikes Monthly,Finance,11,138,886518.571058
+10031,Powell mentions,Politics,1,16,884825.5701499999
+10430,Overwatch,Sports,513,1381,883137.264899
+10617,Musk Out as Tesla CEO,Finance,2,2,882347.5632509999
+11390,EWY Hit Price Weekly,Finance,31,661,878250.99644
+10801,Gold (GC) above ___,Finance,4,48,878140.3557549999
+11379,Tesla Hit Price Weekly,Finance,31,521,877271.233256
+11149,Trump and Netanyahu shake hands,Politics,3,21,876230.327142
+10372,123Hottest month on record,Science,2,8,874699.896453
+12692,NATO downs Russian drone,Politics,5,13,874249.1826219999
+10707,Russia strike on Kyiv,Politics,8,29,873759.327275
+12597,Thai League 1,Sports,173,1009,871938.424602
+10908,Cricket Women Premier League,Sports,40,118,869812.699085
+12599,Indonesia Liga 2,Sports,170,1333,862484.234071
+11195,HGV Earnings,Finance,5,5,861511.197185
+10879,Basketball Champions League,Sports,104,104,861278.921602
+10173,Erdoğan out,Politics,2,3,857528.8823850001
+10578,Iran NPT Withdrawal,Politics,3,3,849136.9175830001
+12322,China FA Cup,Sports,19,165,845478.2260660001
+10412,Ethereum ETF Flows Daily,Crypto,237,237,845455.190953
+10540,National Ethereum Reserve,Politics,2,2,843762.451964
+12366,Global Super League,Sports,21,31,838832.955224
+11455,OFB Cup,Sports,263,2092,832818.958023
+11378,Meta Hit Price Weekly,Finance,31,559,831456.9402140001
+12889,Liga de Expansión MX,Sports,82,635,828433.155601
+11377,Google Hit Price Weekly,Finance,31,508,811315.822733
+12360,South Africa Premiership,Sports,298,2202,810342.799247
+11374,Apple Hit Price Weekly,Finance,31,512,807818.435699
+11265,times will the US strike Somalia,Unknown,1,6,807582.9646400001
+10754,Cricket UAE,Sports,64,168,805636.59221
+12011,Iran targets shipping by,Unknown,4,19,804983.7816100002
+10539,Russian Sovereignty (Crimea),Politics,1,1,801266.380276
+11289,HYPE Up or Down Hourly,Crypto,5021,5021,797254.795633
+10103,Bitcoin Neg Risk 4H,Unknown,1,5,793377.791489
+10844,6.5 Earthquake Weekly,Weather,12,84,793027.5901050001
+10998,Seattle Precipitation,Science,6,42,788309.9027160001
+10716,TSA passengers,Politics,19,107,784046.67431
+11387,Robinhood Hit Price Weekly,Finance,31,536,781910.319164
+10832,Flu Hospitalization Rate Week,Science,33,167,779798.330847
+10047,DOGE ETF,Finance,1,1,778900.653867001
+11839,CFL,Sports,82,172,776861.294111
+11385,Airbnb Hit Price Weekly,Finance,31,545,775771.046893
+11382,Palantir Hit Price Weekly,Finance,31,552,773476.986713
+11352,Israel strike Greater Beirut,Unknown,3,20,771942.7110729999
+12321,Scotland League Cup,Sports,164,1486,769594.361842
+12547,Azerbaijan Premier League,Sports,215,1512,765241.628255
+10047,DOGE ETF,Crypto,2,2,764463.8675899999
+11641,Slovenia PrvaLiga 2026,Sports,293,2064,762937.149208
+10340,Megaquake,Weather,8,8,759220.2632559999
+11311,NATURAL GAS Daily Up or Down,Finance,149,149,756963.6817610001
+10486,Rocket Lab Hit Price Monthly,Finance,8,162,755696.628038
+10116,Trump epstein,Politics,2,2,752451.6278359999
+10028,Jobs Added,Politics,5,28,751638.136656
+11376,Amazon Hit Price Weekly,Finance,31,505,749752.756449
+10544,Ukraine Surrender Donbas,Politics,2,4,749386.032143
+11908,(NG) hit Month,Finance,3,42,745538.5854340001
+10386,DAX Daily Up or Down,Finance,242,242,744587.67206
+10433,Rocket League,Sports,269,1506,727429.251012
+10168,Israel strike Syria,Unknown,3,3,721275.814703
+12001,Waymo operate,Unknown,2,15,713552.6567149999
+11375,Microsoft Hit Price Weekly,Finance,31,504,698872.964037
+10695,SHL 2026,Sports,296,296,696513.397961
+11807,US x China Tariff Agreement?,Politics,5,7,694642.5784599999
+10385,FTSE 100 Daily Up or Down,Finance,240,240,694625.771205
+10442,North Korea missile launch,Unknown,14,14,694160.758052
+10702,cehl-2026,Sports,303,303,693955.4599
+10395,NYA,Finance,237,237,691851.1850609999
+11537,Claude 4.7 released,Unknown,2,22,689013.963249
+10696,Chainlink Hit Price Monthly,Crypto,12,147,687013.916093
+4,NHL,Sports,175,455,686440.47
+12363,USL League One,Sports,400,2742,685187.467109
+11814,Claude 4.8,Unknown,1,4,681123.8267339999
+11517,Which banks will fail,Finance,2,38,678254.7330410002
+10549,Putin x Zelenskyy Handshake,Politics,2,4,677482.0592789999
+10149,Ethereum Monthly Strikes,Crypto,1,11,677350.870994
+10059,North Korea missile test,Unknown,10,31,670757.026853
+10062,MLB Games,Sports,6,78,661560.285062
+10457,COMEX Gold Futures Daily Up or Down,Finance,63,63,659129.887285
+11480,chess,Sports,108,321,656124.149435
+11645,F.03 Robot,Science,4,16,654024.8335310001
+10040,Trump 538 Approval,Unknown,2,16,653464.875016
+12891,3. Liga,Sports,119,829,648669.8982459999
+11831,Trump Praise,Politics,5,104,645509.11018
+12333,Warsh Mentions,Politics,4,110,643877.100283
+11384,Rocket Lab Hit Price Weekly,Finance,31,522,636150.622909
+12328,First Week Album Sales,Culture,20,130,628532.0431830001
+11907,best AI Agent,Unknown,7,122,627663.501771
+10546,Milei Out,Politics,2,2,619706.901571
+11265,times will the US strike Somalia,Politics,1,3,618615.4002300003
+10067,10-year Treasur,Politics,3,17,615869.448282
+10814,Thailand strikes Cambodia,Politics,5,7,613746.9945849996
+10796,Bank of Korea decision,Unknown,6,24,611925.6803530001
+11331,DOGE Up or Down 4h,Crypto,1290,1290,606835.752135
+10414,#1 Paid App,Unknown,7,52,606697.882827
+10648,Modi Out,Politics,3,3,604358.456876
+10785,ACA premium tax credits,Politics,2,2,603193.773365
+10129,Israel declares war,Politics,2,2,600440.813783
+10790,Central Bank of Colombia Decision,Unknown,9,35,600315.020923
+10997,NY Precipitation,Science,6,36,596874.530228
+11811,Micron Hit Price Weekly,Finance,22,369,595237.84209
+10130,Iran declares war,Politics,2,2,594717.385431
+12361,Paraguay Primera División,Sports,69,464,589437.094522
+10867,release any more Epstein related files,Politics,2,8,587494.130407
+11209,ChatGPT Outage,Unknown,7,16,577802.643241
+11332,BNB Up or Down 4h,Crypto,1282,1282,574540.179858
+11875,A Lyga,Sports,201,1532,571162.007418
+12020,Databricks IPO Closing Market Cap,Finance,2,17,570513.7414449998
+12578,Boxing,Sports,77,77,562883.880975
+10514,Opendoor Multi Strikes Monthly,Finance,9,106,560063.29938
+10873,LNB,Sports,234,295,559330.631816
+11520,US Crude Reserves,Unknown,1,6,559144.0234139998
+11497,best Coding AI,Unknown,4,58,554615.367388
+12881,Ukraine target Moscow on,Unknown,2,37,551428.498397
+10518,2025 FIDE World Cup,Sports,3,82,549031.900385
+11884,EuroCup,Sports,80,203,548412.891347
+12229,Best Code Arena WebDev AI,Unknown,5,79,540170.671953
+11009,U.S. evacuates Baghdad Embassy,Politics,2,4,539581.6409900001
+10046,Litecoin ETF,Crypto,2,2,531663.581283
+11341,Trump Post Weekly,Unknown,6,100,531441.4712099994
+10958,Senate Deriv,Politics,1,6,527830.3375279997
+10703,snhl-2026,Sports,302,302,524868.6095799999
+10799,Cricket Bangladesh,Sports,122,359,524600.282953
+10513,Palantir Multi Strikes Monthly,Finance,11,134,521893.04062200006
+35,FOMC,US-current-affairs,1,4,519833.81
+10069,Nothing Ever Happens,Unknown,6,6,519643.98280199966
+10350,Sidemen views week 1,Culture,2,15,519308.432203
+11465,VTB United League,Sports,99,99,517247.32126700005
+12744,Monthly Precipitation,Weather,10,72,516699.514175
+11463,WCQ Inter-Confederation Playoffs,Sports,6,30,512741.2220980001
+42,Ethereum Multi Strikes Weekly,Unknown,48,56,512673.1
+12671,Iran target a Arab country by,Unknown,8,19,512102.757947
+12816,AI millennium prize solution,Science,1,3,509957.370878
+11932,NYT Headlines,Culture,2,49,509011.78906700003
+11231,COST Earnings,Unknown,1,1,508837.944713
+42,Ethereum Multi Strikes Weekly,Business,1,1,506060.14
+10701,dehl-2026,Sports,303,303,504342.883953
+10781,"Trump, Putin, and Zelensky seen",Politics,2,2,501422.94421
+10974,US CyberAttack Iran,Unknown,2,2,500356.4239940006
+10569,Gambling Loss Deduction Cap,Politics,3,3,499382.1150310001
+10841,Rugby Top 14,Sports,129,360,497403.78545
+11467,ABA League,Sports,95,142,496201.15167800005
+10855,S&P 500 monthly O/U,Finance,4,21,495372.796126
+12548,Azerbaijan First Division,Sports,121,783,495165.095384
+10821,Crude Oil (CL) settle,Unknown,2,16,493115.67554300016
+10883,Super Rugby Pacific,Sports,70,206,492944.602396
+11383,Opendoor Hit Price Weekly,Finance,31,448,491878.193333
+10793,# of announced new drug boat strikes,Politics,2,13,490782.038493
+10246,Conmebol,Sports,10,30,490277.426861
+10033,POTUS Tweets,Politics,2,18,488104.015007
+10394,ABNB Daily Up or Down,Finance,176,176,486858.495767
+10563,Israel x Turkey Clash,Unknown,1,1,486080.8877639999
+10577,Iran Nuclear Test,Politics,2,2,485313.336025
+10979,Japan Unemployment,Unknown,3,19,484232.328153
+10472,Bank of England decision,Finance,1,5,483869.0919410001
+10543,Trump Corporate Tax Cut,Politics,2,2,481850.914161
+11551,B200 Rental Price,Finance,9,68,480884.78269200004
+11899,Russia x Ukraine meeting,Politics,1,3,480681.74916499894
+11000,SpaceX Monthly Launches,Science,3,21,478026.387084
+10038,Press Briefings,Politics,3,56,477888.68744999997
+10393,RKLB Daily Up or Down,Finance,173,173,477576.486642
+10716,TSA passengers,Culture,5,30,476315.54939199996
+12687,Where Will It Rain Today?,Weather,72,1035,475531.35816
+10777,US civil war,Politics,2,2,470517.9290389999
+10456,Choo Kyung-ho in jail,Unknown,3,3,470212.385864
+11837,5.5 Earthquake,Weather,13,117,464636.973153
+10551,Trump 25th Amendment,Politics,2,2,463459.10825000005
+10809,ukraine peacekeeping,Politics,1,2,462852.0007099996
+5,CPI,Unknown,13,51,461124.586755
+10490,Inflation Argentina - Monthly,Unknown,12,92,460692.598022
+10460,NYMEX Crude Oil Futures (WTI) Daily Up or Down,Finance,65,65,460271.674265
+10421,BNB Up or Down Daily,Crypto,219,219,457772.065396
+12689,Which Cities Face Tornado Risk Today?,Weather,70,1743,455832.402541
+11550,H200 Rental Price,Finance,9,67,455401.102999
+10698,Fed Derivative pair on date,Unknown,3,3,454630.11407
+11423,Congress passes Iran war powers resolution,Politics,3,3,452788.1734560002
+11405,Claude Downtime,Unknown,8,37,452269.74066300003
+10837,New Coronavirus Pandemic,Science,2,2,449865.213717
+11381,Netflix Hit Price Weekly,Finance,31,465,449029.368799
+11647,H100 Rental Price,Finance,9,59,446064.086195
+10124,iran strike israel,Politics,2,2,443228.89189699996
+5,CPI,US-current-affairs,5,11,440968.86
+10160,Israel strike Damascus,Unknown,3,8,438874.2629370002
+10627,Altman Equity,Unknown,3,3,437927.05394899996
+11837,5.5 Earthquake,Science,9,69,437610.10235299997
+12263,Chinese AI #2,Unknown,5,55,432420.101365
+10133,FDA Approval,Science,51,57,431745.96272300003
+10619,Reusable SpaceX Starship,Science,3,3,431727.23681100004
+10622,MicroStrategy Bankruptcy,Crypto,2,2,427106.518651
+10548,Fed Abolition,Politics,2,2,425739.51389
+11838,Monthly SpaceX launches,Science,6,34,425684.710983
+10424,diddy pardon,Unknown,2,2,425298.643997
+10211,Earthquake 7.0 Monthly,Science,5,5,420055.729073
+11293,Spain Snap Election,Politics,2,6,419757.3535029999
+11840,T20 Blast Women,Sports,47,82,419399.314946
+12541,Zhengzhou Daily Weather,Weather,56,616,418845.595585
+11911,(EWY) hit Month,Finance,6,253,418810.794073
+10890,Khamenei public appearance,Politics,4,7,416596.136525
+12181,Moscow air traffic,Unknown,6,17,410494.745192
+38,UFC,Unknown,15,53,410066.095241
+11411,Iran military action against a Gulf State,Unknown,2,18,409993.884419
+10458,COMEX Silver Futures Daily Up or Down,Finance,63,63,407826.744614
+12981,Fable 5.2 released on,Unknown,1,30,407624.504009
+11160,DPZ Earnings,Finance,4,4,406692.456848
+10555,Mamdani Citizenship,Politics,2,2,405995.09863200004
+12021,Fannie Mae IPO Closing Market Cap,Finance,1,7,403702.7206239999
+10552,Obama Federal Charges,Politics,2,2,399653.408256
+10469,Jake Paul vs. Gervonta Davis,Sports,3,11,399460.93715
+11472,FIBA WCQ Americas,Sports,30,55,398071.6580330001
+10828,second hottest year on record,Science,1,1,397265.498708
+10853,strike on Moscow,Politics,3,3,394648.272175
+10212,Houthi strike Israel,Politics,3,3,394208.445985
+12329,Setka Cup Ukraine Men,Sports,2671,3429,391947.17872100003
+11471,FIBA WCQ Africa,Sports,42,69,391203.60907199996
+39,March Madness Games,Sports,9,23,387028.67000000004
+10818,Israel strike Lebanon on,Unknown,1,3,386328.68672500004
+10959,House Odds Deriv,Politics,2,9,385789.8065460001
+10975,TrumpRX Launch,Politics,2,2,384920.660873
+11198,WTT Men's Singles,Sports,473,653,384800.040924
+10354,Stokes Twins views week 1,Culture,3,21,380714.223206
+10715,Israel x Iraq Strike,Politics,4,4,380542.660911
+10111,trump approval binary,Politics,50,50,380018.473109
+11189,PZZA Earnings,Finance,3,3,379824.331879
+10036,MSTR weeklies,Unknown,1,1,377221.07959
+10054,Border encounters,Politics,3,7,376238.939216
+11184,RKLB Earnings,Finance,3,3,376196.467674
+10826,5kt meteor strike,Science,1,1,375693.540454
+11141,Russia enter Khatnie,Politics,2,7,372238.27225300006
+12000,Waymo launch,Unknown,2,30,370563.06815500086
+11142,# of LDP seats,Politics,2,12,367756.105539
+35,FOMC,Finance,2,7,365536.08
+11913,(COIN) hit Month,Finance,6,188,365148.821162
+46,Box Office Openings,Unknown,23,41,363831.11
+10797,Reserve Bank of New Zealand Decision,Politics,5,19,363589.680958
+11495,DCMs self-certify sports event contracts,Unknown,3,22,362941.150761
+11210,Highest Grossing Movie Weekly,Culture,6,22,360774.632987
+12966,Apple release new product,Unknown,1,1,356560.36876
+11469,Greek Basketball League,Sports,38,38,356477.112388
+10557,Obama Arrest,Politics,2,2,355287.56550599996
+10737,Named storm forms before hurricane season,Science,2,2,353772.01978100033
+11333,HYPE Up or Down 4h,Crypto,1198,1198,353313.085358
+10561,Musk Presidential Run,Politics,2,2,352777.644322
+10824,100m views on a MrBeast video,Culture,3,5,351121.74346300005
+12226,Weekly total Bab el-Mandeb Strait,Unknown,15,72,348713.964957
+11421,Hong Kong Precipitation,Science,4,34,346230.74543499993
+10573,Nord Stream On,Politics,2,2,345786.33308600006
+11222,PPA,Sports,31,938,345428.164219
+12953,Serie C,Sports,193,1136,345322.613832
+12859,Bolsonaro Vote Share?,Politics,2,11,344183.10366799997
+12799,OpenRouter AI Market Share,Unknown,24,288,343498.87425
+10001,RCP Polling Margin,Unknown,1,6,341825.63826599997
+12261,Second-Best Code Arena WebDev AI,Unknown,5,80,341672.393039
+11659,Databricks Valuation,Finance,6,61,341318.26746299997
+10550,Abraham Accords New Member,Unknown,1,1,341195.998344
+10984,Russia capture Havrylivka,Politics,2,8,340222.238335
+12794,Putin meets with Iranian officials,Unknown,3,4,338649.76619999995
+10991,Russia capture Kupiansk-Vuzlovyi,Politics,2,8,338495.47045399994
+10850,What will Bitcoin outperform,Crypto,3,12,336517.469182
+12054,Core CPI MoM,Unknown,4,28,335382.5229660001
+11159,HIMS Earnings,Finance,4,4,330485.154254
+12352,Belgium Challenger Pro League,Sports,208,1447,326555.478574
+11007,Maduro trial scheduled,Politics,1,1,326044.19124
+10585,Ahmed al-Sharaa Out,Politics,3,3,324699.001609
+11660,Stripe Valuation,Finance,6,59,323448.98795
+11912,(HOOD) hit Month,Finance,6,142,323049.443722
+11270,Iran strike gulf oil facilities,Politics,2,2,318124.875506
+12384,Houthis target shipping on,Unknown,2,42,316991.114855
+10826,5kt meteor strike,Weather,1,1,316544.548277
+11587,Jinan Daily Weather,Weather,54,592,315352.067871
+10070,Bitcoin Up or Down Monthly,Crypto,2,2,312114.23720599996
+12784,Sher-E-Punjab T20,Sports,38,63,311462.95163100003
+12746,Kerala Cricket League T20,Sports,29,46,309814.764479
+12013,University of Michigan Consumer Sentiment,Unknown,6,42,308569.5005
+12674,Iran target Iraq by,Unknown,5,12,308441.90098100004
+11200,US seize Iran-linked tanker,Politics,2,2,307821.286288
+11501,Second-Best Math AI,Unknown,6,116,307792.912517
+12265,Third-Best Math AI,Unknown,5,102,307671.13469599996
+10567,North x South Korea Talks,Politics,2,3,306969.807932
+10011,Trump Truths,Unknown,2,19,305651.929757
+11905,Core CPI,Unknown,6,60,305307.52832100005
+11010,"France, UK or Germany strike Iran",Politics,1,1,303528.705288
+12701,Wellington Daily Lowest Temperature,Weather,71,695,293536.796319
+11199,WTT Women's Singles,Sports,412,598,292239.12206900003
+10560,US Treasury Blockchain,Politics,3,3,291731.52110600006
+10629,AI FrontierMath Score 90+,Unknown,2,2,289564.112543
+12877,Netanyahu drops out of Israel election,Politics,2,3,287061.388349
+10125,israel x iran ceasefire,Unknown,1,1,285858.298907
+10475,Dissent at Fed meeting,Unknown,5,25,285530.542991
+10012,NCAAB,Sports,169,169,285228.769856
+12894,J3 League,Sports,87,552,285103.056946
+10563,Israel x Turkey Clash,Politics,1,1,283832.684489
+10654,China x Philippines Clash,Politics,1,2,282304.592684
+10056,Kanye tweets,Unknown,1,6,280924.390463
+10704,Odds of Russia x Ukraine ceasefire,Politics,2,5,279533.399164
+10882,Rugby Champions Cup,Sports,45,130,278157.29732199997
+10517,S&P 500 Company buys Bitcoin,Crypto,5,7,277524.433692
+11458,Scottish Cup,Sports,98,496,277020.520388
+10353,Stokes Twins views day 1,Culture,2,12,275649.94896
+10132,Israel ends military operations,Politics,2,2,275340.60991
+10712,Maduro leaves Venezuela,Politics,2,2,275294.398842
+10870,Argentina Official USD Exchange Rate,Unknown,4,30,274923.066597
+11163,AS Earnings,Finance,3,3,273805.46530499996
+10442,North Korea missile launch,Politics,5,5,272960.571901
+12019,Stripe IPO Closing Market Cap,Finance,2,16,271818.7590620002
+12882,Houthi military action against Saudi Arabia on,Unknown,2,44,267922.51562300004
+12415,LiveBench (Coding) Monthly,Unknown,4,84,267706.391823
+11657,Neurolink Valuation,Finance,6,56,267561.114873
+10645,China Coup,Unknown,1,1,267407.752046
+10336,Greta Thunberg arrested,Politics,2,2,267115.618959
+10368,Hamas release any hostages,Unknown,1,1,266920.701785
+10759,mag 7 weekly,Finance,12,84,266033.698096
+10522,Trump announces new drug boat strike,Politics,8,15,264991.702974
+10646,Russia Rejoin G7,Politics,2,2,264471.13551
+11275,Rogan Mentions,Politics,20,358,264317.699674
+12676,Iran target Jordan by,Unknown,4,9,262950.282437
+11414,How many ships will Iran successfully target,Unknown,1,6,262919.58663200005
+11424,Houthi military action against Saudi Arabia,Unknown,4,8,262068.14729699996
+11505,Max Chatbot Arena Coding,Unknown,2,6,260533.276038
+10230,EFL 2025,Sports,5,62,259797.24393
+10574,Israel x West Bank Annex,Politics,2,2,256913.965498
+12666,META Multi Strikes Daily,Finance,51,255,254727.78211499998
+10410,Bitcoin ETF Flows Daily,Crypto,236,236,254499.146099
+10631,Fed Emergency Rate Cut,Finance,1,1,254058.36203400005
+10580,Congress Stock Trading Ban,Politics,5,5,253818.21050400002
+10909,Women's National Cricket League,Sports,50,89,253455.53141300002
+11654,Anduril Valuation,Finance,5,48,253218.051684
+11017,AWS service disrupted ,Unknown,5,10,251928.00654499995
+12715,Austin Daily Lowest Temperature,Weather,69,639,250986.145534
+10772,#1 US Netflix Show,Unknown,2,21,249741.16003
+12860,Hormuz shipping targeted,Unknown,2,44,249637.880967
+12262,Third-Best Code Arena WebDev AI,Unknown,5,80,249063.658027
+35,FOMC,-,1,4,248940.43999999997
+11478,US Gas Hit Price Monthly,Finance,5,49,248611.856007
+10178,Thailand ceasefire,Politics,2,2,243912.72032999998
+10051,Gas Prices,Unknown,2,10,243683.127551
+10565,Trump Deficit Reduction,Politics,2,2,242641.594148
+11886,Super League (Israel),Sports,37,91,239760.7159369999
+12357,Portugal Super Cup,Sports,6,59,239162.033346
+12264,Chinese AI #3,Unknown,5,55,238799.98195299998
+12225,Avg. Bab el-Mandeb Strait,Unknown,4,22,238757.727465
+10823,Crude Oil (CL) above ___,Unknown,2,24,238291.87049100004
+10709,enter Lyman,Politics,2,2,236788.141291
+11697,MLP,Sports,535,541,236393.72646200002
+12707,Madrid Daily Lowest Temperature,Weather,70,732,233217.695298
+11302,QQQ Daily Up or Down,Finance,22,22,232853.687184
+11932,NYT Headlines,Politics,21,350,232619.394806
+10797,Reserve Bank of New Zealand Decision,Unknown,2,6,232376.27099200003
+11029,GOOGL Earnings,Finance,3,3,232092.104632
+12890,Primera Federación,Sports,145,805,231549.891225
+10856,S&P 500 monthly close negrisk,Finance,3,24,230454.293371
+12462,A100 Rental Price,Finance,4,24,229886.110441
+10142,Dogecoin Up or Down Daily,Crypto,237,237,229272.846063
+12186,Billboard #2 Song,Culture,16,123,228621.026817
+10084,Fartcoin Monthly Hit Price,Crypto,1,13,226569.931774
+12670,Israel target a Syria by,Unknown,2,8,226172.507739
+11202,BYND Earnings,Finance,4,4,226048.62477800017
+12654,Google Gemini Flash Model Released by,Unknown,2,15,225820.39732000005
+10960,Bill Clinton Charged,Politics,2,2,225686.83045900005
+11876,Vysshaya Liga (Belarus),Sports,80,506,223735.380848
+10766,#2 Free App,Unknown,2,18,223350.20861300002
+12667,Claude Opus Model: Text Arena Debut,Unknown,2,10,219908.259876
+11661,Canva Valuation,Finance,6,56,219340.457968
+10319,Musk rejoins Trump,Politics,3,3,218469.671428
+12184,Big Brother Mentions,Culture,39,552,217996.050199
+10562,Long Term Capital Gains Tax Cut,Politics,2,2,216770.53745899998
+11304,EWY Daily Up or Down,Finance,149,149,216416.82030000002
+12708,Warsaw Daily Lowest Temperature,Weather,71,710,216245.509587
+10660,US Ally Nukes,Politics,1,1,215356.57763000004
+10825,meteor strike (10kt+),Weather,1,1,214907.124554
+10446,CSA T20,Sports,54,102,214876.911214
+10180,Handala,Politics,2,2,214418.434803
+11996,Shpageeza Cricket League,Sports,31,74,213708.898277
+11483,People's Bank of China,Unknown,5,13,213552.93719300005
+12619,Second-best AI Agent Lab,Unknown,5,92,212585.26027400003
+12187,Big Brother Weekly Elimination,Culture,11,128,212144.70306600002
+10111,trump approval binary,Unknown,15,15,210479.016916
+12543,NIFL Premiership,Sports,277,1739,210145.69357
+12417,Campeones Cup,Sports,5,49,210023.09852500004
+10669,Bank of Mexico Decision,Finance,3,15,208413.49943199998
+10643,ABNB Neg Risk Weekly,Finance,2,22,208280.308369
+11802,ChatGPT Outage Days,Unknown,6,29,206748.704963
+10338,anti-cartel operation,Unknown,1,1,206697.561761
+10624,US AI Safety Bill,Politics,1,1,205644.967205
+11201,Japan GDP,Unknown,4,34,204551.099127
+12895,Liga Portugal 2,Sports,53,300,201667.19706
+11662,Perplexity Valuation,Finance,6,57,201186.338965
+11658,Epic Games Valuation,Finance,6,56,201088.714237
+12869,US announces withdrawal from Al Udeid,Unknown,2,2,201029.29647100004
+12620,Third-best AI Agent Lab,Unknown,5,92,200055.327266
+12059,Dario Amodei arrested,Politics,2,2,199902.6374539998
+11488,Nikita Bier out,Culture,1,1,199395.665151
+10085,Hyperliquid Up or Down Daily,Crypto,28,28,198113.652708
+11656,Kraken Valuation,Crypto,2,20,197658.55083
+12269,#2 US Spotify Song,Culture,14,105,197308.483033
+12228,Best Text-to-Image AI,Unknown,6,78,197278.434079
+12219,claude extend,Unknown,2,2,196984.20613500004
+12420,DP World Tour,Sports,41,1207,194897.398152
+11963,Inflation UK - Annual,Unknown,3,21,194842.21060100003
+12451,NRL,Sports,57,57,194183.94706099998
+10352,Marques Brownlee views week 1,Culture,1,8,193804.680272
+10298,Taylor Swift New Song,Culture,1,1,193250.183056
+11404,Russia military action against Kyiv,Unknown,7,7,192592.031078
+12062,Core PCE YoY,Unknown,4,28,191699.336703
+10840,Rugby Premiership,Sports,62,169,191278.69660000002
+10161,Kash Patel out,Politics,2,2,190845.899922
+10570,Lee Jae-myung Impeachment,Politics,2,2,189942.971181
+10504,Airbnb Multi Strikes Weekly,Finance,3,32,189413.4742
+11406,flight-delays-daily,Politics,15,114,187241.278635
+11878,Betri deildin,Sports,118,952,187209.906824
+12682,Claude Opus HLE Debut,Unknown,2,8,187116.87220800002
+12463,RTX 5090 Rental Price,Finance,4,24,187077.062393
+11903,Rick and Morty Mentions,Culture,8,161,185906.358098
+10057,Trump approval (Positve),Politics,2,2,185784.676244
+10718,Trump x Maduro Talk,Politics,2,2,185445.61900900002
+10905,Level 3 warning,Science,2,2,184828.978896
+10888,DeepSeek V4,Unknown,1,1,184138.457514
+11803,Claude Code Commits,Unknown,3,24,183653.81405699998
+11625,Trump Photographed,Politics,4,4,182759.6997300001
+12753,US crude oil reserves fall to __,Unknown,3,16,182228.79248600002
+12041,ByteDance Valuation,Finance,5,48,181561.634615
+12739,Delhi Premier League,Sports,13,19,180518.335968
+12060,PPI YoY,Unknown,5,50,180313.822896
+12407,Earnings Call Mentions,Finance,22,337,179715.358592
+11504,Max Chatbot Arena Math,Unknown,2,8,179137.33884399998
+12805,NFL Mentions,Sports,21,340,177073.183558
+10059,North Korea missile test,Politics,2,2,176620.337925
+10533,Ukraine Not NATO,Unknown,1,3,175854.59724300003
+11482,recognize Somaliland,Politics,2,2,175419.2135999999
+10796,Bank of Korea decision,Politics,1,3,175382.6710989999
+10992,South Korea GDP,Unknown,3,23,174868.42084100004
+12344,Monthly Listeners,Culture,5,24,174239.212756
+11300,All-In Podcast,Culture,19,311,173759.893795
+5,CPI,Business,3,5,173283.71000000002
+12718,Los Angeles Daily Lowest Temperature,Weather,70,688,173182.865298
+12416,LiveBench (Overall) Monthly,Unknown,4,84,172304.68786499999
+10881,United Rugby Championship,Sports,102,282,172064.35687
+12466,Russia target Kyiv,Unknown,12,24,170741.61035899998
+10708,Houthi strike on Israel,Politics,1,2,168398.001987
+11422,U.S. evacuates Beirut Embassy,Politics,2,2,167768.46724800018
+10645,China Coup,Politics,1,2,167740.07173800003
+12042,Revolut Valuation,Finance,5,48,167378.648357
+12414,LiveBench (Mathematics) Monthly,Unknown,4,84,167105.250604
+12714,Shenzhen Daily Lowest Temperature,Weather,70,671,166886.328645
+12566,Liiga,Sports,143,143,166774.274893
+11051,HOOD Earnings,Finance,4,4,166131.153461
+10687,Top Magnificent 7,Finance,2,14,164712.05000699998
+10066,Fear & Greed,Unknown,6,6,163980.213311
+10009,ICE Detainers,Politics,7,45,163915.019976
+11520,US Crude Reserves,Politics,1,6,163846.99325099992
+10731,Hurricane Landfall US,Weather,3,3,162719.184235
+11544,FISA Section 702,Politics,2,2,162337.67915400025
+10748,Cricket India,Sports,99,291,162318.791674
+10912,Women's T20 World Cup Qualifier,Sports,82,228,161659.740552
+10714,Netanyahu Pardon,Politics,2,2,161489.593604
+12710,Chongqing Daily Lowest Temperature,Weather,71,663,161010.156149
+12464,Inflation China - Annual,Unknown,4,20,160548.11712500002
+10887,How many different countries will the US strike,Politics,2,9,160163.145863
+10579,US Defaults On Debt,Politics,2,2,158300.051327
+11655,Lambda Valuation,Finance,6,54,158273.604562
+12700,Ankara Daily Lowest Temperature,Weather,69,692,157907.96403
+11518,MrBeast Mentions,Unknown,2,50,157544.854392
+12821,Meck-Vor CDU Over/Under,Politics,2,2,157227.97773800002
+11503,Top AI model,Unknown,3,38,156288.350071
+11990,Maharaja T20 Trophy,Sports,28,62,155144.60449899998
+12252,best Text-to-Video AI,Unknown,5,87,155053.718426
+12711,Beijing Daily Lowest Temperature,Weather,71,692,154320.739541
+10180,Handala,Unknown,1,1,154096.660002
+10796,Bank of Korea decision,Finance,1,3,153942.606262
+12014,Largest Private Company,Finance,5,54,153180.43865599998
+11877,Erovnuli Liga,Sports,58,477,152529.036369
+11656,Kraken Valuation,Finance,4,37,151658.683692
+10575,Peak US National Debt,Politics,2,7,151051.435177
+11485,Jang Dong-hyeok out,Politics,2,2,149914.52535799998
+12056,Claude Sonnet released,Unknown,3,35,149865.129196
+12712,Wuhan Daily Lowest Temperature,Weather,70,667,149096.242999
+12724,Amsterdam Daily Lowest Temperature,Weather,69,656,148590.376527
+11004,Germany GDP,Unknown,4,25,148373.535135
+12681,Iran target Qatar by,Unknown,1,4,148087.26702899998
+11663,Anthropic vs OpenAI,Finance,2,2,147983.380954
+12040,Glean Valuation,Finance,5,48,147140.358569
+12693,Sao Paulo Daily Lowest Temperature,Weather,70,690,147091.565954
+12781,Russia enter Oleksiievo-Druzhkivka,Unknown,2,5,147090.206573
+10871,Reserve Bank of India Decision,Unknown,5,19,146889.439684
+12820,Swiss national bank decision,Unknown,3,12,146614.06579000002
+11847,ISM Services PMI,Unknown,6,60,146602.26032200002
+10601,RUT Hit Price Monthly,Finance,1,11,145395.16988499998
+10516,Airbnb Multi Strikes Monthly,Finance,1,13,145246.028293
+12725,Helsinki Daily Lowest Temperature,Weather,70,680,145189.527656
+12063,Trump animal mention,Politics,2,61,145010.39773
+12335,SPY Open Daily Up or Down,Finance,64,64,144826.625049
+12334,Hot Ones Mentions,Culture,2,44,144778.292746
+12878,EU emergency diesel stocks,Unknown,3,24,144763.260898
+11933,MrBeast gaming mentions,Culture,10,159,144674.716291
+12038,Median Home Price Chicago,Unknown,2,14,144336.025379
+12076,elon tweet mention,Unknown,18,236,144256.131759
+11832,ISM Manufacturing PMI,Unknown,6,60,143845.58894299998
+12033,Median Home Price US,Unknown,2,14,142880.601932
+11018,PLTR Earnings,Finance,4,4,141784.122254
+10594,SPX Hit Price Monthly,Finance,1,7,141390.443146
+11140,Russia enter Pokrovskoe,Politics,2,6,141060.214931
+12581,US Open Cup,Sports,18,148,140999.483473
+11292,Brazil GDP,Unknown,3,21,140907.633549
+12694,Buenos Aires Daily Lowest Temperature,Weather,69,631,140870.61459
+11029,GOOGL Earnings,Unknown,1,1,140820.696219
+11065,COIN Earnings,Finance,4,4,140044.106976
+12631,Next OpenAI GPT Terra Release by,Unknown,2,12,139529.053861
+12697,Dallas Daily Lowest Temperature,Weather,69,613,139456.23379
+12696,Seattle Daily Lowest Temperature,Weather,69,655,139010.88941499998
+10705,Musk change his X profile picture,Culture,5,5,138298.313199
+11001,Mexico GDP,Unknown,4,30,137878.104989
+12703,Munich Daily Lowest Temperature,Weather,69,683,137687.329256
+12520,Alphabet’s Market Cap,Finance,5,35,137337.718764
+12721,Istanbul Daily Lowest Temperature,Weather,69,644,136921.530289
+12825,Dancing with the Stars Weekly Elimination,Culture,7,85,135493.223642
+10904,UK GDP,Unknown,3,22,135408.628001
+11489,any country expel a U.S. ambassador,Politics,2,2,135277.21725500005
+12016,3rd Largest Private Company,Finance,4,43,134676.223147
+11828,Lemonade Stand,Politics,20,286,134451.318181
+12035,Median Home Price Austin,Unknown,2,14,133625.43264699998
+11038,AMZN Earnings,Finance,3,3,132794.68864600002
+11150,Trump meet with Netanyahu,Politics,2,3,132410.185414
+11337,Legends League Cricket,Sports,50,116,132134.757782
+12734,Karachi Daily Lowest Temperature,Weather,70,589,131407.907389
+11002,Euro GDP,Unknown,4,28,130123.10970199999
+12673,Iran target the United Arab Emirates by,Unknown,2,7,129553.070605
+11972,CPBL,Sports,195,195,129227.772029
+10624,US AI Safety Bill,Unknown,1,1,128939.357411
+12025,Median Home Price Miami,Unknown,2,14,128404.96085300001
+12706,Milan Daily Lowest Temperature,Weather,69,647,127654.84515200001
+12728,Jeddah Daily Lowest Temperature,Weather,70,619,127448.622641
+12524,OpenAI’s valuation,Finance,4,36,126894.023173
+10043,Deepseek Top Model,Unknown,2,2,126456.808914
+12563,AFL,Sports,35,35,126380.47805199999
+12698,Atlanta Daily Lowest Temperature,Weather,69,637,126260.700232
+10721,Odds of Russia x Ukraine on Friday,Politics,2,5,125357.921424
+12061,Core PCE MoM,Unknown,4,28,125250.817314
+12709,Taipei Daily Lowest Temperature,Weather,70,648,125048.12038000001
+10825,meteor strike (10kt+),Science,1,1,124851.758439
+11568,#2 Coding AI,Unknown,3,44,124595.75050299999
+12627,DXY Hit Price Monthly,Finance,3,72,123747.257416
+10357,PewDiePie views week 1,Culture,1,7,123483.85218
+12107,META KPIs,Finance,8,38,123310.129574
+12803,Lacy and Marlon Fortnite Deaths,Sports,2,19,122806.861106
+12026,Median Home Price LA,Unknown,2,14,122051.21089
+12465,Titled Tuesday,Sports,53,894,121937.032144
+10503,Rocket Lab Multi Strikes Weekly,Finance,3,39,121533.232952
+11422,U.S. evacuates Beirut Embassy,Unknown,1,2,120798.53105799989
+12702,Lucknow Daily Lowest Temperature,Weather,69,655,120681.04918
+10033,POTUS Tweets,Culture,1,9,120679.97792399999
+11834,JOLTS,Unknown,4,32,120594.57500099999
+12704,Tel Aviv Daily Lowest Temperature,Weather,70,656,119977.384342
+11931,European Championship,Sports,123,238,119470.70814500001
+10906,Level 4 warning,Science,2,2,119255.35627199998
+10486,Rocket Lab Hit Price Monthly,Unknown,1,24,118900.445736
+12720,Moscow Daily Lowest Temperature,Weather,69,653,118736.419207
+12732,Qingdao Daily Lowest Temperature,Weather,70,705,118723.262754
+12101,MU KPIs,Finance,6,30,118342.498914
+12868,Trump invokes war powers in Yemen,Politics,2,2,118091.238256
+12034,Median Home Price NYC,Unknown,2,14,117944.020994
+12609,Saudi military action against Yemen,Unknown,1,4,116713.415033
+12268,#2 Spotify Song,Culture,14,111,116705.81094
+10006,London Daily Weather,Science,1,7,116309.142031
+12522,Space Exploration Technologies' Market Cap,Finance,4,28,116003.026071
+11117,ETSY Earnings,Finance,4,4,115606.837761
+11887,PLK,Sports,40,96,114456.879013
+11982,SpaceX Hit Price Monthly,Finance,4,111,114071.303808
+12037,Median Home Price DC,Unknown,2,14,113764.97729200001
+12015,2nd Largest Private Company,Finance,5,54,112633.392769
+12331,Setka Cup Czechia Men,Sports,752,948,112556.980176
+12053,Nasdaq round the clock by,Finance,2,2,112031.095481
+12852,Daily Biggest Earthquake,Weather,33,198,112006.293187
+11977,House of the Dragon S3 mentions,Culture,8,149,111977.717401
+10044,Unemployment,Politics,2,9,111846.813547
+10582,US Debt Downgrade,Politics,2,2,111741.23287899999
+10156,Earthquake,Science,2,2,111700.87283099999
+12364,CAF Champions League,Sports,85,359,110962.095427
+10351,Marques Brownlee views day 1,Culture,2,13,110777.93378200001
+11453,TFF Super Kupa,Sports,6,38,110728.571997
+10625,OpenAI Token Release,Crypto,2,2,110027.82634099999
+11579,rev2 anera,Unknown,5,40,109996.534351
+12729,Cape Town Daily Lowest Temperature,Weather,69,658,108935.972506
+12549,Azerbaijan Cup,Sports,15,92,108900.955832
+10328,NFL Scorigami,Sports,17,17,108331.093199
+10613,Sarkozy imprisoned,Politics,2,2,108265.08680099992
+10213,Powerball,Culture,3,3,108229.531165
+11984,SpaceX Multi Strikes Monthly,Finance,4,48,107877.754252
+12022,MSTR sell weeklies,Crypto,15,15,107824.23664399999
+3,MLB,Pop-Culture ,1,1,107601.59
+11275,Rogan Mentions,Unknown,4,74,106518.219414
+10201,archived2,Crypto,6,36,105764.17162
+12672,Iran target Saudi Arabia by,Unknown,1,5,105691.67602500001
+12893,National League South,Sports,100,505,105152.979032
+12713,Chengdu Daily Lowest Temperature,Weather,69,643,105092.584649
+10159,Israel withdraws from Syria,Politics,2,2,104767.392297
+12699,Chicago Daily Lowest Temperature,Weather,70,659,104634.258321
+10008,US Monthly Inflation,Politics,1,5,103829.157936
+12036,Median Home Price SF,Unknown,2,14,103052.360247
+11812,MU Daily Up or Down,Finance,105,105,103013.420918
+10663,Will NewJeans Perform,Culture,2,2,102892.819983
+12717,Houston Daily Lowest Temperature,Weather,69,636,102841.64313
+11019,DIS Earnings,Finance,3,3,101880.274777
+10820,Crude Oil (CL) hit__,Politics,1,1,101834.22489299992
+10595,NDX Hit Price Monthly,Finance,1,7,101165.511937
+12730,Guangzhou Daily Lowest Temperature,Weather,71,661,101094.923411
+36,EPL,Unknown,17,39,101009.96379099999
+12722,Mexico City Daily Lowest Temperature,Weather,69,622,100947.83057600001
+12864,EU country blames Russia for new sabotage attack,Politics,3,6,100733.146742
+12719,San Francisco Daily Lowest Temperature,Weather,69,613,100578.212602
+12716,Denver Daily Lowest Temperature,Weather,70,638,100379.187919
+11420,Seoul Precipitation,Science,4,33,100374.19330600002
+11598,uae levaes gcc,Unknown,1,1,99881.04229099992
+12534,#1 Movie on Netflix Views this week,Culture,10,66,99650.195871
+11166,ZM earnings,Finance,2,2,98434.64878399999
+10650,Israel x Lebanon Ground Offense,Politics,1,1,97368.79882
+12817,Pakistan military action against Yemen by,Unknown,1,3,97347.386752
+11487,Howard Lutnick out,Politics,3,3,96886.406451
+10835,Inflation Canada - Annual,Unknown,3,18,96643.163154
+12468,Korn Ferry Tour,Sports,21,974,96623.418953
+11315,GME Earnings,Finance,3,3,96193.919433
+11890,BSN,Sports,73,157,96026.633216
+12705,Singapore Daily Lowest Temperature,Weather,35,354,94906.713726
+10642,RKLB Neg Risk Weekly,Finance,2,22,94765.721193
+11020,PFE Earnings,Finance,4,4,94556.00102699999
+12892,National League North,Sports,97,445,93905.89462400001
+12723,Busan Daily Lowest Temperature,Weather,70,667,93578.846119
+10178,Thailand ceasefire,Unknown,1,1,93200.273471
+12311,KR KPIs,Finance,2,8,93026.15311000001
+10660,US Ally Nukes,Unknown,1,1,92717.626365
+12688,Exceptional Drought This Week,Weather,17,374,92474.006506
+11103,APP Earnings,Finance,3,3,92016.69789699999
+12695,Toronto Daily Lowest Temperature,Weather,69,688,91775.792919
+12733,Zhengzhou Daily Lowest Temperature,Weather,42,431,91368.593991
+11885,LKL,Sports,37,87,90246.192084
+12735,Manila Daily Lowest Temperature,Weather,35,337,90150.425449
+10733,US tariff revenue up,Politics,2,2,89952.769524
+10787,#1 Grossing Play Store,Culture,1,12,89728.65949
+11288,HYPE Up or Down Daily,Crypto,212,212,89152.297059
+10491,Speed Chess QF,Sports,4,4,89035.646381
+12270,#2 Paid App,Culture,14,85,88585.162259
+10869,country leave BRICS,Politics,2,2,87784.55575299996
+12536,Canada GDP MoM,Unknown,3,18,86667.694982
+12521,Meta’s Market Cap,Finance,4,28,86658.101444
+11116,DASH Earnings,Finance,4,4,85697.86739
+12305,NVDA KPIs,Finance,5,27,85667.040931
+11336,Survivor Eliminations,Culture,7,94,85241.765378
+11162,HD Earnings,Finance,3,3,84804.722238
+10626,Bitcoin most valuable company,Crypto,2,2,84696.9691
+12747,Uttar Pradesh T20,Sports,20,34,84543.974205
+10073,SOL Up Down Monthly,Crypto,1,1,84508.729027
+12686,Longest GitHub critical incident,Unknown,3,15,83827.027136
+12755,MODUS Super Series,Sports,570,570,83736.499501
+12158,UAL KPIs,Finance,4,20,83701.54239799999
+11476,Critical Discord Incident,Culture,5,10,83309.394852
+10605,DJI Multi Strikes Weekly,Finance,1,7,82904.15724599999
+11027,AMD Earnings,Finance,4,4,81993.947766
+10515,Rocket Lab Multi Strikes Monthly,Finance,1,13,81089.410856
+11985,SPCX Neg Risk Weekly,Finance,17,176,80927.73027500001
+10628,Anthropic Acquired,Finance,2,2,80451.510971
+12754,PDC,Sports,273,273,80394.88910300001
+10986,EURUSD Up or Down Daily,Finance,23,23,79668.15670400001
+12453,McConnell Votes in the Senate by,Politics,3,3,79582.779381
+10539,Russian Sovereignty (Crimea),Unknown,1,3,79462.954662
+10603,SPX Multi Strikes Weekly,Finance,1,7,78972.393332
+10664,UK Election Called?,Politics,1,1,78303.731024
+11264,# legislation signed,Politics,3,22,78251.789982
+11649,US x Cuba Meeting,Unknown,1,2,78219.55279900003
+12850,Democratic Senate Odds,Politics,5,30,77831.765091
+12668,Mamdani Announcement Mentions,Politics,10,148,77618.721076
+10091,Bitcoin and Ethereum Up Daily,Crypto,18,18,77057.273979
+11056,MCD Earnings,Finance,3,3,76970.574368
+11130,ED Earnings,Finance,4,4,76939.880493
+12726,Panama Daily Lowest Temperature,Weather,35,344,76296.32134
+10621,OpenAI Acquired,Finance,2,2,75781.393978
+11208,ChatGPT Full Outage,Unknown,5,8,75735.056153
+10852,sports prediction markets banned,Sports,2,2,75635.37842
+10441,Top Netflix Movie Week,Unknown,1,7,75251.730949
+11978,Love Island Mentions,Culture,16,308,75022.704304
+10212,Houthi strike Israel,Unknown,3,4,74846.142654
+12727,Kuala Lumpur Daily Lowest Temperature,Weather,35,354,74782.027792
+11227,AEO Earnings,Finance,3,3,74702.692806
+11806,Comey Charges Dropped,Politics,3,3,74668.98093599999
+11809,Micron Multi Strikes Weekly,Finance,22,269,74077.614846
+12818,Image edit arena ranking,Unknown,3,43,73882.036286
+12912,Trump 538 Approval Binary,Politics,3,21,73635.611712
+10141,Congress authorizes military force against Iran before July?,Politics,2,2,73230.21490600001
+11841,T20 Blast Women 2,Sports,23,47,73113.22801800001
+12731,Jinan Daily Lowest Temperature,Weather,40,398,72247.684754
+10988,USDJPY Up or Down Daily,Finance,26,26,72227.114721
+12632,Next OpenAI GPT Luna Release by,Unknown,2,11,72110.814617
+12691,Rugby's Greatest Rivalry,Sports,5,15,71969.182518
+12413,President Curtis Mentions,Culture,9,131,71362.975031
+12152,DKS KPIs,Finance,2,10,70887.214319
+10985,Russia capture Drobysheve,Politics,1,2,70249.43343399999
+11030,QCOM Earnings,Finance,4,4,69828.373911
+11486,Susie Wiles out,Politics,2,2,69390.103826
+12592,Frontier Math Problem,Unknown,6,12,69225.31206000001
+11225,AVGO Earnings,Finance,3,3,68948.10091899999
+11034,NYT Earnings,Finance,4,4,68714.126316
+12149,AAPL KPIs,Finance,13,63,68554.516038
+10087,Fartcoin Up or Down Daily,Crypto,19,19,68168.486422
+12323,Movie Delay,Culture,6,6,68165.09797500001
+12412,SPCX Earnings,Finance,1,1,67767.981843
+10349,Sidemen views day 1,Culture,3,18,67736.414952
+11044,RDDT Earnings,Finance,4,4,66823.747792
+12084,GOOGL KPIs,Finance,9,43,66464.417546
+10609,Bolsonaro In Jail,Politics,3,3,66116.248352
+11897,Russia x Ukraine diplomatic meeting,Politics,1,3,66090.397617
+12535,#1 Show on Netflix Views this week,Culture,10,66,66041.686547
+11092,PANW Earnings,Finance,4,4,65169.11357
+11151,Trump publicly disparage Netanyahu,Politics,2,3,65097.620752
+11986,Top Spotify Artist Monthly,Culture,3,42,65042.666936
+11979,SPCX Daily Up or Down,Finance,85,85,64777.979462
+12461,B200 Rental Price Hit,Finance,1,9,64609.342242000006
+12170,JPM KPIs,Finance,2,10,64439.293856000004
+12630,Next OpenAI GPT Sol Release by,Unknown,3,13,64381.908129999996
+10600,HSI Hit Price Monthly,Finance,1,7,64295.45826099998
+10910,Afghanistan vs West Indies (T20I),Sports,8,22,64278.402350000004
+12742,Houthis target Saudi Arabia by,Unknown,2,4,64239.716807000004
+10164," Bondi, Bongino or Patel out",Politics,2,2,64130.8333
+12406,Cyclosporiasis cases,Science,2,10,64028.693814000006
+11038,AMZN Earnings,Unknown,1,1,63823.611551
+10356,PewDiePie views day 1,Culture,1,7,63588.73792
+12485,Ukraine target Moscow,Unknown,7,14,63380.742849
+10369,Valorant,Unknown,40,40,63344.347761000005
+12690,Another Iranian diplomat expelled by,Politics,2,2,62960.16166800002
+12108,TGT KPIs,Finance,2,8,62418.515924
+11980,SpaceX Hit Price Weekly,Finance,18,363,62185.839002
+11143,# of CRA seats,Politics,2,12,62002.209098
+12017,Elon baby,Culture,2,2,61664.46582800004
+10775,#1 US Netflix Movie,Unknown,2,18,61550.499433
+11928,FIVB Nations League,Sports,60,85,61338.074197
+11987,#2 Spotify Artist Monthly,Culture,1,14,61229.13113100001
+10895,Eurozone GDP,Unknown,1,9,61121.12154199999
+11070,AMAT Earnings,Finance,3,3,60537.610598
+11197,SOFR Monthly Hit/Dip,Finance,3,24,60171.208164
+11046,CBOE Earnings,Finance,4,4,59359.216943
+12227,Sotheby's Auctions,Culture,1,3,59265.71394100001
+11057,CSCO Earnings,Finance,3,3,59050.505209
+12679,Iran target Bahrain by,Unknown,2,6,58892.101275
+12260,MSFT KPIs,Finance,6,29,58559.179153000005
+10010,Trump Daily EOs,Unknown,1,1,58468.279953
+11105,HLT Earnings,Finance,4,4,58449.805974999996
+12166,MS KPIs,Finance,2,10,58199.09403099999
+12743,Top End T20 Series,Sports,27,43,57935.003189
+11054,DDOG Earnings,Finance,4,4,57864.602870999996
+11146,Mexico Unemployment,Unknown,2,14,57844.926599000006
+11420,Seoul Precipitation,Weather,1,8,57840.26619599998
+11324,NKE Earnings,Finance,3,3,57639.679624000026
+11419,London Precipitation,Science,3,21,57634.255659999995
+12254,V KPIs,Finance,4,20,57465.78461800001
+12104,GIS KPIs,Finance,2,12,57425.087020000006
+35,FOMC,Economics,1,2,56610.29
+11889,NBB,Sports,26,62,56555.406302
+10604,NDX Multi Strikes Weekly,Finance,2,8,56448.855967
+11543,Donald Trump tie color,Politics,15,45,56297.126908000006
+12009,Jones Act requirements removed by,Politics,2,2,56010.137855999936
+12738,Tamil Nadu Premier League,Sports,13,23,55931.127596
+12875,Women's Super League 2,Sports,34,180,55863.316684000005
+12182,UFC 329 Mentions,Culture,3,59,55648.759602
+10467,John Brennan federally charged,Politics,2,2,55470.420932
+10993,OpenAI $1T+ valuation,Unknown,2,2,55429.733119
+11630,Major US official,Politics,2,2,55099.95132799998
+12858,CAQ # Seats?,Politics,2,13,55029.776793000005
+11983,SpaceX Multi Strikes Weekly,Finance,17,206,54997.421371000004
+11254,ADBE Earnings,Finance,4,4,54622.31717699999
+10071,ETH Up or Down Monthly,Crypto,1,1,54268.508746
+12330,Setka Cup Moldova Men,Sports,516,666,54123.399008
+11172,EBAY Earnings,Finance,4,4,53571.818208
+11808,Micron Hit Price Monthly,Finance,5,102,53417.662101
+11419,London Precipitation,Weather,2,14,53341.65651000001
+11173,TKO Earnings,Finance,4,4,53199.28042
+11354,RFK Jr. Out,Politics,3,4,52956.97661
+12819,Image-to-video arena ranking,Unknown,3,46,52742.653884
+10184,India strike Pakistan,Politics,2,2,52604.572886
+12163,C KPIs,Finance,2,10,52380.217278000004
+11129,WMT Earnings,Finance,3,3,52343.512164
+10453,Sheffield Shield,Sports,21,49,51962.339073
+12169,NFLX KPIs,Finance,2,10,51783.799554
+11032,CME Earnings,Finance,4,4,50631.175918
+12741,Iran successfully targets shipping by,Unknown,2,6,50266.906009
+12690,Another Iranian diplomat expelled by,Unknown,1,3,50008.364588000004
+11179,IONQ Earnings,Finance,2,2,49918.906734000004
+10056,Kanye tweets,Crypto,1,6,49836.620390000004
+12109,LYFT KPIs,Finance,3,19,49713.920551
+12800,OpenRouter Total Tokens Weekly,Unknown,4,20,49462.922842
+12419,LPGA Tour,Sports,17,944,49441.578361
+12749,KCC T20 Summer League,Sports,53,98,49040.606396999996
+10185,Pakistan strike India,Politics,2,2,48792.165788000006
+11608,Israel x Lebanon diplomatic meeting,Unknown,1,2,48770.73458299997
+11068,DKNG Earnings,Finance,4,4,48603.009541
+12782,trump company mentions,Politics,2,46,48266.534831000004
+11031,ARM Earnings,Finance,4,4,48074.129429
+10980,What will Copper (HG) hit,Finance,1,15,47995.046019
+12518,ZEC Up or Down 15m,Crypto,1749,1749,47835.312139
+12134,WMT KPIs,Finance,4,20,47563.6031
+10598,UKX Hit Price Monthly,Finance,1,8,47234.766902999996
+12680,Iran target Oman by,Unknown,1,5,47110.603445
+12595,Earthquake Monthly,Weather,3,21,46892.335613999996
+12370,ECS Switzerland,Sports,15,29,46871.86169800002
+12744,Monthly Precipitation,Science,5,38,46661.597382
+10607,NYA Multi Strikes Weekly,Finance,1,7,46558.201817
+11976,Iran x Oman Strait of Hormuz agreement,Politics,1,1,46556.11751299975
+12608,Ukraine strikes in Caspian Sea,Politics,1,3,46517.493864000004
+12530,Nvidia’s Market Cap,Finance,1,7,46324.155338
+12678,Iran target Kuwait by,Unknown,2,7,46237.466393999995
+10602,NYA Hit Price Monthly,Finance,1,9,46138.803636000004
+11121,OXY Earnings,Finance,4,4,46023.019661
+10241,AFC,Sports,8,18,45798.851483
+11247,ORCL Earnings,Finance,3,3,45781.353472
+10810,Counter-Strike Knife Index Multistrike Weekly,Finance,2,22,45611.062530999996
+12162,BAC KPIs,Finance,2,10,45568.366892000005
+12677,Iran target Syria by,Unknown,1,4,45459.981293000004
+10911,Bhutan Tri-Series,Sports,28,82,45068.766382
+12171,INTC KPIs,Finance,5,23,44788.550989
+12629,Next Meta Muse Spark released by,Unknown,2,9,44757.648435999996
+11251,EU sanctions on Russia,Politics,1,1,44616.456283
+11813,MU Neg Risk Weekly,Finance,20,215,44287.576182
+37,Champions League,Unknown,6,11,44142.420000000006
+10995,MPC Earnings,Finance,4,4,43912.125413
+12801,OpenRouter Total Tokens Monthly,Unknown,2,10,43861.410848
+11016,RSF capture Kadugli,Politics,2,2,43836.962377
+11388,QQQ Hit Price Weekly,Finance,3,42,43793.591004
+10732,Hurricane Form,Weather,1,1,43684.580425
+12178,ISRG KPIs,Finance,2,10,43654.522489999996
+12532,Russia strikes vessel in Black Sea,Politics,3,6,43544.767318
+12371,ECS England,Sports,65,124,43506.76714
+10597,DJI Hit Price Monthly,Finance,1,9,43354.851178
+10644,US Bank Bailout,Unknown,2,2,43209.078145
+12058,Claude Haiku released,Unknown,2,7,43147.198757
+11206,MNST Earnings,Finance,4,4,43134.330069999996
+12484,Privates Largest Increase in Valuation (Monthly),Finance,3,11,42992.621478
+11064,RIVN Earnings,Finance,4,4,42941.342903
+10094,Bitcoin Up or Down Weekly,Crypto,3,3,42470.255151
+12177,KO KPIs,Finance,4,20,42393.996654
+11157,Wix Earnings,Finance,3,3,42335.382734
+11076,TSEM Earnings,Finance,4,4,42119.788539
+11131,DBX Earnings,Finance,4,4,41986.70265
+11059,GRAB Earnings,Finance,3,3,41866.831688
+10160,Israel strike Damascus,Politics,1,1,41845.701716
+11049,LYFT Earnings,Finance,2,2,41529.242608
+12469,Bonbast Hit,Unknown,2,11,41521.82842
+10367,Chuck Schumer meet trump,Politics,1,1,41398.142651
+10005,NYC Daily Weather,Science,1,7,40984.009208
+12798,ChatGPT Outage by,Unknown,7,16,40803.949634
+11139,Republican House Odds Up or Down this week,Politics,1,1,40776.92699
+12751,Metro Bank One Day Cup Women,Sports,47,48,40724.926337000004
+11318,JEF Earnings,Finance,2,2,40703.746053
+11043,RBLX Earnings,Finance,4,4,40471.506503
+10823,Crude Oil (CL) above ___,Finance,2,20,40172.8241
+12255,MA KPIs,Finance,4,20,39584.924963
+2,NBA,Pop-Culture ,1,1,39493.41
+10706,Apple acquire Mistral ,Finance,1,1,39389.810591
+11093,KKR Earnings,Finance,3,3,39389.149188999996
+11072,HOG Earnings,Unknown,1,1,39369.678507
+11192,The Bondi,Politics,3,3,39359.66533
+11962,US x Cuba diplomatic meeting by,Politics,1,4,38947.57023800001
+11026,FOXA Earnings,Finance,4,4,38922.559991999995
+11901,SpaceX Up/Down,Unknown,1,1,38642.62319200001
+10868,BRICS add a new member,Politics,1,1,38463.14939699998
+12369,German Super League Hamburg T10,Sports,29,37,38403.517978
+11901,SpaceX Up/Down,Finance,1,1,38189.532578999984
+11513,T20 Brisbane Champions League,Sports,59,177,38019.769455
+11182,DELL Earnings,Finance,4,4,37856.98413700001
+11810,Micron Multi Strikes Monthly,Finance,5,62,37843.064689
+11148,Trump and Netanyahu hug,Politics,2,2,37709.826593
+12168,JNJ KPIs,Finance,4,20,37644.547877
+10183,ETH outperforms Bitcoin,Crypto,6,6,37589.372328
+10724,Monthly Tornadoes US,Weather,2,10,37564.725536
+12879,Lula Vote Share?,Politics,1,6,37504.836731
+12460,H200 Rental Price Hit,Finance,1,12,37462.708222
+11104,HUM Earnings,Finance,4,4,37033.552271
+11174,IEP Earnings,Finance,2,2,36976.442087999996
+12525,Ukraine strikes vessel in Black Sea,Politics,3,6,36858.169332
+11084,TRIP Earnings,Finance,3,3,36608.931984
+12093,Trump pardon anyone monthly,Politics,3,9,36474.250287
+11170,LOW Earnings,Finance,3,3,36414.249251
+11158,BBBY Earnings,Unknown,1,1,36386.406622
+12954,US Gas Price Daily,Finance,13,78,36136.799429
+11475,UNTY Earnings,Finance,5,5,35900.553186000005
+11359,LW Earnings,Finance,4,4,35482.38247699999
+11642,Ireland Premier Division 2026,Sports,15,77,35163.75832000001
+11186,REAL Earnings,Finance,4,4,34717.947019
+12202,TSLA Earnings,Finance,2,2,34688.005892
+12658,DeepSeek Flash Released by,Unknown,3,6,34613.146451
+10999,Epstein Data Set,Politics,1,2,34585.45101
+10612,Outdoor Boys New Video,Culture,1,1,34492.900124
+10776,China Inflation - Monthly,Unknown,2,10,34401.131840999995
+12244,V Earnings,Finance,2,2,33918.882484
+10666,FIDE World Cup 2025 Quarterfinals,Sports,4,4,33917.209084
+12846,Codex Weekly Reset Negrisk,Unknown,6,30,33647.334842000004
+11205,TFX Earnings,Finance,4,4,33582.760884999996
+10963,South Africa Reserve Bank Decision,Unknown,4,14,33503.262913
+12003,love island eliminations weekly,Culture,2,34,33449.868045
+12306,PSKY KPIs,Finance,1,7,33434.938738
+12802,Canadian Championship,Sports,9,31,33322.230284
+12051,SpaceX Closing Market Cap End of Month,Finance,1,7,33284.45760200001
+11268,GETY Earnings,Finance,2,2,33170.955379
+11226,BBWI Earnings,Finance,4,4,32849.210974
+11353,Joseph Aoun out,Unknown,1,1,32746.907694999994
+12675,Iran target Egypt by,Unknown,1,4,32629.330687
+11028,UBER Earnings,Unknown,1,1,32246.558102
+11021,PYPL Earnings,Unknown,1,1,32025.079283
+11041,ARES Earnings,Finance,4,4,31958.098141
+11481,Trump Media x TAE Technologies merger,Politics,3,4,31942.761061999998
+11014,RSF capture El Obeid,Politics,2,2,31885.035657999997
+11231,COST Earnings,Finance,3,3,31872.512052
+11071,TSN Earnings,Finance,3,3,31805.628348000002
+11067,ABNB Earnings,Finance,3,3,31696.506191
+12685,GitHub.com critical incident by,Unknown,7,16,31629.876395000003
+11050,SPGI Earnings,Finance,4,4,31425.998217
+11180,INTU Earnings,Finance,3,3,31233.869381999997
+12024,MSTR Hit Price Monthly,Finance,4,93,31184.501777
+11005,Iranian officials visit the White House,Politics,1,1,31075.341199
+10426,Mobile Legends: Bang Bang,Unknown,36,36,31054.180567
+12529,Amazon’s Market Cap,Finance,1,7,30811.627743999998
+11421,Hong Kong Precipitation,Unknown,1,7,30715.928493000003
+11037,ALL Earnings,Finance,4,4,30682.624813
+11165,CRM Earnings,Finance,4,4,30424.979137000002
+12517,ZEC Up or Down 5m,Crypto,1770,1770,30276.387609
+12115,CRM KPIs,Finance,2,12,30224.932143
+12866,OpenAI Sandbox Escape,Unknown,5,11,30181.733907
+10729,Phoenix Daily Weather,Weather,2,14,30075.863530000002
+12234,META Earnings,Finance,2,2,29946.127226
+12112,UBER KPIs,Finance,1,10,29791.885103
+11138,Weekly Jobless Claims,Unknown,4,27,29785.426528
+12665,SK hynix Hit Price Weekly,Finance,11,286,29684.982721
+12656,next Z.ai GLM Released by,Unknown,1,6,29657.540213
+10915,Counter Strike Glove Index Multi Strike Weekly,Finance,1,11,29574.247641
+11147,Clavicular in jail,Culture,1,1,29522.515434
+12247,SBUX Earnings,Finance,2,2,29456.742256000005
+12180,TMO KPIs,Finance,2,10,29412.113776
+12876,Flávio Bolsonaro charged or arrested,Politics,2,2,29382.511458
+12865,UEFA Women's Europa Cup,Sports,22,114,29368.980356
+10990,USDKRW Up or Down Daily,Finance,25,25,29337.083543999997
+11171,SNOW Earnings,Finance,4,4,29228.763997
+12573,Ranji Trophy,Sports,83,184,29106.531056
+12970,Gävle Goat,Unknown,1,1,29105.13
+11118,WING Earnings,Finance,4,4,29078.053277
+11128,AKAM Earnings,Finance,3,3,29015.617566
+12567,Champions Hockey League,Sports,55,55,28917.495518
+11119,CVNA Earnings,Finance,4,4,28790.542224
+11234,GAP Earnings,Finance,2,2,28701.428533000002
+11042,RL Earnings,Finance,3,3,28698.467717
+11223,CRWD Earnings,Finance,4,4,28459.052907999998
+10989,USDCAD Up or Down Daily,Finance,28,28,28419.212353
+12421,LIV Golf,Sports,9,102,28417.663181
+12946,Another crypto hack,Crypto,2,6,28307.636817
+11132,DE Earnings,Finance,4,4,28293.7402
+12657,DeepSeek Pro Released by,Unknown,1,3,28162.313575
+11069,BUD Earnings,Finance,3,3,28147.695698
+12023,MSTR Hit Price Weekly,Finance,17,323,28129.091731999997
+11047,APO Earnings,Finance,4,4,28085.428525000003
+11358,CAG Earnings,Finance,4,4,27985.247347000008
+11081,SUN Earnings,Finance,4,4,27931.206168000004
+10328,NFL Scorigami,Unknown,1,1,27838.994619
+11243,CASY Earnings,Finance,3,3,27802.254448
+11124,CRL Earnings,Finance,4,4,27684.334144
+11122,GRMN Earnings,Finance,4,4,27683.680573
+12119,AZO KPIs,Finance,2,10,27632.456086000002
+10706,Apple acquire Mistral ,Unknown,2,2,27567.248475
+11079,WEN Earnings,Finance,3,3,27370.941236
+12376,Pondicherry Premier League,Sports,5,7,27324.344639000003
+11021,PYPL Earnings,Finance,3,3,27321.863179999993
+11028,UBER Earnings,Finance,3,3,27280.339145
+12797,OpenAI resets Codex weekly usage,Unknown,3,13,27118.682668999998
+12055,California Midterm Propositions,Politics,12,12,27114.580334
+10072,XRP Up Down Monthly,Crypto,1,1,26897.077129
+10812,Counter-Strike Case Index Multistrike Weekly,Finance,2,22,26867.924769
+10713,New Pandemic,Unknown,1,1,26859.493404
+12113,CRWD KPIs,Finance,2,8,26852.249439
+12230,Movie Trailer Mention,Culture,2,35,26657.138712
+11053,MAR Earnings,Finance,3,3,26621.386509999997
+12309,CSCO KPIs,Finance,2,8,26564.394126999996
+39,March Madness Games,Unknown,10,50,26460.260000000002
+11099,CHGG Earnings,Finance,4,4,26412.637166
+12300,LRCX KPIs,Finance,4,20,26393.8249
+12405,ALL KPIs,Finance,2,10,26186.852937000003
+12452,Super League,Sports,53,53,26054.775823
+11048,CVS Earnings,Finance,4,4,26027.583789
+11188,FTDR Earnings,Finance,3,3,25902.876044
+11360,RH Earnings,Finance,4,4,25792.766915
+11097,UAA Earnings,Finance,3,3,25772.826041999993
+11286,Power Slap,Sports,55,142,25732.329917
+12957,SNOW KPIs,Finance,2,10,25602.697001999994
+10606,RUT Multi Strikes Weekly,Finance,1,7,25414.935450999998
+11230,VSCO Earnings,Finance,2,2,25410.674377
+11592,Trump dance daily,Politics,1,28,25305.260157
+11098,ACM Earnings,Finance,3,3,25160.290445
+12594,Haiti elections delayed,Politics,2,2,24791.067918000004
+11317,CTAS Earnings,Finance,3,3,24289.87887
+11224,AZO Earnings,Finance,3,3,24273.729955000003
+11888,KLS,Sports,28,65,24200.239158
+11181,HPQ Earnings,Finance,4,4,24150.412099
+12793,UK by-election called,Politics,2,4,24035.270593999998
+10794,CS2 Operation,Sports,1,1,23756.740341
+11255,RBRK Earnings,Finance,3,3,23664.356292999997
+11114,MCO Earnings,Finance,4,4,23604.41512
+12248,KO Earnings,Finance,2,2,23583.42365000001
+10492,Greg Goes All In,Culture,3,3,23555.957667
+12459,H100 Rental Price Hit,Finance,1,6,23441.083907
+12653,Next OpenAI GPT Image Release by,Unknown,2,3,23396.692836000002
+11120,ADI Earnings,Finance,3,3,23343.630704
+11316,CHWY Earnings,Finance,3,3,23239.836287
+11235,M Earnings,Finance,3,3,23184.424561
+11052,CRSP Earnings,Finance,4,4,23183.325748000003
+12030,GS Earnings,Finance,2,2,23131.59588300001
+11083,WAY Earnings,Finance,4,4,22881.578050999997
+11261,DG Earnings,Finance,3,3,22874.580597
+12027,JPM Earnings,Finance,2,2,22565.921078
+11190,ICUI Earnings,Finance,3,3,22522.767159
+11252,CXM Earnings,Finance,3,3,22373.032557
+11101,DD Earnings,Finance,4,4,22265.462271
+11253,PD Earnings,Finance,2,2,22104.257703000003
+12160,PGR KPIs,Finance,2,10,22096.831294
+11055,FIS Earnings,Finance,4,4,22078.204558999998
+12606,Trump attend UFC,Culture,2,2,21972.998224
+11351,Israel Rocket Alerts,Unknown,1,1,21968.789745000005
+12531,Apple’s Market Cap,Finance,1,7,21942.320208
+12604,Nielsen Most Viewed Day Jesse Watters Weekly,Culture,3,15,21879.861930000003
+11161,CSGP Earnings,Unknown,1,1,21840.954153
+12295,ABBV KPIs,Finance,4,20,21697.354465
+11246,UNFI Earnings,Finance,3,3,21365.513816
+10599,DAX Hit Price Monthly,Finance,1,7,21010.266170000003
+12018,USD IDR hits,Unknown,1,8,20995.560284
+11094,EL Earnings,Finance,4,4,20978.639527
+11078,MRNA Earnings,Finance,4,4,20894.362715
+11045,TW Earnings,Finance,5,5,20844.413419
+12153,TSM KPIs,Finance,2,10,20719.842371
+12081,VZ KPIs,Finance,2,10,20674.112105
+11356,PLAY Earnings,Finance,4,4,20623.123916999997
+11113,LZB Earnings,Finance,4,4,20620.418088
+44,IPL,Unknown,3,3,20586.269999999997
+12083,T KPIs,Finance,2,10,20579.322912
+12312,SNPS KPIs,Finance,2,8,20525.269916
+11025,CMG Earnings,Finance,4,4,20411.394786
+12626,DXY Hit Price Weekly,Finance,11,277,20368.428525
+11058,MGM Earnings,Finance,4,4,20366.459837000002
+11088,GT Earnings,Finance,4,4,20231.531833
+11187,SHAK Earnings,Finance,4,4,20203.985318
+11278,Pakistan T20,Sports,4,4,20145.76288500001
+12151,DELL KPIs,Finance,2,8,20126.519224000007
+10834,Inflation Canada - Monthly,Unknown,2,10,20112.301458
+12099,GEV KPIs,Finance,2,10,20036.789549
+11228,OKTA Earnings,Finance,3,3,20025.548905
+10095,Ethereum Up or Down Weekly,Crypto,2,2,19976.408401
+10755,Cricket New Zealand,Sports,3,9,19948.28314
+12167,GE KPIs,Finance,2,10,19772.722007000004
+12302,SBUX KPIs,Finance,2,10,19758.417431
+12253,PG KPIs,Finance,2,10,19754.790235
+11123,BKNG Earnings,Finance,2,2,19738.564897999997
+12116,DASH KPIs,Finance,1,6,19734.843716
+11062,PINS Earnings,Finance,4,4,19731.707022
+11651,FRO Earnings,Finance,2,2,19701.544621
+11185,WRBY Earnings,Finance,3,3,19646.636671
+10987,GBPUSD Up or Down Daily,Finance,25,25,19624.682096
+12870,US imposes new sanctions on China,Politics,2,2,19611.044029000004
+11073,F Earnings,Unknown,1,1,19513.213928
+11183,SG Earnings,Finance,3,3,19481.462666
+11015,RSF capture Dilling,Politics,2,2,19414.280362999998
+12098,RTX KPIs,Finance,2,10,19385.667921
+12958,TTWO KPIs,Finance,2,10,19384.308452
+11090,ROKU Earnings,Finance,4,4,19282.760393
+11361,MSM Earnings,Finance,1,1,19243.279859
+11086,KHC Earnings,Finance,4,4,19236.740799
+12082,TMUS KPIs,Finance,2,10,19207.91012
+12952,UKMTO notices weekly,Unknown,2,10,19182.682564
+12256,CVS KPIs,Finance,2,10,19156.032676
+12394,LLY Earnings,Finance,2,2,19038.676018
+11242,HPE Earnings,Finance,3,3,19012.200861999998
+11177,ADSK Earnings,Finance,4,4,18989.087650999998
+11836,KMX Earnings,Finance,2,2,18705.173793000005
+11089,USFD Earnings,Finance,3,3,18570.482777
+10758,Buffett v. Ackman v. S&P,Finance,3,9,18534.098042999998
+11085,BGC Earnings,Unknown,1,1,18429.708293
+11260,PLBY Earnings,Finance,2,2,18419.128229999995
+12947,NEM KPIs,Finance,2,10,18342.619240000004
+11274,WB Earnings,Finance,2,2,18256.332872
+11178,WDAY Earnings,Finance,3,3,18234.361073
+11281,RUM Earnings,Finance,2,2,18220.480355
+12179,DHR KPIs,Finance,2,10,18151.045312000002
+12095,TXN KPIs,Finance,2,10,18049.705282
+11040,ICE Earnings,Finance,4,4,18030.947046
+10778,Trump invoke War Powers,Unknown,1,1,18003.359942
+12118,ADI KPIs,Finance,2,6,17962.524393000003
+11415,flight-cancellations-daily,Politics,10,10,17861.619661999997
+10043,Deepseek Top Model,Crypto,1,1,17797.955725
+10783,Unemployment Rate - U.K.,Unknown,3,13,17761.047642
+10489,NFL underdog,Sports,3,3,17716.804282
+11828,Lemonade Stand,Culture,2,29,17704.616198
+11285,LULU Earnings,Finance,3,3,17697.638834999998
+10771,QBgami,Sports,6,6,17658.423332000002
+12368,Metro Bank One Day Cup Women League 2,Sports,48,56,17656.514862
+11258,DOCU Earnings,Finance,3,3,17647.187587
+11127,OPEN Earnings,Finance,3,3,17572.327747
+11573,Anera 1 revenue,Unknown,2,16,17551.817367
+12301,APH KPIs,Finance,2,10,17539.033004
+12736,Macron call a referendum,Politics,2,2,17535.688606
+38,UFC,Pop-Culture ,1,1,17497.12
+11229,ANF Earnings,Finance,4,4,17410.395922
+11107,WYNN Earnings,Finance,2,2,17371.338241000012
+12851,OpenAI's frontier output token price,Unknown,1,6,17347.837362
+11061,EXPE Earnings,Finance,4,4,17328.409772
+11283,DLTR Earnings,Finance,3,3,17315.570271
+10725,LA Daily Weather,Weather,2,14,17303.913475
+11039,COP Earnings,Finance,4,4,17302.442772000002
+11091,YELP Earnings,Finance,4,4,17109.943197
+11066,TOST Earnings,Finance,4,4,16981.863589
+11115,AMPL Earnings,Finance,4,4,16899.061877
+12422,Grok (Web) Outage,Unknown,3,7,16704.038944
+12884,Central Bank of Chile Decision,Unknown,2,8,16685.891702
+11321,NMAX Earnings,Finance,2,2,16602.398372
+12951,WTT,Sports,11,11,16578.236149
+11244,KFY Earnings,Finance,2,2,16561.057091
+11262,PLL,Sports,55,55,16504.050334
+11233,BURL Earnings,Finance,3,3,16321.584598
+11259,GAMB Earnings,Finance,1,1,16187.800889
+12117,PANW KPIs,Finance,2,6,16137.059046
+11080,LH Earnings,Finance,3,3,15932.306592
+11102,WMB Earnings,Finance,3,3,15886.076143999999
+12605,Nielsen # Views ABC World News Weekly,Culture,4,32,15326.705971
+12284,AAPL Earnings,Finance,2,2,15312.618892
+12454,US Trade Deficit Monthly,Unknown,1,7,15306.670746999998
+12243,RCL Earnings,Finance,2,2,15268.729904999998
+10767,How high will Trump's approval rating go,Politics,2,11,15145.886422000001
+12523,Anthropic’s valuation,Finance,4,35,15125.917746
+11322,FDS Earnings,Finance,3,3,14981.766926
+11036,MET Earnings,Finance,4,4,14869.725017
+11236,KR Earnings,Finance,3,3,14777.366963999997
+12298,STX KPIs,Finance,2,10,14755.627897
+11995,Andhra Premier League,Sports,2,5,14720.163668000001
+11033,ORLY Earnings,Finance,3,3,14614.245133
+12286,TDAY Earnings,Finance,2,2,14593.918011999995
+12661,Next Alibaba Qwen Flash Released by,Unknown,2,4,14522.691796
+12085,NEE KPIs,Finance,2,10,14399.709106
+12789,Oman D50,Sports,27,27,14348.009409
+11284,ASO Earnings,Finance,3,3,14180.184148
+11072,HOG Earnings,Finance,3,3,14034.991591999998
+11106,APTV Earnings,Finance,3,3,14015.423687999999
+12948,Anthropic Sandbox Escape,Unknown,2,5,14001.555607
+10811,Counter-Strike Doppler Index Multistrike Weekly,Finance,2,22,13923.794365
+12121,BA KPIs,Finance,1,9,13843.801950999992
+10996,H Earnings,Finance,4,4,13834.541572000002
+12659,Next Alibaba Qwen Max Released by,Unknown,1,5,13817.59755
+10955,Hungary PM Deriv,Politics,1,1,13805.251298
+11087,HUBS Earnings,Finance,4,4,13723.662078000001
+12788,Major Clubs T20,Sports,11,16,13666.441973
+11133,TXRH Earnings,Finance,3,3,13289.594423
+12144,MAR KPIs,Finance,3,13,13265.845869
+11073,F Earnings,Finance,3,3,13236.306441
+12404,MCD KPIs,Finance,2,10,13225.203204000001
+12122,HD KPIs,Finance,1,4,13196.650011000002
+10596,NIK Hit Price Monthly,Finance,1,7,13156.32937
+12644,Pikachu ex Price Up/Down,Culture,2,2,13149.475785
+11082,CZR Earnings,Finance,3,3,13033.110749000005
+11256,BBW Earnings,Finance,2,2,13030.665025
+12274,CL Earnings,Finance,2,2,13022.391029999999
+12100,HON KPIs,Finance,2,10,13015.447754
+12287,CBRE Earnings,Finance,2,2,12995.271554999994
+12401,LLY KPIs,Finance,4,20,12982.317954
+12159,IBKR KPIs,Finance,2,10,12861.899921000002
+12403,YUM KPIs,Finance,2,10,12842.35374
+12600,Nielsen # Views Jesse Watters Weekly,Culture,4,24,12789.612524
+11161,CSGP Earnings,Finance,3,3,12742.717857
+12621,Gemini Flash release by,Unknown,1,4,12735.571679
+12259,WELL KPIs,Finance,2,10,12704.152282
+12175,UNP KPIs,Finance,2,10,12667.926206
+12551,ASEAN Club Championship,Sports,4,15,12648.115044
+12236,SONO Earnings,Finance,1,1,12621.568459
+12540,Nielsen # Views This Week,Culture,4,32,12462.849645
+12276,YUM Earnings,Finance,2,2,12364.807485999992
+11126,HHH Earnings,Finance,2,2,12362.845988000001
+11353,Joseph Aoun out,Politics,1,2,12355.822858000001
+11992,Coppa il Mondo T10,Sports,31,72,12315.551244
+10981,Copper (HG) above,Finance,1,11,12312.374681000001
+11204,TBPH Earnings,Finance,3,3,12292.835105
+12602,Nielsen Most Viewed Day ABC World News Weekly,Culture,3,21,12257.797430999999
+12238,SOFI Earnings,Finance,2,2,12234.255206
+12242,UPS Earnings,Finance,2,2,12107.889083000002
+11357,MKC Earnigns,Finance,1,1,12079.433556999998
+11203,SPCE Earnings,Finance,2,2,12032.821189999999
+12873,Weekly Agricultural Commodity Drought,Weather,24,124,12023.107295
+12660,Next Alibaba Qwen Plus Released by,Unknown,1,7,11942.513552
+12173,AXP KPIs,Finance,2,10,11855.281409
+11100,GTM Earnings,Finance,3,3,11836.027866
+10341,Houthi attack on shipping,Politics,1,1,11833.377381
+12097,LMT KPIs,Finance,2,10,11804.44479
+10813,Counter-Strike Gloves Index Multistrike Weekly,Finance,1,11,11730.672997
+11650,WSM Earnings,Finance,3,3,11669.993434
+11095,NWSA Earnings,Finance,4,4,11611.955428000001
+12390,FLUT Earnings,Finance,1,1,11564.081662999995
+12285,CI Earnings,Finance,2,2,11537.035616999998
+11060,PAG Earnings,Unknown,1,1,11507.631941
+12258,VRT KPIs,Finance,1,5,11485.354175999999
+10720,#2 Netflix Movie,Unknown,1,10,11404.793133
+11125,FNF Earnings,Finance,4,4,11369.177254
+12124,AMAT KPIs,Finance,1,4,11323.138053
+10865,Billboard #1 Album,Unknown,1,9,11307.008825
+12655,Google Gemini Flash-Lite Model Released by,Unknown,1,3,11253.630829
+12332,Setka Cup Ukraine Women,Sports,131,183,11206.160856
+12004,PEP Earnings,Finance,2,2,11129.288506999997
+10234,Metaplanet,Crypto,2,2,11083.895859999999
+12239,PG Earnings,Finance,2,2,11069.202254
+10934,Jokic Prizm 335 Multistrike Monthly,Sports,1,13,11065.147486
+12096,IBM KPIs,Finance,2,10,11042.551563
+11998,JCL T20,Sports,32,56,10975.478416
+11319,PAYX Earnings,Finance,2,2,10962.479438
+11123,BKNG Earnings,Unknown,1,1,10947.369477
+12240,ARCC Earnings,Finance,2,2,10939.496760999999
+12601,Nielsen # Views The Five Weekly,Culture,4,24,10932.251163
+11993,ECS Bulgaria,Sports,9,19,10884.922548
+11300,All-In Podcast,Politics,1,25,10819.24815
+12130,SPOT KPIs,Finance,2,12,10765.130675999999
+10932,Ohtani Bowman 49 Multistrike Monthly,Sports,1,13,10734.8869
+12206,IBM Earnings,Finance,2,2,10733.503761
+10937,Maye Prizm 329 Multistrike Monthly,Sports,1,13,10653.181651
+12684,GitHub Git Operations critical incident,Unknown,2,5,10387.211185
+12398,ATO Earnings,Finance,2,2,10336.534886
+12867,Trump and Pezeshkian meet,Politics,2,2,10296.015125
+11035,UHAL.B Earnings,Finance,3,3,10262.9206
+12293,SPGI KPIs,Finance,2,10,10128.497273
+11991,Telangana T20,Sports,16,29,10096.617282
+10935,SGA Prizm 184 Multistrike Monthly,Sports,1,13,10006.869999999999
+12288,LIN KPIs,Finance,2,10,9970.932074000002
+11167,IMAX Earnings,Finance,4,4,9896.679201
+12603,Nielsen Most Viewed Day The Five Weekly,Culture,3,15,9774.228753
+12195,TMUS Earnings,Finance,3,3,9749.387727000001
+12266,Lana del Rey Album,Culture,1,3,9740.419892
+11843,ACN Earnings,Finance,2,2,9717.253394
+11248,GRPN Earnings,Finance,1,1,9601.261206
+12078,MMM Earnings,Finance,2,2,9583.587381000001
+12967,Gold Up or Down 15m,Finance,58,58,9558.572549
+11818,MTN Earnings,Finance,2,2,9550.021738000001
+12885,Pakistan military action against Afghanistan by,Unknown,1,3,9503.558532000001
+11176,TTD Earnings,Finance,2,2,9480.375273
+12028,BLK Earnings,Finance,2,2,9421.012502000001
+12073,JNJ Earnings,Finance,2,2,9392.662069
+12342,CAT Earnings,Finance,2,2,9280.589220999998
+10210,CFB 2025,Unknown,1,2,9226.285011
+12643,Mega Gengar ex Price Up/Down,Culture,2,2,9224.168543
+12110,AVGO KPIs,Finance,2,10,9182.845493
+12154,PLD KPIs,Finance,2,10,9115.991452
+12157,ABT KPIs,Finance,2,10,9071.292998
+12637,Phantasmal Flames Booster Box Price Up/Down,Culture,2,2,9055.126783
+12307,HOOD KPIs,Finance,1,6,9013.935390000002
+11096,PTON Earnings,Finance,4,4,8986.644783
+10586,TikTok Ban,Unknown,1,1,8984.34
+11238,GPRO Earnings,Finance,1,1,8964.650029
+12299,WDC KPIs,Finance,2,10,8787.268425
+12280,MSTR Earnings,Finance,3,3,8726.959224
+12172,BX KPIs,Finance,2,10,8677.731851999999
+12337,POWL Earnings,Finance,1,1,8676.360111
+10205,Nubcat,Culture,3,3,8633.570086
+43,ARB Price,Unknown,2,2,8527.96
+12279,VIRT Earnings,Finance,1,1,8526.967238000001
+11100,GTM Earnings,Unknown,1,1,8451.704302
+12235,EA Earnings,Finance,2,2,8450.816271
+12196,LMT Earnings,Finance,3,3,8408.070782
+12237,MSFT Earnings,Finance,2,2,8368.966041
+12848,OpenAI resets Codex weekly limit on,Unknown,1,8,8362.400328
+12273,BEN Earnings,Finance,2,2,8357.173461999995
+12822,South Park S29 Mentions,Culture,3,39,8340.491455
+12271,XOM Earnings,Finance,4,4,8324.185034
+11158,BBBY Earnings,Finance,2,2,8258.832005
+12161,WFC KPIs,Finance,2,10,8232.766855
+12136,ABNB KPIs,Finance,3,11,8216.632434
+12388,CELH Earnings,Finance,1,1,8207.491346
+11323,MKC Earnings,Finance,2,2,8192.362274
+12292,MO KPIs,Finance,2,9,8185.647870000001
+11664,Databricks vs Stripe,Finance,2,2,8177.883829999999
+12564,AFL Women,Sports,48,48,8146.155857
+12571,Pro D2,Sports,9,27,8129.1530999999995
+12386,NET Earnings,Finance,2,2,8084.2858240000005
+12399,MKTX Earnings,Finance,2,2,8003.451239999998
+12290,CVX KPIs,Finance,2,10,7998.643568
+12402,H KPIs,Finance,2,10,7989.751301
+12397,SNDK Earnings,Finance,2,2,7958.378572
+12633,151 Ultra-Premium Collection Price Up/Down,Culture,2,2,7861.34041
+10449,Big Bash League,Sports,3,3,7841.73
+12664,Youtube Music Views,Culture,4,30,7829.135142
+12346,MRK Earnings,Finance,2,2,7765.900562000001
+12031,C Earnings,Finance,2,2,7704.664567
+12071,UAL Earnings,Finance,2,2,7672.414835
+11835,DBI Earnings,Finance,2,2,7651.962524999998
+12126,PLTR KPIs,Finance,1,7,7651.869005
+10097,ETH/BTC Up or Down Monthly,Crypto,1,1,7646.323045
+12374,Kuwait Kerala Premier League T20,Sports,42,64,7642.050464
+12646,Mega Charizard Y ex Price Up/Down,Culture,2,2,7602.906971
+12297,KLAC KPIs,Finance,2,10,7372.130956
+11080,LH Earnings,Unknown,1,1,7275.324406
+12625,DXY Daily Up or Down,Finance,49,49,7245.933162
+12283,MA Earnings,Finance,2,2,7235.907258
+12645,Mega Dragonite ex Price Up/Down,Culture,2,2,7159.288981
+10868,BRICS add a new member,Unknown,1,1,7153.639077
+12245,IVZ Earnings,Finance,2,2,7123.957082000001
+12072,MS Earnings,Finance,2,2,7110.673975
+12810,FDX Earnings,Finance,2,2,7101.3980729999985
+12457,PXLW Earnings,Finance,2,2,7081.158362
+12750,SK hynix Hit Price Monthly,Finance,3,91,7068.766824
+12400,AMD KPIs,Finance,2,10,7050.366148
+12289,XOM KPIs,Finance,2,10,7023.2891660000005
+12634,Celebrations Ultra Premium Collection Price Up/Down,Culture,2,2,6968.609426
+12220,NVTS Earnings,Finance,2,2,6891.789628000001
+12393,CRCL Earnings,Finance,2,2,6880.009708999999
+12814,MU Earnings,Finance,1,1,6843.247794000001
+11167,IMAX Earnings,Unknown,1,1,6826.753997
+12740,Assam Premier League,Sports,3,5,6782.115109
+11085,BGC Earnings,Finance,2,2,6781.974435
+11800,GTLB Earnings,Finance,2,2,6562.2228350000005
+11232,MRVL Earnings,Finance,2,2,6531.826803000001
+12188,AAL Earnings,Finance,2,2,6508.738689
+12396,FIG Earnings,Finance,1,1,6499.314778999999
+12205,TXN Earnings,Finance,2,2,6405.887884
+10756,Nancy Up/Down,Finance,5,5,6343.959688
+12065,TSM Earnings,Finance,1,1,6323.126350999998
+12483,Anthropic vs OpenAI Private Return,Finance,3,3,6278.534135000001
+12217,BX Earnings,Finance,2,2,6246.379111
+12303,QCOM KPIs,Finance,2,10,6216.862017
+12077,TFC Earnings,Finance,2,2,6196.505127
+12029,WFC Earnings,Finance,2,2,6148.6630190000005
+12190,SSNC Earnings,Finance,3,3,6101.457218999998
+12636,Ascended Heroes Elite Trainer Box Price Up/Down,Culture,2,2,6043.030994
+12861,trump food mentions,Politics,1,13,5969.914063
+11320,FEMY Earnings,Finance,1,1,5958.985218
+10115,Dubai Daily Weather,Weather,1,7,5948.831161
+11795,CBRL Earnings,Finance,2,2,5882.993271
+12272,CVX Earnings,Finance,2,2,5860.042421
+11488,Nikita Bier out,Unknown,1,1,5847.567260000002
+11060,PAG Earnings,Finance,2,2,5847.373753
+12246,BA Earnings,Finance,2,2,5839.088705
+12545,Taiwan Football Premier League,Sports,9,52,5835.186975
+11960,John Ratcliffe Out,Politics,2,2,5788.899354
+12032,BAC Earnings,Finance,2,2,5756.662507
+12395,CHYM Earnings,Finance,2,2,5736.886942
+12221,WWD Earnings,Finance,1,1,5681.774006
+12198,TSCO Earnings,Finance,2,2,5675.972462
+12094,WTFC Earnings,Finance,3,3,5667.605841
+10196,Major League Pickleball,Sports,10,10,5460.652143
+12663,Nielsen Most Viewed Day NBC Nightly News Weekly,Culture,2,14,5456.2288419999995
+12075,KMI Earnings,Finance,2,2,5433.674682000001
+12296,GLW KPIs,Finance,2,10,5398.501335
+12786,German Super League NRW T10,Sports,58,92,5311.059142
+10903,Jesus Christ return,Unknown,1,1,5283.35
+12064,USB Earnings,Finance,2,2,5275.0002939999995
+12824,Towns and Woods' Sotheby's picks,Culture,8,31,5263.342418
+12211,HAS Earnings,Finance,2,2,5263.090353999999
+12748,KFC T20 Max,Sports,29,41,5209.752289
+10373,Vegas Matt,Culture,2,2,5163.813663
+11842,SWBI Earnings,Finance,2,2,5117.869346000001
+10757,Pelosi vs. MTG,Finance,4,4,5083.073129
+10682,FIDE World Cup 2025 Semifinals,Sports,2,2,5062.825984
+12787,ECS Portugal,Sports,14,27,5061.867287
+12807,BNY Earnings,Finance,1,1,4973.524949000001
+11033,ORLY Earnings,Unknown,1,1,4925.434388
+12207,EFX Earnings,Finance,3,3,4921.565148
+10093,Bitcoin Dominance Up or Down Weekly,Crypto,1,1,4903.792307
+12291,BKNG KPIs,Finance,2,8,4873.129645
+10143,pumpfun daily,Crypto,5,5,4826.134579
+12222,VZ Earnings,Finance,2,2,4809.829849000001
+12214,IBKR Earnings,Finance,2,2,4809.700498
+12552,New Zealand NBL,Sports,1,3,4722.257534000001
+12066,STT Earnings,Finance,2,2,4676.975913000001
+10866,30-year mortgage rate,Politics,1,1,4593.350637
+12074,MTB Earnings,Finance,2,2,4551.510378
+12639,Blooming Waters Premium Collection Price Up/Down,Culture,2,2,4542.855747
+12216,ALLY Earnings,Finance,3,3,4445.23288
+12853,Bitcoin Dominance Weekly,Crypto,5,27,4413.2381159999995
+12079,BFC Earnings,Finance,2,2,4405.24359
+12808,CFLT Earnings,Finance,1,1,4378.190723
+12189,HON Earnings,Finance,2,2,4329.624572000001
+12250,TDOC Earnings,Finance,2,2,4249.465637000001
+10939,Counter-Strike Glove Index Multistrike Monthly,Unknown,1,11,4230.971727
+12458,ETOR Earnings,Finance,1,1,4173.073931
+10938,Counter-Strike Knife Index Multistrike Monthly,Unknown,1,11,4138.928844
+11212,Bitmine Weekly,Crypto,1,1,4131.113105
+12372,Maharani Trophy KSCA T20,Sports,19,28,4125.647737
+12955,US Gas Hit Price Weekly,Finance,2,20,4120.527219
+11245,KSS Earnings,Finance,1,1,4119.474127000001
+12209,MBWM Earnings,Finance,2,2,4114.7571020000005
+12005,WDFC Earnings,Finance,2,2,4106.687021
+12883,Bitcoin Hashprice Weekly,Crypto,2,10,4104.277399
+11175,IART Earnings,Unknown,1,1,4075.731249
+11796,DKS Earnings,Finance,2,2,4005.480776000001
+12223,AXP Earnings,Finance,2,2,4003.6233049999996
+12651,Squirtle Price Up/Down,Culture,2,2,3971.252352
+12652,Bulbasaur Price Up/Down,Culture,2,2,3959.6344700000004
+11237,IOT Earnings,Finance,2,2,3932.062981
+12339,CLX Earnings,Finance,2,2,3907.8140759999997
+12200,UNP Earnings,Finance,2,2,3863.1536210000004
+11207,EB Earnings,Finance,1,1,3783.850348
+12375,JCL T10,Sports,24,30,3783.350728
+12537,TGT Earnings,Finance,1,1,3701.024411
+12070,PNC Earnings,Finance,2,2,3698.2908480000006
+12956,BLK KPIs,Finance,1,5,3671.471652
+12147,KEYS KPIs,Finance,1,4,3669.033812
+12809,DAL Earnings,Finance,1,1,3616.0084579999993
+11820,LEN Earnings,Finance,2,2,3566.049741
+1,NFL,Pop-Culture ,1,1,3552.7
+12313,PEP KPIs,Finance,1,5,3551.292411
+12790,Liga Mexicana de Béisbol,Sports,12,12,3516.2680850000006
+11894,Liga Argentina,Sports,3,9,3476.8590000000004
+12068,NFLX Earnings,Finance,2,2,3463.0021390000006
+11883,CCL Earnings,Finance,2,2,3408.786108
+10409,USD/JPY Daily Up or Down,Finance,72,72,3398.457238
+12392,SOUN Earnings,Finance,1,1,3350.883475
+11175,IART Earnings,Finance,3,3,3295.338661
+12208,MSCI Earnings,Finance,2,2,3236.576432
+11339,Thunderbolt T10 League,Sports,11,15,3231.7101089999996
+12373,Mukono Super Smash T20,Sports,16,18,3231.696245
+10940,Counter-Strike Case Index Multistrike Monthly,Unknown,1,11,3228.840392
+11696,FIVE Earnings,Finance,2,2,3225.849784
+12249,NXPI Earnings,Finance,2,2,3179.5521839999997
+11799,BBY Earnings,Finance,2,2,3158.277244
+12650,Charmander Price Up/Down,Culture,2,2,3119.802727
+11263,WLL,Sports,9,9,3112.0935210000002
+12378,Inter-Provincial One Day,Sports,2,2,3073.415119
+11924,Ligue A,Sports,15,17,3046.498905
+12010,Top Twitch Streamer,Culture,1,19,3035.568488
+12649,Gengar (Cosmos Holo) — EB Games Exclusive Price Up/Down,Culture,2,2,3029.471837
+11819,SJM Earnings,Finance,2,2,2966.760891
+12385,HTZ Earnings,Finance,1,1,2935.66886
+11156,India Unemployment,Unknown,1,3,2916.921588
+12648,Charizard ex Price Up/Down,Culture,2,2,2888.971666
+12282,FCN Earnings,Finance,2,2,2887.275433
+10978,canada unemployment,Unknown,1,7,2882.040583
+12635,Ascended Heroes Pokémon Center Elite Trainer Box (Exclusive) Price Up/Down,Culture,2,2,2815.42639
+12456,STUB Earnings,Finance,1,1,2792.353718
+12640,Perfect Order Booster Box Price Up/Down,Culture,2,2,2778.256757
+11798,MDB Earnings,Finance,2,2,2762.7736289999993
+12087,USDSEK Daily Up or Down,Finance,73,73,2741.920384
+12069,UNH Earnings,Finance,2,2,2732.691067
+10406,GBP/USD Daily Up or Down,Finance,71,71,2729.96545
+12611,BABA Earnings,Finance,1,1,2714.532648
+10408,USD/MXN Daily Up or Down,Finance,73,73,2668.5318
+11817,CPB Earnings,Finance,2,2,2667.3158989999997
+12391,MCHP Earnings,Finance,1,1,2659.354721
+12737,ASAN Earnings,Finance,1,1,2624.391298
+11220,T20 Premier League Women,Sports,6,6,2603.266411
+45,BTC Multi Strikes Weekly,Unknown,3,3,2560.01
+12204,GD Earnings,Finance,2,2,2537.451973
+10941,Counter-Strike Doppler Index Multistrike Monthly,Unknown,1,11,2533.73
+12641,Perfect Order Pokémon Center Elite Trainer Box Price Up/Down,Culture,2,2,2512.898286
+12275,PSKY Earnings,Finance,1,1,2490.389101
+10405,EUR/USD Daily Up or Down,Finance,73,73,2472.682355
+12090,USDBRL Daily Up or Down,Finance,74,74,2414.9771
+12067,CFG Earnings,Finance,2,2,2393.6807150000004
+12278,DLB Earnings,Finance,1,1,2391.144781
+12527,VIK Earnings,Finance,1,1,2382.9792740000003
+10430,Overwatch,Unknown,8,8,2351.381843
+12277,PIPR Earnings,Finance,2,2,2351.052844
+11306,USDKRW Daily Up or Down,Finance,73,73,2342.9704
+10404,USD/CHF Daily Up or Down,Finance,72,72,2331.535243
+12089,USDTRY Daily Up or Down,Finance,71,71,2297.428578
+12968,Silver Up or Down 15m,Finance,24,24,2234.800397
+12213,KEY Earnings,Finance,2,2,2223.0667479999997
+12203,T Earnings,Finance,2,2,2147.165224
+12088,USDZAR Daily Up or Down,Finance,72,72,2127.9339
+12857,ETH/BTC Hit Price Weekly,Crypto,4,25,2106.9854
+12086,USDNOK Daily Up or Down,Finance,75,75,2077.6837
+12888,Mistral Small (4.1+) released by,Unknown,1,2,2018.928392
+12538,DY Earnings,Finance,1,1,2018.679171
+12215,COF Earnings,Finance,3,3,1979.4219839999998
+12455,MRX Earnings,Finance,1,1,1966.677872
+12956,BLK KPIs,Unknown,1,5,1947.820924
+12241,JBLU Earnings,Finance,2,2,1915.839276
+11997,KPL Indo Nepal T20,Sports,4,8,1896.1547640000001
+12199,INTC Earnings,Finance,2,2,1874.154931
+12880,Bitcoin Difficulty Adjustment,Crypto,2,12,1866.789011
+12519,ZEC Up or Down 4h,Crypto,100,100,1826.177995
+12647,Mega Charizard X ex Price Up/Down,Culture,2,2,1788.5241850000002
+12193,DOW Earnings,Finance,2,2,1786.562118
+12411,QUBT Earnings,Finance,1,1,1772.1464529999998
+12752,Trump speak to Mark Carney,Politics,1,2,1737.898902
+10757,Pelosi vs. MTG,Politics,2,2,1718.288642
+12813,MOG.A Earnings,Finance,1,1,1708.386052
+12338,ON Earnings,Finance,1,1,1700.8828150000004
+12212,SCHW Earnings,Finance,2,2,1699.315623
+10098,SOL/ETH Up or Down Monthly,Crypto,1,1,1679.19716
+12615,BOX Earnings,Finance,1,1,1667.2055749999995
+10096,ETH/BTC Up or Down Weekly,Crypto,2,2,1579.3370400000001
+12197,COUR Earnings,Finance,2,2,1553.162142
+12557,Handball Bundesliga,Sports,34,34,1545.685683
+12347,SNEX Earnings,Finance,1,1,1541.189434
+12815,PJT Earnings,Finance,1,1,1531.182154
+11338,National T20 Cup,Sports,7,8,1499.2556
+12855,Green Days Weekly,Crypto,3,18,1457.86099
+10074,DOGE Up Down Monthly,Crypto,1,1,1456.957264
+12812,KBH Earnings,Finance,1,1,1434.819472
+12785,Women's Delhi Premier League T20,Sports,4,5,1433.890813
+12387,DNUT Earnings,Finance,1,1,1403.949246
+11797,BRZE Earnings,Finance,2,2,1372.305821
+12862,Senate MOV Matchups,Politics,1,1,1349.5135249999998
+11257,BZFD Earnings,Finance,1,1,1336.252219
+12191,STBA Earnings,Finance,2,2,1336.1840750000001
+12978,Nepal Premier League,Sports,2,3,1325.504097
+12588,2. Bundesliga,Sports,19,22,1303.487316
+12811,GIS Earnings,Finance,1,1,1163.080057
+12555,Håndboldligaen,Sports,27,27,1149.822972
+12343,SYY Earnings,Finance,1,1,1118.556442
+12586,Ligue A Women,Sports,14,14,1103.645746
+12201,PCG Earnings,Finance,2,2,1080.597542
+12389,AFL Earnings,Finance,1,1,1064.501
+12669,generic ballot 2026,Politics,1,5,1062.767341
+12194,UBSI Earnings,Finance,2,2,1045.579292
+11994,NSK Trophy State T20,Sports,7,13,1025.01
+12340,HESM Earnings,Finance,2,2,1023.0360469999999
+12526,BLSH Earnings,Finance,1,1,949.524699
+12341,CBT Earnings,Finance,1,1,936.157218
+12662,Nielsen # Views NBC Nightly News Weekly,Culture,1,8,933.626858
+12973,LITE Earnings,Finance,1,1,916.101548
+12210,HAL Earnings,Finance,2,2,848.07419
+12345,HNGE Earnings,Finance,2,2,824.736665
+11922,Efeler Ligi,Sports,8,13,791.763621
+11279,Plunket Shield,Sports,2,3,784.8407
+12886,Mistral Large (4.1+) released by,Unknown,1,2,779.04
+12612,BJ Earnings,Finance,1,1,763.5682469999999
+12613,SMTC Earnings,Finance,1,1,733.259382
+12871,Median Home Price Denver,Unknown,1,7,729.226728
+12143,RACE KPIs,Finance,1,4,727.134669
+12585,Ligue B,Sports,8,8,670.3693850000001
+12570,European Challenge Cup,Sports,4,6,664.231372
+12622,URBN Earnings,Finance,1,1,603.232836
+12467,Virginia and Vini Jr breakup,Culture,1,1,587.063616
+12887,Mistral Medium (3.6+) released by,Unknown,1,2,584.6272730000001
+11921,PlusLiga,Sports,10,10,557.722203
+12556,LNH Division 1,Sports,16,16,556.449656
+12642,First Partner Illustration Collection (Series 1) Price Up/Down,Culture,2,2,474.3603
+12308,MATCH KPIs,Finance,1,3,466.95414999999997
+12638,Team Rocket's Moltres ex Ultra-Premium Collection Price Up/Down,Culture,2,2,458.504634
+12559,Eliteserien,Sports,10,10,448.7604
+12979,Women's Big Bash League,Sports,3,4,395.222368
+12192,INFY Earnings,Finance,1,1,394.041304
+12377,Falcons Super League T20,Sports,2,2,379.16
+11920,SuperLega,Sports,5,5,377.25455
+10106,Fartcoin weeklies,Crypto,1,1,307.548949
+11494,UK Government approval,Politics,1,1,262.56313
+12806,AMC Earnings,Finance,1,1,261.12359000000004
+12554,EHF Champions League,Sports,13,13,253.25979999999998
+10092,Bitcoin Dominance Up or Down Monthly,Crypto,1,1,239.017939
+12872,Median Home Price Dallas,Unknown,1,7,222.425816
+10093,Bitcoin Dominance Up or Down Weekly,Unknown,1,1,215.968393
+12561,Liga ASOBAL,Sports,7,7,190.257544
+11929,CEV Champions League,Sports,2,2,188.43
+12558,NB I,Sports,6,6,184.954358
+12590,Belgian Liga A,Sports,4,4,177.9332
+12050,SpaceX Closing Price End of Month,Finance,1,1,152.583438
+12971,Steam US #1 Weekly,Culture,1,10,143.20032700000002
+4,NHL,Unknown,3,6,130.7
+12856,Crypto Race Weekly,Crypto,1,8,120.0
+12560,Superliga,Sports,4,4,71.251933
+11925,Volleyball Bundesliga,Sports,2,2,57.020900000000005
+11926,SV.League,Sports,1,1,55.9644
+11425,LPC Up or Down,Unknown,1,1,54.564266
+12980,Hong Kong Sixes,Sports,1,1,40.901406
+11154,Brazil Unemployment,Unknown,1,7,20.58646
+10110,archBTC Up or Down Hourly,Crypto,1,1,15.368123
+12324,TT Elite Series,Sports,1,1,8.0203
+10083,SUI Monthly Hit Price,Crypto,1,2,4.283799999999999
+12972,Steam US #2 Weekly,Culture,1,1,4.22445
