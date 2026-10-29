@@ -164,8 +164,15 @@ def enrich_resolutions(db, session, max_batches=None):
             if not isinstance(row, dict) or not isinstance(row.get("condition_id"), str) or not isinstance(row.get("status"), str):
                 raise ValueError("Resolution row is missing condition_id or status")
             identifier = row["condition_id"].lower()
-            if identifier not in conditions or identifier in lookup:
-                raise ValueError("Unexpected or duplicate condition in resolution response")
+            if identifier not in conditions:
+                raise ValueError(f"Unexpected condition in resolution response: {identifier}")
+            if identifier in lookup:
+                # The API can repeat the exact same settlement row in a batch.
+                # Only identical repeats are harmless; never pick an arbitrary
+                # winner between conflicting responses for the same condition.
+                if lookup[identifier] != row:
+                    raise ValueError(f"Conflicting resolution rows for condition: {identifier}")
+                continue
             lookup[identifier] = row
         stamp = datetime.now(timezone.utc).isoformat()
         with db:

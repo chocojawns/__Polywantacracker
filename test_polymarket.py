@@ -101,6 +101,43 @@ class CollectionTests(unittest.TestCase):
             c.get(session, "/markets/keyset", {})
         self.assertEqual(session.get.call_count, 1)
 
+    def test_data_api_identical_duplicate_is_saved_once_and_resume_skips_it(self):
+        condition = "0x" + "1" * 64
+        resolution = {"condition_id": condition, "status": "resolved", "payouts": [0, 1_000_000]}
+        with self.db:
+            self.db.execute("INSERT INTO records VALUES (?,?,?,?)",
+                            ("markets", "1", json.dumps(market(conditionId=condition)), "now"))
+        # Independently decoded objects, with a different key order, still
+        # represent the same JSON row returned twice by the live API.
+        duplicate = dict(reversed(list(resolution.items())))
+        with patch.object(c, "get", return_value={"data": [resolution, duplicate]}), patch.object(c.time, "sleep"):
+            self.assertTrue(c.enrich_resolutions(self.db, None))
+        saved = self.db.execute("SELECT payload FROM records WHERE kind='resolutions'").fetchall()
+        self.assertEqual(len(saved), 1)
+        self.assertEqual(json.loads(saved[0][0]), resolution)
+        c.export(self.db, self.folder)
+        df = a.load(self.folder / "polymarket_markets.csv")
+        self.assertEqual(df["confirmed_result"].iloc[0], "No")
+        with patch.object(c, "get") as get:
+            self.assertTrue(c.enrich_resolutions(self.db, None))
+            get.assert_not_called()
+
+    def test_data_api_conflicting_or_unrequested_rows_do_not_commit_batch(self):
+        condition = "0x" + "1" * 64
+        resolution = {"condition_id": condition, "status": "resolved", "payouts": [0, 1_000_000]}
+        with self.db:
+            self.db.execute("INSERT INTO records VALUES (?,?,?,?)",
+                            ("markets", "1", json.dumps(market(conditionId=condition)), "now"))
+        for bad, message in [
+            ({**resolution, "payouts": [1_000_000, 0]}, "Conflicting resolution rows"),
+            ({**resolution, "condition_id": "0x" + "2" * 64}, "Unexpected condition"),
+        ]:
+            with self.subTest(message=message):
+                with patch.object(c, "get", return_value={"data": [resolution, bad]}):
+                    with self.assertRaisesRegex(ValueError, message):
+                        c.enrich_resolutions(self.db, None)
+                self.assertEqual(self.db.execute("SELECT count(*) FROM records WHERE kind='resolutions'").fetchone()[0], 0)
+
     def test_data_api_enrichment_resumes_and_caches_misses(self):
         records = [("markets", str(i), json.dumps(market(str(i), conditionId="0x" + format(i, "064x"))), "now") for i in range(21)]
         with self.db:
