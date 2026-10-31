@@ -1,0 +1,989 @@
+TOP 10 MARKETS PER CATEGORY BY REPORTED LIFETIME USD VOLUME
+Source: collector market CSV; includes collected open and closed markets.
+This ranks trading activity, not individual bets, payouts, or profits.
+Duration = reported start to actual close, in DAYS. Dates are UTC.
+N/A = missing/invalid timing, negative duration, or no completed close; scheduled end is not substituted.
+
+-
+------------------------------------------------------------
+Will the Fed increase interest rates by 25 bps after its May meeting?
+Volume: $161,929.81 | Duration: 42.044 days
+Start date (UTC): 2023-03-22 | Close date (UTC): 2023-05-03
+
+Will the Fed increase interest rates by 0 bps after its May meeting?
+Volume: $59,840.96 | Duration: 42.043 days
+Start date (UTC): 2023-03-22 | Close date (UTC): 2023-05-03
+
+Will the Fed increase interest rates by 50 bps after its May meeting?
+Volume: $17,386.71 | Duration: 42.043 days
+Start date (UTC): 2023-03-22 | Close date (UTC): 2023-05-03
+
+Will the Fed decrease interest rates by 25 bps after its May meeting?
+Volume: $9,782.96 | Duration: 42.043 days
+Start date (UTC): 2023-03-22 | Close date (UTC): 2023-05-03
+
+Art
+------------------------------------------------------------
+Will total sales exceed $20M for the Cryptopunks auction at Christie’s?
+Volume: $120,494.95 | Duration: N/A
+Start date (UTC): N/A | Close date (UTC): 2021-05-12
+
+Will ConstitutionDAO win the Sotheby’s auction for the United States Constitution?
+Volume: $87,109.13 | Duration: 3.996 days
+Start date (UTC): 2021-11-15 | Close date (UTC): 2021-11-19
+
+Will Basquiat’s “Versus Medici” sell for more than $50 million at Sotheby’s?
+Volume: $80,100.33 | Duration: N/A
+Start date (UTC): N/A | Close date (UTC): 2021-05-13
+
+Will Emily Ratajkowski’s NFT go for more than $2 million at Christie’s?
+Volume: $56,683.90 | Duration: N/A
+Start date (UTC): N/A | Close date (UTC): 2021-05-14
+
+Will Roy Lichtenstein’s “Interior: Perfect Pitcher” sell for more than $30 million at Christie’s?
+Volume: $30,248.40 | Duration: N/A
+Start date (UTC): N/A | Close date (UTC): 2021-05-14
+
+What will the “Official Edition” of the United States Constitution sell for at Sotheby’s?
+Volume: $27,355.75 | Duration: 3.868 days
+Start date (UTC): 2021-11-15 | Close date (UTC): 2021-11-19
+
+Will Joan Mitchell's "Untitled" sell for more than $15 million at Christie’s?
+Volume: $27,321.13 | Duration: N/A
+Start date (UTC): N/A | Close date (UTC): 2021-05-14
+
+Will Cy Twombly’s “Untitled (Rome)” sell for more than $45 million at Sotheby’s?
+Volume: $27,296.66 | Duration: N/A
+Start date (UTC): N/A | Close date (UTC): 2021-05-13
+
+Will Andy Warhol’s “Two Marilyns” sell for more than $18 million at Christie’s?
+Volume: $27,210.69 | Duration: N/A
+Start date (UTC): N/A | Close date (UTC): 2021-05-14
+
+Will Georges Seurat's “Paysage et personnages” sell for more than $8 million at Christie’s?
+Volume: $26,821.32 | Duration: N/A
+Start date (UTC): N/A | Close date (UTC): 2021-05-14
+
+Business
+------------------------------------------------------------
+Will $ETH be above $1,100 on June 24?
+Volume: $506,060.14 | Duration: N/A
+Start date (UTC): N/A | Close date (UTC): 2022-06-24
+
+Will the Fed set interest rates above 1.50% after their scheduled June meeting?
+Volume: $339,827.65 | Duration: 43.951 days
+Start date (UTC): 2022-05-02 | Close date (UTC): 2022-06-15
+
+Will the Fed set interest rates above 2.50% (100 bps or more) after their scheduled July meeting?
+Volume: $321,355.81 | Duration: 42.198 days
+Start date (UTC): 2022-06-15 | Close date (UTC): 2022-07-28
+
+Will the Fed set interest rates above 2.25% (75 bps or more) after their scheduled July meeting?
+Volume: $309,491.36 | Duration: 43.150 days
+Start date (UTC): 2022-06-14 | Close date (UTC): 2022-07-28
+
+Will USD be worth more than EUR on September 15?
+Volume: $234,954.60 | Duration: 14.155 days
+Start date (UTC): 2022-09-02 | Close date (UTC): 2022-09-16
+
+Will TWTR be delisted from the NYSE by December 30?
+Volume: $119,298.94 | Duration: 193.835 days
+Start date (UTC): 2022-04-28 | Close date (UTC): 2022-11-08
+
+Will the euro be worth less than the U.S. dollar by July 15?
+Volume: $110,210.47 | Duration: 8.184 days
+Start date (UTC): 2022-07-05 | Close date (UTC): 2022-07-14
+
+Will there be a recession in Q2 of 2022?
+Volume: $104,780.23 | Duration: 42.822 days
+Start date (UTC): 2022-06-15 | Close date (UTC): 2022-07-28
+
+Will TWTR be delisted from the NYSE by September 30?
+Volume: $102,420.39 | Duration: 158.391 days
+Start date (UTC): 2022-04-26 | Close date (UTC): 2022-10-02
+
+Will U.S. inflation be more than 0.9% from May to June 2022?
+Volume: $98,664.17 | Duration: 33.038 days
+Start date (UTC): 2022-06-10 | Close date (UTC): 2022-07-13
+
+Chess
+------------------------------------------------------------
+Will Robert Leshner or Anthony Pompliano win in their CryptoChamps chess match?
+Volume: $120,514.71 | Duration: N/A
+Start date (UTC): N/A | Close date (UTC): 2021-06-13
+
+2022 Norway Chess: Will Magnus Carlsen lose any game?
+Volume: $89,615.68 | Duration: 11.217 days
+Start date (UTC): 2022-05-31 | Close date (UTC): 2022-06-11
+
+Will Magnus Carlsen win the FTX Crypto Cup?
+Volume: $69,296.07 | Duration: N/A
+Start date (UTC): N/A | Close date (UTC): 2021-06-01
+
+Will Hikaru Nakamura win the 2021 Speed Chess Championship Main Event?
+Volume: $54,359.61 | Duration: 20.214 days
+Start date (UTC): 2021-11-30 | Close date (UTC): 2021-12-21
+
+2022 Chess Candidates Tournament: Will Firouzja or Rapport finish higher?
+Volume: $43,525.72 | Duration: 16.528 days
+Start date (UTC): 2022-06-18 | Close date (UTC): 2022-07-05
+
+World Chess Championship 2021: Will there be more or less than 12 draws?
+Volume: $38,846.24 | Duration: N/A
+Start date (UTC): N/A | Close date (UTC): 2021-12-11
+
+Will Magnus Carlsen win the Goldmoney Asian Rapid?
+Volume: $38,643.29 | Duration: N/A
+Start date (UTC): N/A | Close date (UTC): 2021-07-03
+
+Will Magnus Carlsen win the 2021 Fide World Cup?
+Volume: $35,201.86 | Duration: N/A
+Start date (UTC): N/A | Close date (UTC): 2021-08-03
+
+Chess: Will Magnus Carlsen win the 2021 FIDE World Rapid Championship?
+Volume: $35,072.07 | Duration: 13.737 days
+Start date (UTC): 2021-12-15 | Close date (UTC): 2021-12-29
+
+2022 Chess Candidates Tournament: Will Caruana or Nakamura finish higher?
+Volume: $29,769.84 | Duration: 16.526 days
+Start date (UTC): 2022-06-18 | Close date (UTC): 2022-07-05
+
+Coronavirus
+------------------------------------------------------------
+Will 100 million people have received a dose of an approved COVID-19 vaccine in the US by April 1, 2021?
+Volume: $7,116,763.86 | Duration: N/A
+Start date (UTC): N/A | Close date (UTC): 2021-04-01
+
+Will 150 million people have received a dose of an approved COVID-19 vaccine in the US by May 1, 2021?
+Volume: $2,075,247.20 | Duration: N/A
+Start date (UTC): N/A | Close date (UTC): 2021-05-02
+
+Will the US have fewer than 50,000 new COVID-19 cases on any day before March 15, 2021?
+Volume: $1,283,321.58 | Duration: N/A
+Start date (UTC): N/A | Close date (UTC): 2021-03-11
+
+Will the US have more than 200,000 new daily COVID-19 cases on or before October 1, 2021? 
+Volume: $1,149,564.84 | Duration: 68.309 days
+Start date (UTC): 2021-07-29 | Close date (UTC): 2021-10-06
+
+Will the United States report a record high 7-day COVID-19 case average before January 1, 2022?
+Volume: $807,614.96 | Duration: N/A
+Start date (UTC): N/A | Close date (UTC): 2021-12-31
+
+Will 162 million people have received a dose of an approved COVID-19 vaccine in the US by June 1, 2021?
+Volume: $751,420.91 | Duration: N/A
+Start date (UTC): N/A | Close date (UTC): 2021-05-23
+
+Will the Ever Given be dislodged from the Suez Canal by March 30?
+Volume: $498,794.61 | Duration: N/A
+Start date (UTC): N/A | Close date (UTC): 2021-03-29
+
+Will the United States average less than 75k Covid cases by November 15?
+Volume: $469,162.12 | Duration: 42.173 days
+Start date (UTC): 2021-09-16 | Close date (UTC): 2021-10-29
+
+Will China report a record high 7-day COVID-19 case average by May 1?
+Volume: $322,642.98 | Duration: 16.219 days
+Start date (UTC): 2022-03-15 | Close date (UTC): 2022-03-31
+
+Will the US have more than 100,000 new daily COVID-19 cases before January 1, 2022?
+Volume: $296,575.23 | Duration: N/A
+Start date (UTC): N/A | Close date (UTC): 2021-08-02
+
+Coronavirus-
+------------------------------------------------------------
+[From Nate Silver] Will there be a federal mask requirement on US domestic flights on November 8, 2022?
+Volume: $106,730.66 | Duration: 306.789 days
+Start date (UTC): 2022-01-12 | Close date (UTC): 2022-11-15
+
+Crypto
+------------------------------------------------------------
+MicroStrategy sells any Bitcoin by May 31, 2026?
+Volume: $375,813,104.56 | Duration: 29.032 days
+Start date (UTC): 2026-05-05 | Close date (UTC): 2026-06-04
+
+Lighter market cap (FDV) >$1B one day after launch?
+Volume: $55,056,697.13 | Duration: 47.081 days
+Start date (UTC): 2025-11-16 | Close date (UTC): 2026-01-03
+
+Will Satoshi move any Bitcoin in 2025?
+Volume: $44,180,791.51 | Duration: 170.684 days
+Start date (UTC): 2025-07-14 | Close date (UTC): 2026-01-01
+
+Monad market cap (FDV) >$4B one day after launch?
+Volume: $34,894,820.55 | Duration: 33.241 days
+Start date (UTC): 2025-10-25 | Close date (UTC): 2025-11-28
+
+Will Bitcoin reach $1,000,000 by December 31, 2025?
+Volume: $31,394,607.52 | Duration: 366.389 days
+Start date (UTC): 2024-12-30 | Close date (UTC): 2026-01-01
+
+Will Bitcoin reach $150,000 in February?
+Volume: $28,829,221.51 | Duration: 29.244 days
+Start date (UTC): 2026-01-31 | Close date (UTC): 2026-03-01
+
+Will Bitcoin hit $100k in November?
+Volume: $28,587,434.43 | Duration: 19.575 days
+Start date (UTC): 2024-11-11 | Close date (UTC): 2024-12-01
+
+Will Kanye launch a coin in February?
+Volume: $27,507,326.47 | Duration: 21.746 days
+Start date (UTC): 2025-02-07 | Close date (UTC): 2025-03-01
+
+Will Bitcoin reach $150,000 in January?
+Volume: $26,660,909.27 | Duration: 30.517 days
+Start date (UTC): 2026-01-01 | Close date (UTC): 2026-02-01
+
+Will lighter perform an airdrop by December 31? 
+Volume: $26,021,665.18 | Duration: 186.551 days
+Start date (UTC): 2025-06-26 | Close date (UTC): 2025-12-30
+
+Culture
+------------------------------------------------------------
+Will Eleven die in "Stranger Things: Season 5"?
+Volume: $80,824,835.00 | Duration: 32.177 days
+Start date (UTC): 2025-12-03 | Close date (UTC): 2026-01-05
+
+Will Jesus Christ return before 2027?
+Volume: $66,732,896.22 | Duration: N/A
+Start date (UTC): 2025-11-25 | Close date (UTC): N/A
+
+Will Rob Riggle win the 2025 National Heads-Up Poker Championship?
+Volume: $38,337,948.64 | Duration: 137.484 days
+Start date (UTC): 2025-08-03 | Close date (UTC): 2025-12-19
+
+Will David Williams win the 2025 National Heads-Up Poker Championship?
+Volume: $26,661,572.00 | Duration: 137.505 days
+Start date (UTC): 2025-08-03 | Close date (UTC): 2025-12-19
+
+Will Chef Phillip win the 2025 National Heads-Up Poker Championship?
+Volume: $22,533,633.26 | Duration: 137.505 days
+Start date (UTC): 2025-08-03 | Close date (UTC): 2025-12-19
+
+Will Billie Eilish be the top Spotify artist for 2025?
+Volume: $16,179,129.95 | Duration: 120.680 days
+Start date (UTC): 2025-08-05 | Close date (UTC): 2025-12-03
+
+Will Thunderbolts be the top grossing movie of 2025?
+Volume: $15,699,200.22 | Duration: 364.285 days
+Start date (UTC): 2025-01-02 | Close date (UTC): 2026-01-02
+
+GTA VI released before June 2026?
+Volume: $15,249,931.01 | Duration: 394.801 days
+Start date (UTC): 2025-05-02 | Close date (UTC): 2026-06-01
+
+New "Stranger Things" episode released by Wednesday? 
+Volume: $15,181,604.22 | Duration: 2.374 days
+Start date (UTC): 2026-01-05 | Close date (UTC): 2026-01-08
+
+Will T.J. Lavin win the 2025 National Heads-Up Poker Championship?
+Volume: $15,113,495.37 | Duration: 137.489 days
+Start date (UTC): 2025-08-03 | Close date (UTC): 2025-12-19
+
+Economics
+------------------------------------------------------------
+U.S. Recession in 2024?
+Volume: $875,848.14 | Duration: 149.246 days
+Start date (UTC): 2024-08-05 | Close date (UTC): 2025-01-01
+
+Fed emergency rate cut in August?
+Volume: $432,105.44 | Duration: 26.509 days
+Start date (UTC): 2024-08-05 | Close date (UTC): 2024-09-01
+
+US bank failure in April?
+Volume: $56,886.52 | Duration: 24.181 days
+Start date (UTC): 2024-04-02 | Close date (UTC): 2024-04-27
+
+Will the Port of Baltimore reopen in April?
+Volume: $39,181.30 | Duration: 26.301 days
+Start date (UTC): 2024-03-31 | Close date (UTC): 2024-04-27
+
+Will the Port of Baltimore reopen in August or later?
+Volume: $37,979.04 | Duration: 26.304 days
+Start date (UTC): 2024-03-31 | Close date (UTC): 2024-04-27
+
+Will the Fed raise interest rates by 0 bps after its December meeting?
+Volume: $29,458.06 | Duration: 51.128 days
+Start date (UTC): 2023-10-23 | Close date (UTC): 2023-12-13
+
+US inflation >0.3% from March to April 2024?
+Volume: $27,823.34 | Duration: 34.589 days
+Start date (UTC): 2024-04-11 | Close date (UTC): 2024-05-15
+
+Will the Fed raise interest rates by 25 bps after its December meeting?
+Volume: $27,152.23 | Duration: 51.125 days
+Start date (UTC): 2023-10-23 | Close date (UTC): 2023-12-13
+
+Will Saudi Arabia boost oil production in Q4?
+Volume: $20,509.21 | Duration: 89.852 days
+Start date (UTC): 2023-10-19 | Close date (UTC): 2024-01-17
+
+Will the Port of Baltimore reopen in June?
+Volume: $17,770.27 | Duration: 26.301 days
+Start date (UTC): 2024-03-31 | Close date (UTC): 2024-04-27
+
+Finance
+------------------------------------------------------------
+Will 'Joker 2' gross most in 2024?
+Volume: $27,351,093.51 | Duration: 337.356 days
+Start date (UTC): 2024-01-31 | Close date (UTC): 2025-01-03
+
+Will 'Despicable Me 4' gross most in 2024?
+Volume: $25,803,996.58 | Duration: 337.363 days
+Start date (UTC): 2024-01-31 | Close date (UTC): 2025-01-03
+
+Will 'Furiosa: A Mad Max Saga' gross most in 2024?
+Volume: $21,691,619.09 | Duration: 337.356 days
+Start date (UTC): 2024-01-31 | Close date (UTC): 2025-01-03
+
+Will 'Dune: Part 2' gross most in 2024?
+Volume: $19,502,938.23 | Duration: 337.363 days
+Start date (UTC): 2024-01-31 | Close date (UTC): 2025-01-03
+
+Will Tesla be the largest company in the world by market cap on November 30?
+Volume: $11,637,679.64 | Duration: 51.133 days
+Start date (UTC): 2025-10-10 | Close date (UTC): 2025-12-01
+
+Will no Fed rate cuts happen in 2026?
+Volume: $9,160,104.03 | Duration: N/A
+Start date (UTC): 2025-09-29 | Close date (UTC): N/A
+
+Will 'Inside Out 2' gross most in 2024?
+Volume: $8,909,465.22 | Duration: 337.346 days
+Start date (UTC): 2024-01-31 | Close date (UTC): 2025-01-03
+
+Will 'Deadpool 3' gross most in 2024?
+Volume: $8,771,933.14 | Duration: 337.349 days
+Start date (UTC): 2024-01-31 | Close date (UTC): 2025-01-03
+
+Will Saudi Aramco be the second-largest company in the world by market cap on December 31?
+Volume: $8,736,917.40 | Duration: 79.379 days
+Start date (UTC): 2025-10-13 | Close date (UTC): 2026-01-01
+
+Will Nebius Group be acquired before 2027?
+Volume: $7,962,387.28 | Duration: N/A
+Start date (UTC): 2025-11-24 | Close date (UTC): N/A
+
+Global Politics
+------------------------------------------------------------
+Will Emmanuel Macron win the 2022 French presidential election?
+Volume: $517,908.46 | Duration: 104.012 days
+Start date (UTC): 2022-01-12 | Close date (UTC): 2022-04-26
+
+Will Marine Le Pen win the 2022 French presidential election?
+Volume: $265,172.67 | Duration: 104.012 days
+Start date (UTC): 2022-01-12 | Close date (UTC): 2022-04-26
+
+Will Luiz da Silva win 2022 Presidential Elections in Brazil?
+Volume: $264,365.04 | Duration: 292.323 days
+Start date (UTC): 2022-01-12 | Close date (UTC): 2022-11-01
+
+Will Boris Johnson remain Prime Minister of the United Kingdom through August?
+Volume: $240,727.44 | Duration: 87.126 days
+Start date (UTC): 2022-06-06 | Close date (UTC): 2022-09-01
+
+Will Sergey Lavrov and Antony Blinken meet in February 2022?
+Volume: $185,753.86 | Duration: 10.272 days
+Start date (UTC): 2022-02-19 | Close date (UTC): 2022-03-01
+
+Will Marine Le Pen win 2nd place in the first round of the 2022 French presidential election?
+Volume: $166,568.45 | Duration: 32.982 days
+Start date (UTC): 2022-03-09 | Close date (UTC): 2022-04-11
+
+Will Benjamin Netanyahu remain prime minister of Israel through June 30, 2021?
+Volume: $163,540.06 | Duration: N/A
+Start date (UTC): 2026-04-10 | Close date (UTC): 2021-06-14
+
+Will Rishi Sunak be the next UK Conservative Party Leader?
+Volume: $145,420.42 | Duration: 54.867 days
+Start date (UTC): 2022-07-12 | Close date (UTC): 2022-09-05
+
+Who will win the 2021 Peruvian Presidential Election?
+Volume: $141,910.05 | Duration: N/A
+Start date (UTC): N/A | Close date (UTC): 2021-07-20
+
+Will Labor win more seats than the Liberal-Nationals in the 2022 Australian Federal Election?
+Volume: $134,787.90 | Duration: 30.277 days
+Start date (UTC): 2022-04-21 | Close date (UTC): 2022-05-22
+
+NBA Playoffs
+------------------------------------------------------------
+Will the Clippers or the Mavericks win their Round 1 NBA Playoff Series?
+Volume: $272,419.38 | Duration: N/A
+Start date (UTC): N/A | Close date (UTC): 2021-06-06
+
+Will the Warriors or the Grizzlies win their NBA play-in tournament matchup?
+Volume: $255,663.24 | Duration: N/A
+Start date (UTC): N/A | Close date (UTC): 2021-05-24
+
+Will the Bucks win the 2021 NBA Finals?
+Volume: $216,586.89 | Duration: N/A
+Start date (UTC): N/A | Close date (UTC): 2021-07-21
+
+Will the Nuggets or the Trail Blazers win their Round 1 NBA Playoff Series?
+Volume: $168,313.92 | Duration: N/A
+Start date (UTC): N/A | Close date (UTC): 2021-06-04
+
+(In-Game Trading) Who will win Suns v. Clippers: Western Conference Finals Game 5?
+Volume: $166,499.15 | Duration: N/A
+Start date (UTC): N/A | Close date (UTC): 2021-06-29
+
+Will the Suns win the 2021 NBA Finals?
+Volume: $142,650.95 | Duration: N/A
+Start date (UTC): N/A | Close date (UTC): 2021-07-21
+
+Will the Nets or the Bucks win their NBA Conference Semifinals Series?
+Volume: $97,954.68 | Duration: N/A
+Start date (UTC): N/A | Close date (UTC): 2021-06-20
+
+Who will win Knicks vs. Hawks: Game 2?
+Volume: $92,929.05 | Duration: N/A
+Start date (UTC): N/A | Close date (UTC): 2021-05-27
+
+Will the Suns or Clippers win the 2021 NBA Western Conference Finals?
+Volume: $83,244.40 | Duration: N/A
+Start date (UTC): N/A | Close date (UTC): 2021-07-01
+
+(In-Game Trading) Who will win Bucks v. Hawks: Eastern Conference Finals Game 1?
+Volume: $80,192.88 | Duration: N/A
+Start date (UTC): N/A | Close date (UTC): 2021-06-24
+
+NFTs
+------------------------------------------------------------
+Will the floor price of CryptoPunks be above 90 ETH on December 23, 2021?
+Volume: $439,684.51 | Duration: 14.087 days
+Start date (UTC): 2021-12-09 | Close date (UTC): 2021-12-23
+
+Will the floor price of CryptoPunks be above 69 ETH on December 23, 2021?
+Volume: $360,322.07 | Duration: 14.080 days
+Start date (UTC): 2021-12-09 | Close date (UTC): 2021-12-23
+
+Will the floor price of CryptoPunks be above 55 ETH on December 23, 2021?
+Volume: $278,291.68 | Duration: 14.086 days
+Start date (UTC): 2021-12-09 | Close date (UTC): 2021-12-23
+
+Will the floor price of CryptoPunks be above 75 ETH on December 23, 2021?
+Volume: $224,134.54 | Duration: 14.087 days
+Start date (UTC): 2021-12-09 | Close date (UTC): 2021-12-23
+
+Will the floor price of CryptoPunks be below 42 ETH on 4/20/22?
+Volume: $139,839.69 | Duration: 62.243 days
+Start date (UTC): 2022-02-17 | Close date (UTC): 2022-04-21
+
+What will the ETH floor price of Loot (for Adventurers) be on September 21, 2021?
+Volume: $120,866.01 | Duration: N/A
+Start date (UTC): N/A | Close date (UTC): 2021-09-21
+
+Will Bored Ape Yacht Club (BAYC) flip CryptoPunks by January 10, 2022?
+Volume: $97,866.54 | Duration: 26.052 days
+Start date (UTC): 2021-12-08 | Close date (UTC): 2022-01-03
+
+Will OpenSea launch a token by December 31st, 2022?
+Volume: $95,288.06 | Duration: 355.074 days
+Start date (UTC): 2022-01-12 | Close date (UTC): 2023-01-02
+
+What will the ETH floor price of CryptoPunks be on September 21, 2021?
+Volume: $83,509.98 | Duration: 14.000 days
+Start date (UTC): 2021-09-07 | Close date (UTC): 2021-09-21
+
+Will Bored Apes or CryptoPunks have a higher floor price on April 1st, 2022?
+Volume: $81,640.95 | Duration: 79.538 days
+Start date (UTC): 2022-01-12 | Close date (UTC): 2022-04-02
+
+Olympics
+------------------------------------------------------------
+Will the 2021 Tokyo Olympics take place?
+Volume: $197,836.90 | Duration: N/A
+Start date (UTC): N/A | Close date (UTC): 2021-07-24
+
+Will the Tokyo Summer Olympics be cancelled or postponed by May 1, 2021?
+Volume: $77,972.69 | Duration: N/A
+Start date (UTC): N/A | Close date (UTC): 2021-05-02
+
+Will the U.S. Men’s Basketball team win the Gold Medal at the 2020 Olympics?
+Volume: $51,003.77 | Duration: N/A
+Start date (UTC): N/A | Close date (UTC): 2021-08-08
+
+Who will get more Gold Medals at the 2020 Tokyo Olympics: USA or China?
+Volume: $40,058.25 | Duration: 2.405 days
+Start date (UTC): 2021-08-06 | Close date (UTC): 2021-08-08
+
+Will China win 38 or more Gold Medals at the 2020 Olympics?
+Volume: $35,608.58 | Duration: 16.798 days
+Start date (UTC): 2021-07-22 | Close date (UTC): 2021-08-08
+
+Will Novak Djokovic win a gold medal at the 2020 Olympics?
+Volume: $31,939.11 | Duration: 9.657 days
+Start date (UTC): 2021-07-23 | Close date (UTC): 2021-08-02
+
+Will Katie Ledecky win 3 or more gold medals at the 2020 Olympics?
+Volume: $23,750.92 | Duration: 5.717 days
+Start date (UTC): 2021-07-23 | Close date (UTC): 2021-07-29
+
+Will the U.S. Women’s Soccer team win the Gold Medal at the 2020 Olympics?
+Volume: $19,146.48 | Duration: 10.236 days
+Start date (UTC): 2021-07-23 | Close date (UTC): 2021-08-03
+
+Will there be more than 100 positive cases of COVID-19 among athletes at the 2020 Olympics?
+Volume: $12,225.09 | Duration: N/A
+Start date (UTC): N/A | Close date (UTC): 2021-08-12
+
+Will the United States win 44 or more Gold Medals at the 2020 Olympics?
+Volume: $9,666.53 | Duration: 16.802 days
+Start date (UTC): 2021-07-22 | Close date (UTC): 2021-08-08
+
+Poker
+------------------------------------------------------------
+Will Loomdart make it to the final table of the CryptOG Charity Poker Tournament?
+Volume: $11,427.89 | Duration: 0.860 days
+Start date (UTC): 2021-07-28 | Close date (UTC): 2021-07-29
+
+Will Su Zhu make it to the final table of the CryptOG Charity Poker Tournament?
+Volume: $8,652.44 | Duration: N/A
+Start date (UTC): N/A | Close date (UTC): 2021-07-29
+
+Will Tom Dwan make it to the final table of the CryptOG Charity Poker Tournament?
+Volume: $8,389.03 | Duration: 1.017 days
+Start date (UTC): 2021-07-28 | Close date (UTC): 2021-07-29
+
+Will a Crypto Twitter Fish win the CryptOG Charity Poker Tournament?
+Volume: $4,126.86 | Duration: 0.658 days
+Start date (UTC): 2021-07-29 | Close date (UTC): 2021-07-29
+
+Will Arca Ape win the CryptOG Charity Poker Tournament?
+Volume: $2,882.32 | Duration: 0.127 days
+Start date (UTC): 2021-07-29 | Close date (UTC): 2021-07-29
+
+Will CMS Intern make it to the final table of the CryptOG Charity Poker Tournament?
+Volume: $1,943.33 | Duration: 0.955 days
+Start date (UTC): 2021-07-28 | Close date (UTC): 2021-07-29
+
+Will Cryptarbitrage win the CryptOG Charity Poker Tournament?
+Volume: $359.87 | Duration: 0.132 days
+Start date (UTC): 2021-07-29 | Close date (UTC): 2021-07-29
+
+Politics
+------------------------------------------------------------
+Will Donald Trump win the 2024 US Presidential Election?
+Volume: $1,531,479,284.50 | Duration: 306.680 days
+Start date (UTC): 2024-01-04 | Close date (UTC): 2024-11-06
+
+Will Kamala Harris win the 2024 US Presidential Election?
+Volume: $1,037,039,118.19 | Duration: 306.793 days
+Start date (UTC): 2024-01-04 | Close date (UTC): 2024-11-06
+
+Will Donald Trump be inaugurated?
+Volume: $400,409,526.89 | Duration: 80.004 days
+Start date (UTC): 2024-11-01 | Close date (UTC): 2025-01-20
+
+Will any other Republican Politician win the 2024 US Presidential Election?
+Volume: $241,655,099.85 | Duration: 304.981 days
+Start date (UTC): 2024-01-06 | Close date (UTC): 2024-11-06
+
+Fed decreases interest rates by 50+ bps after January 2026 meeting?
+Volume: $235,065,166.64 | Duration: 133.159 days
+Start date (UTC): 2025-09-17 | Close date (UTC): 2026-01-28
+
+Fed increases interest rates by 25+ bps after January 2026 meeting?
+Volume: $216,455,743.15 | Duration: 133.167 days
+Start date (UTC): 2025-09-17 | Close date (UTC): 2026-01-28
+
+US x Iran ceasefire extended by April 22, 2026?
+Volume: $203,621,392.14 | Duration: 10.205 days
+Start date (UTC): 2026-04-20 | Close date (UTC): 2026-05-01
+
+US x Iran permanent peace deal by June 15, 2026?
+Volume: $177,370,818.44 | Duration: 33.180 days
+Start date (UTC): 2026-05-15 | Close date (UTC): 2026-06-18
+
+US x Iran ceasefire by April 7?
+Volume: $173,696,184.18 | Duration: 17.273 days
+Start date (UTC): 2026-03-24 | Close date (UTC): 2026-04-11
+
+Will the Fed increase interest rates by 25+ bps after the March 2026 meeting?
+Volume: $172,972,056.63 | Duration: 140.096 days
+Start date (UTC): 2025-10-29 | Close date (UTC): 2026-03-18
+
+Pop-Culture
+------------------------------------------------------------
+Will Britney Spears' father be removed or resign from her conservatorship by October 1, 2021?
+Volume: $621,640.68 | Duration: N/A
+Start date (UTC): N/A | Close date (UTC): 2021-09-30
+
+Will Elon Musk mention DOGE in his SNL appearance?
+Volume: $495,007.57 | Duration: N/A
+Start date (UTC): N/A | Close date (UTC): 2021-05-09
+
+Will @realDonaldTrump tweet again by July 1?
+Volume: $420,663.70 | Duration: 86.949 days
+Start date (UTC): 2022-04-06 | Close date (UTC): 2022-07-02
+
+Will @realDonaldTrump tweet in 2022?
+Volume: $362,105.18 | Duration: 236.964 days
+Start date (UTC): 2022-05-10 | Close date (UTC): 2023-01-02
+
+Will 'House of Gucci' get 86% or higher Audience Score on Rotten Tomatoes?
+Volume: $149,912.15 | Duration: 12.238 days
+Start date (UTC): 2021-11-15 | Close date (UTC): 2021-11-27
+
+Will Kanye West’s DONDA sell more than 250K album units in its first week?
+Volume: $146,077.42 | Duration: N/A
+Start date (UTC): N/A | Close date (UTC): 2021-08-13
+
+Will Amber Heard be found liable for defaming Johnny Depp?
+Volume: $131,657.54 | Duration: 29.978 days
+Start date (UTC): 2022-05-03 | Close date (UTC): 2022-06-02
+
+How many more tweets will be on the @ElonMusk account on February 3, 2021?
+Volume: $125,592.85 | Duration: 7.869 days
+Start date (UTC): 2021-01-27 | Close date (UTC): 2021-02-03
+
+What will the average sale price of a PS5 be on StockX on Christmas Day?
+Volume: $113,361.64 | Duration: N/A
+Start date (UTC): N/A | Close date (UTC): 2020-12-26
+
+Who will win the 2020 MLB World Series?
+Volume: $107,601.59 | Duration: N/A
+Start date (UTC): N/A | Close date (UTC): 2020-10-28
+
+Science
+------------------------------------------------------------
+Global heat increase between 1.22°C and 1.24°C for 2024?
+Volume: $9,466,873.29 | Duration: 134.961 days
+Start date (UTC): 2024-08-28 | Close date (UTC): 2025-01-10
+
+Will there be at least 10000 measles cases in the U.S. in 2026?
+Volume: $6,531,935.14 | Duration: N/A
+Start date (UTC): 2025-12-01 | Close date (UTC): N/A
+
+Will 2025 be the hottest year on record?
+Volume: $4,200,250.67 | Duration: 379.322 days
+Start date (UTC): 2024-12-31 | Close date (UTC): 2026-01-15
+
+Will there be less than 16 named storms during Atlantic Hurricane Season?
+Volume: $3,618,939.17 | Duration: 183.863 days
+Start date (UTC): 2024-05-02 | Close date (UTC): 2024-11-02
+
+2024 August hottest on record?
+Volume: $3,610,313.64 | Duration: 40.028 days
+Start date (UTC): 2024-08-01 | Close date (UTC): 2024-09-10
+
+Is the Room-Temp Superconductor real?
+Volume: $3,594,399.78 | Duration: 158.625 days
+Start date (UTC): 2023-07-26 | Close date (UTC): 2024-01-01
+
+2025 January hottest on record?
+Volume: $3,493,430.19 | Duration: 43.969 days
+Start date (UTC): 2024-12-29 | Close date (UTC): 2025-02-11
+
+2024 July hottest on record?
+Volume: $2,715,913.38 | Duration: N/A
+Start date (UTC): N/A | Close date (UTC): 2024-08-09
+
+Will GPT-5 be released by August 10?
+Volume: $2,171,523.28 | Duration: 6.393 days
+Start date (UTC): 2025-08-01 | Close date (UTC): 2025-08-07
+
+Human moon landing in 2026?
+Volume: $1,977,008.14 | Duration: N/A
+Start date (UTC): 2026-01-07 | Close date (UTC): N/A
+
+Space
+------------------------------------------------------------
+Will Jeff Bezos reach outer space by July 30?
+Volume: $46,445.42 | Duration: N/A
+Start date (UTC): N/A | Close date (UTC): 2021-07-20
+
+Will SpaceX successfully launch and land Starship SN15 by May 11, 2021?
+Volume: $40,561.61 | Duration: N/A
+Start date (UTC): N/A | Close date (UTC): 2021-05-06
+
+Will the Boeing CST-100 Starliner Spacecraft successfully dock with the ISS before August 6?
+Volume: $11,567.34 | Duration: 3.758 days
+Start date (UTC): 2021-08-03 | Close date (UTC): 2021-08-06
+
+Will NASA conduct a sustained flight of Ingenuity on Mars by April 12?
+Volume: $8,060.23 | Duration: N/A
+Start date (UTC): N/A | Close date (UTC): 2021-04-13
+
+Sports
+------------------------------------------------------------
+Will the Sacramento Kings win the 2025 NBA Finals?
+Volume: $378,011,506.51 | Duration: 204.619 days
+Start date (UTC): 2024-09-24 | Close date (UTC): 2025-04-17
+
+Will Argentina win the 2026 FIFA World Cup?
+Volume: $174,315,688.26 | Duration: 382.124 days
+Start date (UTC): 2025-07-02 | Close date (UTC): 2026-07-20
+
+Will Egypt win the 2026 FIFA World Cup?
+Volume: $158,580,818.67 | Duration: 369.960 days
+Start date (UTC): 2025-07-02 | Close date (UTC): 2026-07-07
+
+Will the Toronto Raptors win the 2025 NBA Finals?
+Volume: $154,220,299.96 | Duration: 189.508 days
+Start date (UTC): 2024-09-24 | Close date (UTC): 2025-04-02
+
+Will Morocco win the 2026 FIFA World Cup?
+Volume: $152,254,451.33 | Duration: 372.114 days
+Start date (UTC): 2025-07-02 | Close date (UTC): 2026-07-10
+
+Will Spain win the 2026 FIFA World Cup?
+Volume: $152,168,021.59 | Duration: 382.116 days
+Start date (UTC): 2025-07-02 | Close date (UTC): 2026-07-20
+
+Will USA win the 2026 FIFA World Cup?
+Volume: $142,460,221.87 | Duration: 369.279 days
+Start date (UTC): 2025-07-02 | Close date (UTC): 2026-07-07
+
+Will the Panthers win Super Bowl 2025?
+Volume: $139,314,923.97 | Duration: 159.409 days
+Start date (UTC): 2024-07-09 | Close date (UTC): 2024-12-16
+
+Will Mexico win the 2026 FIFA World Cup?
+Volume: $137,807,960.89 | Duration: 368.324 days
+Start date (UTC): 2025-07-02 | Close date (UTC): 2026-07-06
+
+Will Norway win the 2026 FIFA World Cup?
+Volume: $137,345,387.07 | Duration: 374.188 days
+Start date (UTC): 2025-07-02 | Close date (UTC): 2026-07-12
+
+Tech
+------------------------------------------------------------
+Who will the world's richest person be on February 27, 2021?
+Volume: $182,205.35 | Duration: N/A
+Start date (UTC): N/A | Close date (UTC): 2021-03-01
+
+Will Bitcoin or Tesla have a higher market cap on March 1, 2021?
+Volume: $154,400.49 | Duration: N/A
+Start date (UTC): N/A | Close date (UTC): 2021-03-01
+
+Will Facebook report having more than 3.6 billion Monthly Active People in Q2 2021?
+Volume: $126,556.10 | Duration: N/A
+Start date (UTC): N/A | Close date (UTC): 2021-07-28
+
+Will Robinhood allow buying of $GME on February 2nd?
+Volume: $123,975.29 | Duration: N/A
+Start date (UTC): N/A | Close date (UTC): 2021-02-02
+
+What will Airbnb's market cap be at close on its 1st day publicly trading?
+Volume: $114,807.20 | Duration: N/A
+Start date (UTC): N/A | Close date (UTC): 2020-12-11
+
+Will Airbnb begin publicly trading before Jan 1, 2021?
+Volume: $89,665.25 | Duration: N/A
+Start date (UTC): N/A | Close date (UTC): 2020-12-11
+
+Will Twitter add an edit button by June 30?
+Volume: $79,651.05 | Duration: 85.056 days
+Start date (UTC): 2022-04-07 | Close date (UTC): 2022-07-01
+
+Technology
+------------------------------------------------------------
+OpenAI announces it has achieved AGI in 2024?
+Volume: $907,184.58 | Duration: 368.328 days
+Start date (UTC): 2023-12-30 | Close date (UTC): 2025-01-01
+
+GPT ads by March 31?
+Volume: $641,075.30 | Duration: 66.781 days
+Start date (UTC): 2025-12-05 | Close date (UTC): 2026-02-10
+
+Sundar Pichai out as Google CEO in 2024?
+Volume: $567,277.88 | Duration: 347.642 days
+Start date (UTC): 2024-01-19 | Close date (UTC): 2025-01-01
+
+GPT ads by December 31?
+Volume: $563,379.80 | Duration: 134.714 days
+Start date (UTC): 2025-08-19 | Close date (UTC): 2026-01-01
+
+Will Satoshi Nakamoto's identity be proven in Q4 2024?
+Volume: $399,921.96 | Duration: 308.503 days
+Start date (UTC): 2024-02-27 | Close date (UTC): 2025-01-01
+
+TikTok banned in the US by June 30?
+Volume: $284,782.16 | Duration: 187.217 days
+Start date (UTC): 2023-12-27 | Close date (UTC): 2024-07-01
+
+Will Satoshi Nakamoto's identity not be proven in 2024?
+Volume: $273,034.37 | Duration: 308.499 days
+Start date (UTC): 2024-02-27 | Close date (UTC): 2025-01-01
+
+Will GPT-4 have 500b+ parameters?
+Volume: $144,161.80 | Duration: 335.801 days
+Start date (UTC): 2023-02-16 | Close date (UTC): 2024-01-18
+
+Elon Musk bans Apple devices at his companies?
+Volume: $99,896.50 | Duration: 204.357 days
+Start date (UTC): 2024-06-10 | Close date (UTC): 2025-01-01
+
+TikTok sale announced before August?
+Volume: $82,906.68 | Duration: 140.377 days
+Start date (UTC): 2024-03-13 | Close date (UTC): 2024-08-01
+
+Ukraine & Russia
+------------------------------------------------------------
+Will Volodymyr Zelenskyy be President of Ukraine on April 22, 2022?
+Volume: $530,056.92 | Duration: 57.450 days
+Start date (UTC): 2022-02-24 | Close date (UTC): 2022-04-23
+
+Will NATO expand in 2022?
+Volume: $388,391.11 | Duration: 307.071 days
+Start date (UTC): 2022-03-01 | Close date (UTC): 2023-01-02
+
+Will Vladimir Putin remain President of Russia through 2022?
+Volume: $378,252.91 | Duration: 307.886 days
+Start date (UTC): 2022-03-01 | Close date (UTC): 2023-01-02
+
+Will Russia expand its number of federal subjects by July 1, 2022?
+Volume: $359,935.54 | Duration: 122.006 days
+Start date (UTC): 2022-03-02 | Close date (UTC): 2022-07-02
+
+Will any Russian bank be disconnected from SWIFT by April 1?
+Volume: $292,793.35 | Duration: 15.738 days
+Start date (UTC): 2022-02-25 | Close date (UTC): 2022-03-13
+
+Will Russia expand its number of federal subjects by October 1, 2022?
+Volume: $202,709.18 | Duration: 137.515 days
+Start date (UTC): 2022-05-17 | Close date (UTC): 2022-10-02
+
+Will the price of a barrel of crude oil be $115 or more on March 15, 2022?
+Volume: $199,737.09 | Duration: 13.661 days
+Start date (UTC): 2022-03-02 | Close date (UTC): 2022-03-16
+
+Will Ukraine become a European Union candidate country by July 31st?
+Volume: $176,356.01 | Duration: 100.991 days
+Start date (UTC): 2022-03-15 | Close date (UTC): 2022-06-24
+
+Will there be more than 4 million Ukrainian refugees by March 24?
+Volume: $166,050.63 | Duration: 17.527 days
+Start date (UTC): 2022-03-07 | Close date (UTC): 2022-03-25
+
+Will the Russian Ruble (RUB) fall below $0.005 by March 25?
+Volume: $130,398.82 | Duration: 26.045 days
+Start date (UTC): 2022-02-28 | Close date (UTC): 2022-03-26
+
+Unknown
+------------------------------------------------------------
+Will Nicolae Ciucă win the 2024 Romanian Presidential election?
+Volume: $326,507,670.56 | Duration: 174.374 days
+Start date (UTC): 2024-11-08 | Close date (UTC): 2025-05-01
+
+US forces enter Iran by April 30?
+Volume: $269,049,107.08 | Duration: 21.330 days
+Start date (UTC): 2026-03-18 | Close date (UTC): 2026-04-09
+
+Will Zelenskyy wear a suit before July?
+Volume: $242,231,180.27 | Duration: 47.083 days
+Start date (UTC): 2025-05-22 | Close date (UTC): 2025-07-09
+
+Russia x Ukraine ceasefire by May 31, 2026?
+Volume: $141,250,712.68 | Duration: 38.993 days
+Start date (UTC): 2026-03-31 | Close date (UTC): 2026-05-09
+
+Israel x Hezbollah ceasefire by April 18, 2026?
+Volume: $98,599,882.29 | Duration: 4.399 days
+Start date (UTC): 2026-04-16 | Close date (UTC): 2026-04-21
+
+Xi Jinping out in 2025?
+Volume: $78,655,911.74 | Duration: 202.526 days
+Start date (UTC): 2025-06-12 | Close date (UTC): 2026-01-01
+
+US forces enter Iran by March 31?
+Volume: $73,927,762.48 | Duration: 83.397 days
+Start date (UTC): 2026-01-11 | Close date (UTC): 2026-04-05
+
+Khamenei out as Supreme Leader of Iran by January 31?
+Volume: $49,748,804.33 | Duration: 27.521 days
+Start date (UTC): 2026-01-04 | Close date (UTC): 2026-02-01
+
+Strait of Hormuz traffic returns to normal by end of June?
+Volume: $44,111,324.78 | Duration: 84.716 days
+Start date (UTC): 2026-04-13 | Close date (UTC): 2026-07-07
+
+Strait of Hormuz traffic returns to normal by end of April?
+Volume: $38,005,859.14 | Duration: 63.890 days
+Start date (UTC): 2026-03-09 | Close date (UTC): 2026-05-12
+
+US-current-affairs
+------------------------------------------------------------
+Will Donald Trump be inaugurated for his second term as President of the USA on Inauguration Day, January 20th, 2021?
+Volume: $30,207,577.41 | Duration: N/A
+Start date (UTC): N/A | Close date (UTC): 2021-01-20
+
+Will Trump win the 2020 U.S. presidential election?
+Volume: $10,802,601.99 | Duration: N/A
+Start date (UTC): N/A | Close date (UTC): 2020-11-09
+
+Which party wins 2024 US Presidential Election?
+Volume: $8,828,319.28 | Duration: 1,037.108 days
+Start date (UTC): 2022-01-12 | Close date (UTC): 2024-11-14
+
+Will Joe Biden be inaugurated as President of the USA on January 20th, 2021?
+Volume: $8,582,604.04 | Duration: N/A
+Start date (UTC): N/A | Close date (UTC): 2021-01-20
+
+[Single Market] Will Donald J. Trump win the U.S. 2024 Republican presidential nomination?
+Volume: $6,552,460.32 | Duration: 510.315 days
+Start date (UTC): 2023-02-23 | Close date (UTC): 2024-07-18
+
+Will Donald Trump be President of the USA on March 31, 2021?
+Volume: $6,253,674.44 | Duration: N/A
+Start date (UTC): N/A | Close date (UTC): 2021-03-31
+
+[Single Market] Will Joe Biden win the U.S. 2024 Democratic presidential nomination?
+Volume: $5,770,423.69 | Duration: 939.485 days
+Start date (UTC): 2022-01-11 | Close date (UTC): 2024-08-07
+
+Will Joe Biden be President of the USA on March 1, 2021?
+Volume: $5,603,735.59 | Duration: N/A
+Start date (UTC): N/A | Close date (UTC): 2021-03-01
+
+Which party will control the U.S. Senate after the 2022 election?
+Volume: $1,774,475.43 | Duration: 304.755 days
+Start date (UTC): 2022-01-12 | Close date (UTC): 2022-11-13
+
+Which party will win Arizona in the 2020 Presidential Election?
+Volume: $1,506,034.75 | Duration: N/A
+Start date (UTC): N/A | Close date (UTC): 2020-12-01
+
+Weather
+------------------------------------------------------------
+Hantavirus pandemic in 2026?
+Volume: $18,756,447.50 | Duration: N/A
+Start date (UTC): 2026-05-04 | Close date (UTC): N/A
+
+Will the highest temperature in London be 53°F or higher on March 17?
+Volume: $1,919,499.31 | Duration: 11.779 days
+Start date (UTC): 2025-03-16 | Close date (UTC): 2025-03-28
+
+Megaquake before August?
+Volume: $1,373,180.54 | Duration: 37.941 days
+Start date (UTC): 2025-06-25 | Close date (UTC): 2025-08-02
+
+Will the highest temperature in Tel Aviv be 19°C on March 16?
+Volume: $1,370,312.75 | Duration: 6.221 days
+Start date (UTC): 2026-03-13 | Close date (UTC): 2026-03-20
+
+Will global temperature increase by between 1.35-1.39ºC in February 2025?
+Volume: $953,776.88 | Duration: 40.838 days
+Start date (UTC): 2025-01-29 | Close date (UTC): 2025-03-11
+
+Will global temperature increase by less than 1.20ºC in February 2025?
+Volume: $886,698.06 | Duration: 40.842 days
+Start date (UTC): 2025-01-29 | Close date (UTC): 2025-03-11
+
+10.0 or above earthquake before 2027?
+Volume: $833,864.39 | Duration: N/A
+Start date (UTC): 2025-12-08 | Close date (UTC): N/A
+
+Will global temperature increase by less than 1.22ºC in March 2025?
+Volume: $804,859.13 | Duration: 40.901 days
+Start date (UTC): 2025-02-28 | Close date (UTC): 2025-04-10
+
+Ebola pandemic in 2026?
+Volume: $795,337.41 | Duration: N/A
+Start date (UTC): 2026-05-15 | Close date (UTC): N/A
+
+Will global temperature increase by between 1.27-1.31ºC in March 2025?
+Volume: $765,110.78 | Duration: 40.963 days
+Start date (UTC): 2025-02-28 | Close date (UTC): 2025-04-10
