@@ -13,11 +13,46 @@ def header(text):
     print("\n" + "=" * 90 + "\n" + text + "\n" + "=" * 90)
 
 
-def show(frame):
+def show(frame, *, money=False, percent=False, zero_dash=False, index=True):
     display = frame.copy()
     numeric = display.select_dtypes(include="number").columns
-    display[numeric] = display[numeric].round(3)
-    print("No qualifying data." if frame.empty else display.to_string())
+    money_columns = {"dollar_volume", "volume_usd", "avg_per_market", "rolling_6mo_avg"}
+    percent_columns = {"mom_growth", "growth_vs_prior_year", "share_of_window_total",
+                       "share", "volume_share", "top_fraction", "yes_rate", "inferred_yes_rate"}
+    count_columns = {"markets", "events", "count"}
+    def formatted(value, column):
+        if pd.isna(value):
+            return "N/A"
+        if zero_dash and value == 0:
+            return "-"
+        if money or column in money_columns:
+            return f"${value:,.2f}"
+        if percent or column in percent_columns:
+            if 0 < value < 0.0001:
+                return "<0.01%"
+            return f"{value:,.2%}"
+        if column in count_columns:
+            return f"{value:,.0f}"
+        return f"{value:,.3f}"
+    for column in numeric:
+        display[column] = display[column].map(lambda value: formatted(value, column))
+    display = display.rename(columns={
+        "median": "median_days", "mean": "mean_days", "max": "max_days",
+        "growth_z": "growth_z_sd", "vol_z": "volume_z_sd",
+        "vs_6mo_avg": "vs_6mo_avg_times", "multiple": "multiple_times",
+    })
+    text = display.to_string(index=index)
+    print("No qualifying data." if frame.empty else "\n".join(line.rstrip() for line in text.splitlines()))
+
+
+def show_busiest_days(frame):
+    if frame.empty:
+        print("No qualifying data.")
+    for rank, (day, row) in enumerate(frame.iterrows(), 1):
+        print(f"\n{rank}. {day} (UTC)")
+        print(f"   Markets closed: {row['markets']:,.0f}")
+        print(f"   Combined lifetime volume: ${row['dollar_volume']:,.2f}")
+        print(f"   Biggest market question: {row['biggest_market_question']}")
 
 
 def ratio(numerator, denominator):
@@ -55,7 +90,7 @@ def load(path):
 
 
 def analyze(df, years, now, out):
-    start = now - pd.DateOffset(years=years)
+    start = max(now - pd.DateOffset(years=years), pd.Timestamp("2020-01-01", tz="UTC"))
     finished = df[df["closed"].eq(True).fillna(False) & df["closed_time"].between(start, now)].copy()
     finished["year"] = finished["closed_time"].dt.year
     finished["month"] = finished["closed_time"].dt.tz_localize(None).dt.to_period("M")
@@ -66,7 +101,7 @@ def analyze(df, years, now, out):
         return frame
     header("DATASET OVERVIEW")
     print(f"Markets with positive reported dollar volume: {len(df):,}")
-    print(f"Closed in the last {years} years: {len(finished):,}; window {start.date()} to {now.date()}")
+    print(f"Closed in the selected window: {len(finished):,}; window {start.date()} to {now.date()}")
     print(f"Accepting orders and active: {df['state'].eq('open').sum():,}")
     print(f"Closed markets without an actual closedTime (excluded from time tables): {(df['closed'].eq(True) & df['closed_time'].isna()).sum():,}")
     print(f"API category missing; assigned broad tag or Unknown: {df['category_source'].ne('api_category').sum():,}")
@@ -92,6 +127,8 @@ def analyze(df, years, now, out):
         print(f"Latest observed nonzero year / first: {ratio(nonzero.iloc[-1], nonzero.iloc[0]):,.2f}x")
 
     header("2. MONTHLY VOLUME AND SPIKE DETECTION")
+    print("growth_z is monthly growth measured in standard deviations above/below average monthly growth.")
+    print("Example: growth_z = 2 means two standard deviations above average, not 2% or twice the volume.")
     monthly = finished.groupby("month").agg(markets=("id", "count"), dollar_volume=("volume_usd", "sum"))
     monthly = monthly.reindex(pd.period_range(start.tz_localize(None), now.tz_localize(None), freq="M"), fill_value=0)
     monthly.index.name = "month"
@@ -119,10 +156,10 @@ def analyze(df, years, now, out):
     cat_year = cat_year.reindex(columns=yearly.index, fill_value=0)
     cat_year = cat_year.loc[cat_year.sum(axis=1).sort_values(ascending=False).index]
     shares = cat_year.div(cat_year.sum().replace(0, float("nan")))
-    print("Share by category:")
-    show(save("category_shares", shares))
+    print("Share by category (%). A dash means zero; N/A means not calculable.")
+    show(save("category_shares", shares), percent=True, zero_dash=True)
     print("\nDollar volume by category:")
-    show(save("category_yearly", cat_year))
+    show(save("category_yearly", cat_year), money=True, zero_dash=True)
     if not finished.empty:
         first, last = int(finished["year"].min()), int(finished["year"].max())
         print(f"\nCategory growth multiples, {first} to {last} (may include partial years):")
@@ -149,6 +186,7 @@ def analyze(df, years, now, out):
     show(save("sports_monthly_share", (sports_month / monthly["dollar_volume"].replace(0, float("nan"))).to_frame("share")))
 
     header("7. BIGGEST RECURRING SERIES")
+    print("ATP = Association of Tennis Professionals (men's professional tennis).")
     with_series = df[df["series_id"].notna() & df["series_id"].ne("")]
     print(f"Markets without a recurring series: {len(df) - len(with_series):,}; these are excluded here.")
     series = with_series.groupby(["series_id", "series_title", "category"]).agg(events=("event_key", "nunique"), markets=("id", "count"), dollar_volume=("volume_usd", "sum"))
@@ -156,10 +194,14 @@ def analyze(df, years, now, out):
 
     header("8. BUSIEST CLOSE DAYS (LIFETIME VOLUME ASSIGNED TO CLOSE DAY)")
     daily = finished.groupby("day").agg(markets=("id", "count"), dollar_volume=("volume_usd", "sum"))
-    show(save("daily", daily.sort_values("dollar_volume", ascending=False)).head(15))
-    for day in daily.nlargest(15, "dollar_volume").index:
-        biggest = finished[finished["day"].eq(day)].nlargest(1, "volume_usd").iloc[0]
-        print(f"{day}: biggest market: {biggest['title']}")
+    save("daily", daily.sort_values("dollar_volume", ascending=False))
+    busiest = daily.nlargest(15, "dollar_volume").copy()
+    busiest["biggest_market_question"] = [
+        finished[finished["day"].eq(day)].nlargest(1, "volume_usd").iloc[0]["title"]
+        for day in busiest.index
+    ]
+    print("Each day's total sums the lifetime volume of markets that closed that day, not trades executed that day.")
+    show_busiest_days(save("busiest_days", busiest))
 
     header("9. RESOLUTION STATUS AND OUTCOMES")
     if "confirmed_result" in finished:
@@ -183,6 +225,7 @@ def analyze(df, years, now, out):
     show(binary.groupby("inferred_result")["volume_usd"].sum().to_frame("dollar_volume"))
 
     header("10. TIME FROM REPORTED START TO ACTUAL CLOSE")
+    print("Duration units: DAYS (1 day = 24 hours; 0.5 days = 12 hours).")
     life = finished[finished["days_open"].ge(0)].copy()
     show(save("lifetimes", life.groupby("category")["days_open"].agg(["count", "median", "mean", "max"]).sort_values("count", ascending=False)))
     print(f"Missing or negative durations excluded: {len(finished) - len(life):,}")
@@ -205,12 +248,15 @@ def analyze(df, years, now, out):
         print(f"{year}: top 1% share: {ratio(values.head(max(1, int(len(values) * .01))).sum(), values.sum()):.1%}")
 
     header("12. WITHIN-CATEGORY VOLUME OUTLIERS (Z > 2)")
+    print("Volume z = (market volume - category average volume) / category volume standard deviation.")
+    print("z > 2 means more than two standard deviations above that category's average; it is not a return or percentage.")
     finished["cat_mean"] = finished.groupby("category")["volume_usd"].transform("mean")
     finished["cat_std"] = finished.groupby("category")["volume_usd"].transform("std")
     finished["vol_z"] = (finished["volume_usd"] - finished["cat_mean"]) / finished["cat_std"].replace(0, float("nan"))
     outliers = finished[finished["vol_z"].gt(2)].sort_values("vol_z", ascending=False)
-    print(f"Markets flagged: {len(outliers):,}")
-    show(save("outliers", outliers[["id", "category", "title", "volume_usd", "vol_z"]]))
+    print(f"Markets flagged: {len(outliers):,} of {len(finished):,} ({ratio(len(outliers), len(finished)):.2%}).")
+    print("Showing only the 25 highest z scores; the complete flagged list remains in outliers.csv.")
+    show(save("outliers", outliers[["id", "category", "title", "volume_usd", "vol_z"]]).head(25))
     print("\nMost extreme per category:")
     show(outliers.groupby("category").head(1)[["title", "volume_usd", "vol_z"]])
     print("Z scores flag descriptive outliers; sparse groups and heavy tails limit interpretation.")

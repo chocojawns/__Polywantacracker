@@ -13,6 +13,7 @@ import requests
 
 import collect_polymarket as c
 import analyze_polymarket as a
+import export_category_top10 as top10
 
 
 def market(identifier="1", **extra):
@@ -161,6 +162,23 @@ class CollectionTests(unittest.TestCase):
 
 
 class AnalysisTests(unittest.TestCase):
+    def test_currency_percent_and_duration_formatting_preserves_numeric_values(self):
+        frame = pd.DataFrame({"dollar_volume": [1000.125], "share": [.25], "mean": [.5]})
+        before = frame.copy()
+        output = io.StringIO()
+        with redirect_stdout(output):
+            a.show(frame)
+        text = output.getvalue()
+        self.assertIn("$1,000.12", text)
+        self.assertIn("25.00%", text)
+        self.assertIn("mean_days", text)
+        pd.testing.assert_frame_equal(frame, before)
+        output = io.StringIO()
+        with redirect_stdout(output):
+            a.show(pd.DataFrame({"2020": [0, .000001, float('nan')]}), percent=True, zero_dash=True)
+        self.assertIn("<0.01%", output.getvalue())
+        self.assertIn("N/A", output.getvalue())
+
     def run_analysis(self, records):
         with tempfile.TemporaryDirectory() as folder:
             folder = Path(folder)
@@ -186,12 +204,39 @@ class AnalysisTests(unittest.TestCase):
         self.assertEqual(march["dollar_volume"].iloc[0], 0)
         self.assertEqual(tables["events"]["markets"].sum(), 4)
         self.assertEqual(len(tables["events"]), 4)
+        self.assertEqual(tables["busiest_days"]["biggest_market_question"].iloc[0], "Question, with\na newline")
 
     def test_duplicates_keep_latest_and_yes_no_case(self):
         tables = self.run_analysis([market(), market(volumeNum=300, outcomes='["YES","NO"]')])
         self.assertEqual(tables["yearly"]["markets"].sum(), 1)
         self.assertEqual(tables["yearly"]["dollar_volume"].sum(), 300)
         self.assertEqual(tables["inferred_resolution"]["inferred_yes_rate"].iloc[0], 1)
+
+
+class CategoryExportTests(unittest.TestCase):
+    def test_top10_reads_full_source_preserves_titles_and_handles_small_categories(self):
+        import csv
+        with tempfile.TemporaryDirectory() as folder:
+            folder = Path(folder)
+            source = folder / "markets.csv"
+            with source.open("w", newline="") as stream:
+                writer = csv.writer(stream)
+                writer.writerow(["category", "title", "volume_usd"])
+                for i in range(15):
+                    writer.writerow(["Sports", f"Question {i}", str(i + 1)])
+                writer.writerow(["Science", 'Question, with "quotes"\nand a newline', "1234.567"])
+                writer.writerow(["Science", "No trading", "0"])
+            with redirect_stdout(io.StringIO()):
+                groups = top10.export(source, folder / "reports" / "top10_by_category")
+            self.assertEqual(len(groups["Sports"]), 10)
+            self.assertEqual(min(row[0] for row in groups["Sports"]), 6)
+            self.assertEqual(len(groups["Science"]), 1)
+            with (folder / "reports/top10_by_category/sports.csv").open(newline="") as stream:
+                rows = list(csv.DictReader(stream))
+            self.assertEqual(rows[0], {"title": "Question 14", "volume_usd": "15"})
+            report = (folder / "reports/top10_by_category.txt").read_text()
+            self.assertIn("$1,234.57", report)
+            self.assertIn('Question, with "quotes"\nand a newline', report)
 
 
 if __name__ == "__main__":

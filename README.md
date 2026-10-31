@@ -127,6 +127,26 @@ produce reports without inventing results or dividing by zero.
 
 ## Validation
 
+The text report displays USD amounts with currency symbols, rates as percentages,
+and durations in days. The underlying CSVs retain numeric values. Section 12
+shows only the 25 highest outlier scores; `outliers.csv` retains the complete list.
+Section 8 also saves `busiest_days.csv` with the full biggest-market question per day.
+Calendar output starts no earlier than 2020, even when using `--years 100`.
+
+To create a separate top-ten list for **every category** using the existing full
+market CSV, without API requests or rerunning the analysis:
+
+```bash
+.venv/bin/python export_category_top10.py
+```
+
+It writes `reports/top10_by_category.txt` and one two-column CSV per category in
+`reports/top10_by_category/` (`title`, `volume_usd`). This is a ranking of reported
+lifetime trading volume, including collected open and closed markets, not a
+ranking of profits or individual bet sizes. It keeps ten candidates per category
+in memory. Use the full `data/polymarket_markets.csv`; the existing outlier report
+cannot establish a complete top ten for every category.
+
 ```bash
 .venv/bin/python -m unittest -v
 ```
