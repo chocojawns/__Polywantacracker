@@ -140,8 +140,12 @@ market CSV, without API requests or rerunning the analysis:
 .venv/bin/python export_category_top10.py
 ```
 
-It writes `reports/top10_by_category.txt` and one two-column CSV per category in
-`reports/top10_by_category/` (`title`, `volume_usd`). This is a ranking of reported
+It writes `reports/top10_by_category.txt` and one CSV per category in
+`reports/top10_by_category/` with `title`, `volume_usd`, `duration_days`,
+`start_date_utc`, and `close_date_utc`. Duration uses the reported start and actual
+close timestamps; open markets and missing/invalid durations stay blank in CSVs
+and display as N/A in text. Scheduled end dates are never used as actual closes.
+This is a ranking of reported
 lifetime trading volume, including collected open and closed markets, not a
 ranking of profits or individual bet sizes. It keeps ten candidates per category
 in memory. Use the full `data/polymarket_markets.csv`; the existing outlier report

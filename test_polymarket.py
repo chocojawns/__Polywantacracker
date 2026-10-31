@@ -221,11 +221,12 @@ class CategoryExportTests(unittest.TestCase):
             source = folder / "markets.csv"
             with source.open("w", newline="") as stream:
                 writer = csv.writer(stream)
-                writer.writerow(["category", "title", "volume_usd"])
+                writer.writerow(["category", "title", "volume_usd", "start_time", "closed_time", "closed"])
                 for i in range(15):
-                    writer.writerow(["Sports", f"Question {i}", str(i + 1)])
-                writer.writerow(["Science", 'Question, with "quotes"\nand a newline', "1234.567"])
-                writer.writerow(["Science", "No trading", "0"])
+                    writer.writerow(["Sports", f"Question {i}", str(i + 1),
+                                     "2026-01-01T00:00:00Z", "2026-01-02T12:00:00Z", "True"])
+                writer.writerow(["Science", 'Question, with "quotes"\nand a newline', "1234.567", "", "", "False"])
+                writer.writerow(["Science", "No trading", "0", "", "", "True"])
             with redirect_stdout(io.StringIO()):
                 groups = top10.export(source, folder / "reports" / "top10_by_category")
             self.assertEqual(len(groups["Sports"]), 10)
@@ -233,10 +234,22 @@ class CategoryExportTests(unittest.TestCase):
             self.assertEqual(len(groups["Science"]), 1)
             with (folder / "reports/top10_by_category/sports.csv").open(newline="") as stream:
                 rows = list(csv.DictReader(stream))
-            self.assertEqual(rows[0], {"title": "Question 14", "volume_usd": "15"})
+            self.assertEqual(rows[0], {"title": "Question 14", "volume_usd": "15", "duration_days": "1.5",
+                                       "start_date_utc": "2026-01-01", "close_date_utc": "2026-01-02"})
             report = (folder / "reports/top10_by_category.txt").read_text()
             self.assertIn("$1,234.57", report)
             self.assertIn('Question, with "quotes"\nand a newline', report)
+            self.assertIn("Duration: 1.500 days", report)
+
+    def test_duration_uses_actual_close_and_utc_dates(self):
+        self.assertEqual(top10.market_dates("2026-01-01T23:00:00-05:00", "2026-01-02T16:00:00Z", "True"),
+                         ("0.5", "2026-01-02", "2026-01-02"))
+        self.assertEqual(top10.market_dates("2026-01-01T00:00:00Z", "2026-01-02T00:00:00Z", "False"),
+                         ("", "2026-01-01", ""))
+        self.assertEqual(top10.market_dates("bad-date", "2026-01-02T00:00:00Z", "True"),
+                         ("", "", "2026-01-02"))
+        self.assertEqual(top10.market_dates("2026-01-03", "2026-01-02", "True"),
+                         ("", "2026-01-03", "2026-01-02"))
 
 
 if __name__ == "__main__":
