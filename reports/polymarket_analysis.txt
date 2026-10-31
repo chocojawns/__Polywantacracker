@@ -1,10 +1,10 @@
-Polymarket analysis; exported at: 2026-10-28T16:45:53.771254+00:00
+Polymarket analysis; exported at: 2026-10-29T02:28:34.689826+00:00
 
 ==========================================================================================
 DATASET OVERVIEW
 ==========================================================================================
 Markets with positive reported dollar volume: 2,558,144
-Closed in the last 100 years: 2,512,707; window 1926-10-29 to 2026-10-29
+Closed in the last 100 years: 2,512,707; window 1926-10-31 to 2026-10-31
 Accepting orders and active: 45,243
 Closed markets without an actual closedTime (excluded from time tables): 194
 API category missing; assigned broad tag or Unknown: 2,553,766
