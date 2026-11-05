@@ -16,7 +16,7 @@ endDate is a scheduled date; it is never used as proof that a market closed or r
 Top-market/event/series tables use all collected dates; time tables use the selected window.
 Current year/month are partial; boundary years may be partial. Growth is descriptive, not like-for-like.
 Display units: currency = USD; rates/shares = percentages; durations = days; z scores = standard deviations.
-Blank/unavailable calculations display as N/A. CSVs retain numeric values for analysis.
+Blank/unavailable calculations display as N/A. Report CSV money fields are formatted as USD; raw collector data stays numeric.
 
 ==========================================================================================
 1. YEARLY TOTALS

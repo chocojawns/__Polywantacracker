@@ -128,7 +128,16 @@ produce reports without inventing results or dividing by zero.
 ## Validation
 
 The text report displays USD amounts with currency symbols, rates as percentages,
-and durations in days. The underlying CSVs retain numeric values. Section 12
+and durations in days. Report CSV dollar-volume fields, average dollar volume,
+rolling dollar averages, and category/year dollar totals display as currency
+strings such as `$1,234.56`, rounded to cents. CSV quoting preserves the commas
+inside one cell. Rates, counts, dates, and durations retain their original units.
+The raw collector CSV in `data/` remains numeric and keeps its original precision.
+For numeric analysis of a formatted report, use
+`report_currency.read_report_csv(path)` instead of a bare `pandas.read_csv(path)`.
+Run `.venv/bin/python report_currency.py` to format already-generated reports;
+repeating it is safe. New analysis and category exports apply this formatting
+automatically. Section 12
 shows only the 25 highest outlier scores; `outliers.csv` retains the complete list.
 Section 8 also saves `busiest_days.csv` with the full biggest-market question per day.
 Calendar output starts no earlier than 2020, even when using `--years 100`.

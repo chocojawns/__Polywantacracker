@@ -7,6 +7,7 @@ from pathlib import Path
 import pandas as pd
 
 from collect_polymarket import FOLDER
+from report_currency import format_usd, write_report_frame
 
 
 def header(text):
@@ -26,7 +27,7 @@ def show(frame, *, money=False, percent=False, zero_dash=False, index=True):
         if zero_dash and value == 0:
             return "-"
         if money or column in money_columns:
-            return f"${value:,.2f}"
+            return format_usd(value)
         if percent or column in percent_columns:
             if 0 < value < 0.0001:
                 return "<0.01%"
@@ -97,7 +98,7 @@ def analyze(df, years, now, out):
     finished["day"] = finished["closed_time"].dt.date
     finished["days_open"] = (finished["closed_time"] - finished["start_time"]).dt.total_seconds() / 86400
     def save(name, frame):
-        frame.to_csv(out / f"{name}.csv")
+        write_report_frame(frame, out / f"{name}.csv")
         return frame
     header("DATASET OVERVIEW")
     print(f"Markets with positive reported dollar volume: {len(df):,}")

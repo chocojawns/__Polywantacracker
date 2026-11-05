@@ -7,6 +7,7 @@ import hashlib
 import heapq
 from pathlib import Path
 import re
+from report_currency import format_usd
 
 
 def market_dates(start_raw, close_raw, closed):
@@ -80,7 +81,7 @@ def export(source, output):
             writer = csv.writer(stream, lineterminator="\n")
             writer.writerow(["title", "volume_usd", "duration_days", "start_date_utc", "close_date_utc"])
             for volume, _, title, start, close, closed in rows:
-                writer.writerow((title, str(volume), *market_dates(start, close, closed)))
+                writer.writerow((title, format_usd(volume), *market_dates(start, close, closed)))
         temp.replace(target)
         text.extend([category.strip() or "Unknown", "-" * 60])
         for volume, _, title, start, close, closed in rows:

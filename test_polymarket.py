@@ -14,6 +14,7 @@ import requests
 import collect_polymarket as c
 import analyze_polymarket as a
 import export_category_top10 as top10
+import report_currency as currency
 
 
 def market(identifier="1", **extra):
@@ -169,7 +170,7 @@ class AnalysisTests(unittest.TestCase):
         with redirect_stdout(output):
             a.show(frame)
         text = output.getvalue()
-        self.assertIn("$1,000.12", text)
+        self.assertIn("$1,000.13", text)
         self.assertIn("25.00%", text)
         self.assertIn("mean_days", text)
         pd.testing.assert_frame_equal(frame, before)
@@ -189,7 +190,7 @@ class AnalysisTests(unittest.TestCase):
             with redirect_stdout(output):
                 a.analyze(df, 5, pd.Timestamp("2025-06-01", tz="UTC"), folder)
             self.assertIn("12. WITHIN-CATEGORY", output.getvalue())
-            return {name.stem: pd.read_csv(name) for name in folder.glob("*.csv")}
+            return {name.stem: currency.read_report_csv(name) for name in folder.glob("*.csv")}
 
     def test_empty_and_no_closed_window_data(self):
         self.run_analysis([])
@@ -213,6 +214,54 @@ class AnalysisTests(unittest.TestCase):
         self.assertEqual(tables["inferred_resolution"]["inferred_yes_rate"].iloc[0], 1)
 
 
+class ReportCurrencyTests(unittest.TestCase):
+    def test_quoted_currency_round_trip_and_idempotence(self):
+        import csv
+        with tempfile.TemporaryDirectory() as folder:
+            path = Path(folder) / "monthly.csv"
+            with path.open("w", newline="") as stream:
+                writer = csv.writer(stream)
+                writer.writerow(["month", "markets", "dollar_volume", "mom_growth", "rolling_6mo_avg"])
+                writer.writerow(["2026-01", "42", "1234567.895", "0.125", "1000"])
+                writer.writerow(["2026-02", "0", "0", "", ""])
+            self.assertTrue(currency.format_file(path))
+            with path.open(newline="") as stream:
+                rows = list(csv.DictReader(stream))
+            self.assertEqual(rows[0], {"month": "2026-01", "markets": "42",
+                                      "dollar_volume": "$1,234,567.90", "mom_growth": "0.125",
+                                      "rolling_6mo_avg": "$1,000.00"})
+            self.assertEqual(rows[1]["dollar_volume"], "$0.00")
+            self.assertEqual(rows[1]["rolling_6mo_avg"], "")
+            before = path.read_bytes()
+            self.assertFalse(currency.format_file(path))
+            self.assertEqual(before, path.read_bytes())
+            numeric = currency.read_report_csv(path)
+            self.assertEqual(numeric["dollar_volume"].iloc[0], 1234567.90)
+            self.assertEqual(numeric["mom_growth"].iloc[0], .125)
+
+    def test_year_columns_only_formatted_in_category_volume_table(self):
+        with tempfile.TemporaryDirectory() as folder:
+            volume = Path(folder) / "category_yearly.csv"
+            shares = Path(folder) / "category_shares.csv"
+            volume.write_text("category,2020,2021\nSports,1234.5,0\n")
+            shares.write_text("category,2020,2021\nSports,0.25,0\n")
+            before = shares.read_bytes()
+            self.assertTrue(currency.format_file(volume))
+            self.assertIn('"$1,234.50"', volume.read_text())
+            self.assertFalse(currency.format_file(shares))
+            self.assertEqual(before, shares.read_bytes())
+
+    def test_invalid_amount_does_not_replace_original(self):
+        with tempfile.TemporaryDirectory() as folder:
+            path = Path(folder) / "events.csv"
+            path.write_text("title,dollar_volume\nFirst,123\nSecond,bad\n")
+            before = path.read_bytes()
+            with self.assertRaises(ValueError):
+                currency.format_file(path)
+            self.assertEqual(before, path.read_bytes())
+            self.assertEqual(list(Path(folder).glob('*.tmp')), [])
+
+
 class CategoryExportTests(unittest.TestCase):
     def test_top10_reads_full_source_preserves_titles_and_handles_small_categories(self):
         import csv
@@ -234,7 +283,7 @@ class CategoryExportTests(unittest.TestCase):
             self.assertEqual(len(groups["Science"]), 1)
             with (folder / "reports/top10_by_category/sports.csv").open(newline="") as stream:
                 rows = list(csv.DictReader(stream))
-            self.assertEqual(rows[0], {"title": "Question 14", "volume_usd": "15", "duration_days": "1.5",
+            self.assertEqual(rows[0], {"title": "Question 14", "volume_usd": "$15.00", "duration_days": "1.5",
                                        "start_date_utc": "2026-01-01", "close_date_utc": "2026-01-02"})
             report = (folder / "reports/top10_by_category.txt").read_text()
             self.assertIn("$1,234.57", report)
